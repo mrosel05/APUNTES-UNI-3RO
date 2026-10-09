@@ -1,0 +1,400 @@
+{
+ "equipo": 31,
+ "ciudades": [
+  "Umbria",
+  "Gandara",
+  "Hontanar",
+  "Cascante",
+  "Jabalera",
+  "Escobal",
+  "Vilanova",
+  "Furquel",
+  "Olmeda",
+  "Ibaneta",
+  "Canduela",
+  "Torbel",
+  "Xarel",
+  "Lastres",
+  "Robledal",
+  "Andrada",
+  "Bracera",
+  "Tebares",
+  "Yebres",
+  "Almenar",
+  "Bellosa",
+  "Orzaya",
+  "Jerica",
+  "Nevarra",
+  "Valcorta",
+  "Alventa",
+  "Delmar",
+  "Quiroga"
+ ],
+ "consulta": {
+  "origen": "Jabalera",
+  "destino": "Alventa"
+ },
+ "velocidad_maxima": 160,
+ "carreteras": [
+  {
+   "a": "Umbria",
+   "b": "Ibaneta",
+   "km": 48,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 48
+  },
+  {
+   "a": "Umbria",
+   "b": "Torbel",
+   "km": 35,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 23
+  },
+  {
+   "a": "Umbria",
+   "b": "Valcorta",
+   "km": 43,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 29
+  },
+  {
+   "a": "Gandara",
+   "b": "Cascante",
+   "km": 42,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 28
+  },
+  {
+   "a": "Gandara",
+   "b": "Robledal",
+   "km": 74,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 49
+  },
+  {
+   "a": "Gandara",
+   "b": "Almenar",
+   "km": 20,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 20
+  },
+  {
+   "a": "Gandara",
+   "b": "Bellosa",
+   "km": 83,
+   "tipo": "autovía",
+   "v": 120,
+   "min": 42
+  },
+  {
+   "a": "Gandara",
+   "b": "Nevarra",
+   "km": 78,
+   "tipo": "autovía",
+   "v": 120,
+   "min": 39
+  },
+  {
+   "a": "Hontanar",
+   "b": "Lastres",
+   "km": 33,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 33
+  },
+  {
+   "a": "Hontanar",
+   "b": "Alventa",
+   "km": 75,
+   "tipo": "autovía",
+   "v": 120,
+   "min": 38
+  },
+  {
+   "a": "Cascante",
+   "b": "Robledal",
+   "km": 80,
+   "tipo": "autovía",
+   "v": 120,
+   "min": 40
+  },
+  {
+   "a": "Jabalera",
+   "b": "Tebares",
+   "km": 108,
+   "tipo": "autovía",
+   "v": 120,
+   "min": 54
+  },
+  {
+   "a": "Escobal",
+   "b": "Vilanova",
+   "km": 29,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 19
+  },
+  {
+   "a": "Escobal",
+   "b": "Ibaneta",
+   "km": 54,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 36
+  },
+  {
+   "a": "Escobal",
+   "b": "Xarel",
+   "km": 57,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 57
+  },
+  {
+   "a": "Vilanova",
+   "b": "Xarel",
+   "km": 37,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 37
+  },
+  {
+   "a": "Furquel",
+   "b": "Canduela",
+   "km": 34,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 34
+  },
+  {
+   "a": "Furquel",
+   "b": "Lastres",
+   "km": 25,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 17
+  },
+  {
+   "a": "Furquel",
+   "b": "Jerica",
+   "km": 72,
+   "tipo": "autovía",
+   "v": 120,
+   "min": 36
+  },
+  {
+   "a": "Olmeda",
+   "b": "Robledal",
+   "km": 58,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 39
+  },
+  {
+   "a": "Olmeda",
+   "b": "Bracera",
+   "km": 50,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 50
+  },
+  {
+   "a": "Olmeda",
+   "b": "Yebres",
+   "km": 42,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 42
+  },
+  {
+   "a": "Ibaneta",
+   "b": "Torbel",
+   "km": 81,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 54
+  },
+  {
+   "a": "Canduela",
+   "b": "Lastres",
+   "km": 62,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 62
+  },
+  {
+   "a": "Canduela",
+   "b": "Jerica",
+   "km": 44,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 44
+  },
+  {
+   "a": "Torbel",
+   "b": "Bracera",
+   "km": 96,
+   "tipo": "autovía",
+   "v": 120,
+   "min": 48
+  },
+  {
+   "a": "Torbel",
+   "b": "Valcorta",
+   "km": 17,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 17
+  },
+  {
+   "a": "Xarel",
+   "b": "Orzaya",
+   "km": 63,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 63
+  },
+  {
+   "a": "Robledal",
+   "b": "Bracera",
+   "km": 71,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 47
+  },
+  {
+   "a": "Robledal",
+   "b": "Almenar",
+   "km": 67,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 45
+  },
+  {
+   "a": "Robledal",
+   "b": "Nevarra",
+   "km": 47,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 31
+  },
+  {
+   "a": "Andrada",
+   "b": "Tebares",
+   "km": 31,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 31
+  },
+  {
+   "a": "Andrada",
+   "b": "Quiroga",
+   "km": 106,
+   "tipo": "autovía",
+   "v": 120,
+   "min": 53
+  },
+  {
+   "a": "Bracera",
+   "b": "Delmar",
+   "km": 110,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 73
+  },
+  {
+   "a": "Yebres",
+   "b": "Almenar",
+   "km": 78,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 52
+  },
+  {
+   "a": "Yebres",
+   "b": "Bellosa",
+   "km": 73,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 49
+  },
+  {
+   "a": "Yebres",
+   "b": "Jerica",
+   "km": 64,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 64
+  },
+  {
+   "a": "Yebres",
+   "b": "Nevarra",
+   "km": 20,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 20
+  },
+  {
+   "a": "Almenar",
+   "b": "Bellosa",
+   "km": 61,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 61
+  },
+  {
+   "a": "Almenar",
+   "b": "Nevarra",
+   "km": 62,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 62
+  },
+  {
+   "a": "Bellosa",
+   "b": "Jerica",
+   "km": 75,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 50
+  },
+  {
+   "a": "Bellosa",
+   "b": "Nevarra",
+   "km": 67,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 67
+  },
+  {
+   "a": "Orzaya",
+   "b": "Quiroga",
+   "km": 38,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 38
+  },
+  {
+   "a": "Jerica",
+   "b": "Nevarra",
+   "km": 71,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 47
+  },
+  {
+   "a": "Hontanar",
+   "b": "Almenar",
+   "km": 196,
+   "tipo": "tren lanzadera",
+   "v": 160,
+   "min": 74
+  }
+ ]
+}

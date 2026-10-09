@@ -1,0 +1,400 @@
+{
+ "equipo": 6,
+ "ciudades": [
+  "Quiroga",
+  "Doriana",
+  "Sarmenia",
+  "Grisel",
+  "Guadela",
+  "Ibaneta",
+  "Lumbrera",
+  "Ilvera",
+  "Xarel",
+  "Duraza",
+  "Almenar",
+  "Halcoria",
+  "Monreal",
+  "Tebares",
+  "Zaraiba",
+  "Delmar",
+  "Yebres",
+  "Canduela",
+  "Alventa",
+  "Elmedio",
+  "Berlanda",
+  "Ribalta",
+  "Bracera",
+  "Valcorta",
+  "Robledal",
+  "Kelmar",
+  "Jerica",
+  "Mirasol"
+ ],
+ "consulta": {
+  "origen": "Tebares",
+  "destino": "Zaraiba"
+ },
+ "velocidad_maxima": 160,
+ "carreteras": [
+  {
+   "a": "Quiroga",
+   "b": "Sarmenia",
+   "km": 55,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 37
+  },
+  {
+   "a": "Quiroga",
+   "b": "Yebres",
+   "km": 10,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 7
+  },
+  {
+   "a": "Doriana",
+   "b": "Guadela",
+   "km": 119,
+   "tipo": "autovía",
+   "v": 120,
+   "min": 60
+  },
+  {
+   "a": "Doriana",
+   "b": "Xarel",
+   "km": 65,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 65
+  },
+  {
+   "a": "Doriana",
+   "b": "Alventa",
+   "km": 29,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 29
+  },
+  {
+   "a": "Sarmenia",
+   "b": "Duraza",
+   "km": 74,
+   "tipo": "autovía",
+   "v": 120,
+   "min": 37
+  },
+  {
+   "a": "Sarmenia",
+   "b": "Yebres",
+   "km": 56,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 37
+  },
+  {
+   "a": "Grisel",
+   "b": "Yebres",
+   "km": 67,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 67
+  },
+  {
+   "a": "Grisel",
+   "b": "Berlanda",
+   "km": 47,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 31
+  },
+  {
+   "a": "Grisel",
+   "b": "Kelmar",
+   "km": 54,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 54
+  },
+  {
+   "a": "Grisel",
+   "b": "Mirasol",
+   "km": 70,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 70
+  },
+  {
+   "a": "Guadela",
+   "b": "Ibaneta",
+   "km": 68,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 68
+  },
+  {
+   "a": "Guadela",
+   "b": "Ilvera",
+   "km": 80,
+   "tipo": "autovía",
+   "v": 120,
+   "min": 40
+  },
+  {
+   "a": "Guadela",
+   "b": "Mirasol",
+   "km": 52,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 35
+  },
+  {
+   "a": "Ibaneta",
+   "b": "Ilvera",
+   "km": 14,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 14
+  },
+  {
+   "a": "Ibaneta",
+   "b": "Monreal",
+   "km": 48,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 48
+  },
+  {
+   "a": "Lumbrera",
+   "b": "Halcoria",
+   "km": 74,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 49
+  },
+  {
+   "a": "Lumbrera",
+   "b": "Monreal",
+   "km": 73,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 49
+  },
+  {
+   "a": "Lumbrera",
+   "b": "Delmar",
+   "km": 50,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 50
+  },
+  {
+   "a": "Lumbrera",
+   "b": "Canduela",
+   "km": 48,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 48
+  },
+  {
+   "a": "Lumbrera",
+   "b": "Kelmar",
+   "km": 75,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 50
+  },
+  {
+   "a": "Ilvera",
+   "b": "Monreal",
+   "km": 50,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 50
+  },
+  {
+   "a": "Ilvera",
+   "b": "Canduela",
+   "km": 69,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 69
+  },
+  {
+   "a": "Ilvera",
+   "b": "Robledal",
+   "km": 50,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 50
+  },
+  {
+   "a": "Xarel",
+   "b": "Alventa",
+   "km": 59,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 59
+  },
+  {
+   "a": "Xarel",
+   "b": "Ribalta",
+   "km": 64,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 64
+  },
+  {
+   "a": "Duraza",
+   "b": "Kelmar",
+   "km": 40,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 40
+  },
+  {
+   "a": "Almenar",
+   "b": "Zaraiba",
+   "km": 73,
+   "tipo": "autovía",
+   "v": 120,
+   "min": 36
+  },
+  {
+   "a": "Almenar",
+   "b": "Valcorta",
+   "km": 72,
+   "tipo": "autovía",
+   "v": 120,
+   "min": 36
+  },
+  {
+   "a": "Halcoria",
+   "b": "Monreal",
+   "km": 42,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 42
+  },
+  {
+   "a": "Halcoria",
+   "b": "Delmar",
+   "km": 31,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 21
+  },
+  {
+   "a": "Monreal",
+   "b": "Delmar",
+   "km": 27,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 18
+  },
+  {
+   "a": "Monreal",
+   "b": "Canduela",
+   "km": 65,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 65
+  },
+  {
+   "a": "Tebares",
+   "b": "Jerica",
+   "km": 58,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 58
+  },
+  {
+   "a": "Delmar",
+   "b": "Canduela",
+   "km": 45,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 30
+  },
+  {
+   "a": "Canduela",
+   "b": "Kelmar",
+   "km": 68,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 45
+  },
+  {
+   "a": "Alventa",
+   "b": "Ribalta",
+   "km": 42,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 42
+  },
+  {
+   "a": "Alventa",
+   "b": "Jerica",
+   "km": 40,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 40
+  },
+  {
+   "a": "Elmedio",
+   "b": "Valcorta",
+   "km": 63,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 63
+  },
+  {
+   "a": "Elmedio",
+   "b": "Robledal",
+   "km": 50,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 50
+  },
+  {
+   "a": "Berlanda",
+   "b": "Mirasol",
+   "km": 26,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 17
+  },
+  {
+   "a": "Ribalta",
+   "b": "Jerica",
+   "km": 64,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 64
+  },
+  {
+   "a": "Bracera",
+   "b": "Valcorta",
+   "km": 50,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 33
+  },
+  {
+   "a": "Valcorta",
+   "b": "Robledal",
+   "km": 73,
+   "tipo": "autovía",
+   "v": 120,
+   "min": 36
+  },
+  {
+   "a": "Doriana",
+   "b": "Monreal",
+   "km": 202,
+   "tipo": "tren lanzadera",
+   "v": 160,
+   "min": 76
+  }
+ ]
+}

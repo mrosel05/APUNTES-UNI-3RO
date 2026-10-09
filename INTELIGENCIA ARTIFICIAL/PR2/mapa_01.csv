@@ -1,0 +1,14 @@
+origen,destino,km,tipo_via,velocidad_kmh,minutos
+Almazán,Bermillo,56,comarcal,60,56
+Almazán,Ciruelos,48,autovía,120,24
+Almazán,Fresneda,48,autovía,120,24
+Bermillo,Espinar,56,autovía,120,28
+Bermillo,Fresneda,33,nacional,90,22
+Ciruelos,Fresneda,52,autovía,120,26
+Ciruelos,Hoznayo,44,autovía,120,22
+Daroca,Espinar,60,nacional,90,40
+Daroca,Gormaz,34,autovía,120,17
+Espinar,Fresneda,34,autovía,120,17
+Espinar,Gormaz,28,autovía,120,14
+Espinar,Hoznayo,30,nacional,90,20
+Fresneda,Hoznayo,28,autovía,120,14

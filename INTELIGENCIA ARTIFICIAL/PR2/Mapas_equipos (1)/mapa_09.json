@@ -1,0 +1,400 @@
+{
+ "equipo": 9,
+ "ciudades": [
+  "Bellosa",
+  "Escobal",
+  "Vilanova",
+  "Fraguera",
+  "Quintaval",
+  "Umbria",
+  "Olmeda",
+  "Noviella",
+  "Xarel",
+  "Peraleda",
+  "Lastres",
+  "Furquel",
+  "Kelmar",
+  "Lorbaga",
+  "Nevarra",
+  "Jabalera",
+  "Delmar",
+  "Cordelia",
+  "Duraza",
+  "Yebres",
+  "Cascante",
+  "Ibaneta",
+  "Grisel",
+  "Ribalta",
+  "Bracera",
+  "Monreal",
+  "Hontanar",
+  "Halcoria"
+ ],
+ "consulta": {
+  "origen": "Bellosa",
+  "destino": "Peraleda"
+ },
+ "velocidad_maxima": 160,
+ "carreteras": [
+  {
+   "a": "Bellosa",
+   "b": "Kelmar",
+   "km": 48,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 48
+  },
+  {
+   "a": "Escobal",
+   "b": "Fraguera",
+   "km": 43,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 29
+  },
+  {
+   "a": "Escobal",
+   "b": "Yebres",
+   "km": 42,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 42
+  },
+  {
+   "a": "Vilanova",
+   "b": "Cascante",
+   "km": 23,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 15
+  },
+  {
+   "a": "Quintaval",
+   "b": "Olmeda",
+   "km": 27,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 18
+  },
+  {
+   "a": "Quintaval",
+   "b": "Jabalera",
+   "km": 60,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 60
+  },
+  {
+   "a": "Quintaval",
+   "b": "Ibaneta",
+   "km": 60,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 60
+  },
+  {
+   "a": "Umbria",
+   "b": "Noviella",
+   "km": 43,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 43
+  },
+  {
+   "a": "Umbria",
+   "b": "Lastres",
+   "km": 52,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 52
+  },
+  {
+   "a": "Umbria",
+   "b": "Furquel",
+   "km": 64,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 43
+  },
+  {
+   "a": "Umbria",
+   "b": "Cordelia",
+   "km": 45,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 45
+  },
+  {
+   "a": "Umbria",
+   "b": "Ibaneta",
+   "km": 51,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 34
+  },
+  {
+   "a": "Olmeda",
+   "b": "Noviella",
+   "km": 74,
+   "tipo": "autovía",
+   "v": 120,
+   "min": 37
+  },
+  {
+   "a": "Olmeda",
+   "b": "Ibaneta",
+   "km": 82,
+   "tipo": "autovía",
+   "v": 120,
+   "min": 41
+  },
+  {
+   "a": "Olmeda",
+   "b": "Grisel",
+   "km": 96,
+   "tipo": "autovía",
+   "v": 120,
+   "min": 48
+  },
+  {
+   "a": "Noviella",
+   "b": "Lastres",
+   "km": 50,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 33
+  },
+  {
+   "a": "Noviella",
+   "b": "Furquel",
+   "km": 56,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 37
+  },
+  {
+   "a": "Noviella",
+   "b": "Delmar",
+   "km": 39,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 26
+  },
+  {
+   "a": "Noviella",
+   "b": "Cordelia",
+   "km": 74,
+   "tipo": "autovía",
+   "v": 120,
+   "min": 37
+  },
+  {
+   "a": "Noviella",
+   "b": "Ibaneta",
+   "km": 76,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 51
+  },
+  {
+   "a": "Xarel",
+   "b": "Cascante",
+   "km": 64,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 43
+  },
+  {
+   "a": "Peraleda",
+   "b": "Monreal",
+   "km": 105,
+   "tipo": "autovía",
+   "v": 120,
+   "min": 52
+  },
+  {
+   "a": "Lastres",
+   "b": "Furquel",
+   "km": 16,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 16
+  },
+  {
+   "a": "Lastres",
+   "b": "Nevarra",
+   "km": 77,
+   "tipo": "autovía",
+   "v": 120,
+   "min": 38
+  },
+  {
+   "a": "Furquel",
+   "b": "Nevarra",
+   "km": 55,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 55
+  },
+  {
+   "a": "Furquel",
+   "b": "Delmar",
+   "km": 31,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 31
+  },
+  {
+   "a": "Furquel",
+   "b": "Cordelia",
+   "km": 58,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 58
+  },
+  {
+   "a": "Kelmar",
+   "b": "Jabalera",
+   "km": 83,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 55
+  },
+  {
+   "a": "Kelmar",
+   "b": "Hontanar",
+   "km": 58,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 39
+  },
+  {
+   "a": "Lorbaga",
+   "b": "Grisel",
+   "km": 14,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 14
+  },
+  {
+   "a": "Lorbaga",
+   "b": "Ribalta",
+   "km": 72,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 48
+  },
+  {
+   "a": "Nevarra",
+   "b": "Delmar",
+   "km": 58,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 58
+  },
+  {
+   "a": "Nevarra",
+   "b": "Duraza",
+   "km": 52,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 52
+  },
+  {
+   "a": "Nevarra",
+   "b": "Bracera",
+   "km": 53,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 35
+  },
+  {
+   "a": "Nevarra",
+   "b": "Halcoria",
+   "km": 31,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 31
+  },
+  {
+   "a": "Jabalera",
+   "b": "Ibaneta",
+   "km": 48,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 48
+  },
+  {
+   "a": "Delmar",
+   "b": "Duraza",
+   "km": 79,
+   "tipo": "autovía",
+   "v": 120,
+   "min": 40
+  },
+  {
+   "a": "Delmar",
+   "b": "Bracera",
+   "km": 64,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 64
+  },
+  {
+   "a": "Cordelia",
+   "b": "Cascante",
+   "km": 77,
+   "tipo": "autovía",
+   "v": 120,
+   "min": 38
+  },
+  {
+   "a": "Duraza",
+   "b": "Bracera",
+   "km": 15,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 15
+  },
+  {
+   "a": "Yebres",
+   "b": "Hontanar",
+   "km": 91,
+   "tipo": "autovía",
+   "v": 120,
+   "min": 46
+  },
+  {
+   "a": "Grisel",
+   "b": "Ribalta",
+   "km": 56,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 56
+  },
+  {
+   "a": "Bracera",
+   "b": "Monreal",
+   "km": 80,
+   "tipo": "autovía",
+   "v": 120,
+   "min": 40
+  },
+  {
+   "a": "Bracera",
+   "b": "Halcoria",
+   "km": 78,
+   "tipo": "autovía",
+   "v": 120,
+   "min": 39
+  },
+  {
+   "a": "Escobal",
+   "b": "Lastres",
+   "km": 164,
+   "tipo": "tren lanzadera",
+   "v": 160,
+   "min": 61
+  }
+ ]
+}

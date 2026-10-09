@@ -1,0 +1,400 @@
+{
+ "equipo": 18,
+ "ciudades": [
+  "Lorbaga",
+  "Delmar",
+  "Berlanda",
+  "Fontanar",
+  "Furquel",
+  "Izaro",
+  "Valcorta",
+  "Cascante",
+  "Halcoria",
+  "Tebares",
+  "Pedroso",
+  "Jarandilla",
+  "Lastres",
+  "Orzaya",
+  "Fraguera",
+  "Guadela",
+  "Andrada",
+  "Cordelia",
+  "Quiroga",
+  "Xarel",
+  "Robledal",
+  "Quintaval",
+  "Alventa",
+  "Zaraiba",
+  "Zufre",
+  "Gandara",
+  "Wendaria",
+  "Bellosa"
+ ],
+ "consulta": {
+  "origen": "Tebares",
+  "destino": "Cordelia"
+ },
+ "velocidad_maxima": 160,
+ "carreteras": [
+  {
+   "a": "Lorbaga",
+   "b": "Pedroso",
+   "km": 61,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 61
+  },
+  {
+   "a": "Lorbaga",
+   "b": "Orzaya",
+   "km": 29,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 29
+  },
+  {
+   "a": "Lorbaga",
+   "b": "Guadela",
+   "km": 37,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 25
+  },
+  {
+   "a": "Lorbaga",
+   "b": "Robledal",
+   "km": 16,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 11
+  },
+  {
+   "a": "Delmar",
+   "b": "Pedroso",
+   "km": 44,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 29
+  },
+  {
+   "a": "Delmar",
+   "b": "Robledal",
+   "km": 72,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 48
+  },
+  {
+   "a": "Berlanda",
+   "b": "Valcorta",
+   "km": 62,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 62
+  },
+  {
+   "a": "Berlanda",
+   "b": "Gandara",
+   "km": 59,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 39
+  },
+  {
+   "a": "Fontanar",
+   "b": "Furquel",
+   "km": 15,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 10
+  },
+  {
+   "a": "Fontanar",
+   "b": "Jarandilla",
+   "km": 65,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 65
+  },
+  {
+   "a": "Fontanar",
+   "b": "Andrada",
+   "km": 61,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 41
+  },
+  {
+   "a": "Furquel",
+   "b": "Fraguera",
+   "km": 57,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 57
+  },
+  {
+   "a": "Furquel",
+   "b": "Andrada",
+   "km": 44,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 44
+  },
+  {
+   "a": "Furquel",
+   "b": "Alventa",
+   "km": 53,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 53
+  },
+  {
+   "a": "Furquel",
+   "b": "Zaraiba",
+   "km": 81,
+   "tipo": "autovía",
+   "v": 120,
+   "min": 40
+  },
+  {
+   "a": "Izaro",
+   "b": "Fraguera",
+   "km": 38,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 38
+  },
+  {
+   "a": "Izaro",
+   "b": "Andrada",
+   "km": 48,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 48
+  },
+  {
+   "a": "Izaro",
+   "b": "Quintaval",
+   "km": 69,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 69
+  },
+  {
+   "a": "Izaro",
+   "b": "Wendaria",
+   "km": 75,
+   "tipo": "autovía",
+   "v": 120,
+   "min": 38
+  },
+  {
+   "a": "Cascante",
+   "b": "Lastres",
+   "km": 33,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 33
+  },
+  {
+   "a": "Cascante",
+   "b": "Xarel",
+   "km": 52,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 52
+  },
+  {
+   "a": "Cascante",
+   "b": "Zufre",
+   "km": 61,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 41
+  },
+  {
+   "a": "Halcoria",
+   "b": "Zufre",
+   "km": 35,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 23
+  },
+  {
+   "a": "Halcoria",
+   "b": "Bellosa",
+   "km": 35,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 35
+  },
+  {
+   "a": "Tebares",
+   "b": "Alventa",
+   "km": 56,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 56
+  },
+  {
+   "a": "Tebares",
+   "b": "Zaraiba",
+   "km": 54,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 54
+  },
+  {
+   "a": "Pedroso",
+   "b": "Robledal",
+   "km": 48,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 48
+  },
+  {
+   "a": "Jarandilla",
+   "b": "Guadela",
+   "km": 58,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 39
+  },
+  {
+   "a": "Jarandilla",
+   "b": "Quiroga",
+   "km": 73,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 49
+  },
+  {
+   "a": "Lastres",
+   "b": "Gandara",
+   "km": 72,
+   "tipo": "autovía",
+   "v": 120,
+   "min": 36
+  },
+  {
+   "a": "Orzaya",
+   "b": "Robledal",
+   "km": 35,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 23
+  },
+  {
+   "a": "Fraguera",
+   "b": "Andrada",
+   "km": 8,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 8
+  },
+  {
+   "a": "Fraguera",
+   "b": "Quintaval",
+   "km": 70,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 70
+  },
+  {
+   "a": "Fraguera",
+   "b": "Wendaria",
+   "km": 72,
+   "tipo": "autovía",
+   "v": 120,
+   "min": 36
+  },
+  {
+   "a": "Guadela",
+   "b": "Robledal",
+   "km": 47,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 31
+  },
+  {
+   "a": "Andrada",
+   "b": "Quintaval",
+   "km": 78,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 52
+  },
+  {
+   "a": "Andrada",
+   "b": "Wendaria",
+   "km": 70,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 70
+  },
+  {
+   "a": "Cordelia",
+   "b": "Zufre",
+   "km": 133,
+   "tipo": "autovía",
+   "v": 120,
+   "min": 66
+  },
+  {
+   "a": "Xarel",
+   "b": "Zufre",
+   "km": 88,
+   "tipo": "autovía",
+   "v": 120,
+   "min": 44
+  },
+  {
+   "a": "Xarel",
+   "b": "Wendaria",
+   "km": 69,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 69
+  },
+  {
+   "a": "Quintaval",
+   "b": "Gandara",
+   "km": 70,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 47
+  },
+  {
+   "a": "Quintaval",
+   "b": "Wendaria",
+   "km": 10,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 10
+  },
+  {
+   "a": "Alventa",
+   "b": "Zaraiba",
+   "km": 35,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 35
+  },
+  {
+   "a": "Gandara",
+   "b": "Wendaria",
+   "km": 81,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 54
+  },
+  {
+   "a": "Cascante",
+   "b": "Robledal",
+   "km": 162,
+   "tipo": "tren lanzadera",
+   "v": 160,
+   "min": 61
+  }
+ ]
+}

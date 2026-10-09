@@ -1,0 +1,400 @@
+{
+ "equipo": 15,
+ "ciudades": [
+  "Quintaval",
+  "Escobal",
+  "Peraleda",
+  "Delmar",
+  "Umbria",
+  "Bellosa",
+  "Sarmenia",
+  "Ibaneta",
+  "Almenar",
+  "Gandara",
+  "Noviella",
+  "Lastres",
+  "Alventa",
+  "Sotoval",
+  "Espinel",
+  "Grisel",
+  "Lorbaga",
+  "Wendaria",
+  "Robledal",
+  "Torbel",
+  "Tebares",
+  "Fraguera",
+  "Quiroga",
+  "Guadela",
+  "Hervas",
+  "Canduela",
+  "Olmeda",
+  "Cascante"
+ ],
+ "consulta": {
+  "origen": "Fraguera",
+  "destino": "Quiroga"
+ },
+ "velocidad_maxima": 160,
+ "carreteras": [
+  {
+   "a": "Quintaval",
+   "b": "Ibaneta",
+   "km": 80,
+   "tipo": "autovía",
+   "v": 120,
+   "min": 40
+  },
+  {
+   "a": "Quintaval",
+   "b": "Sotoval",
+   "km": 27,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 27
+  },
+  {
+   "a": "Quintaval",
+   "b": "Robledal",
+   "km": 60,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 60
+  },
+  {
+   "a": "Escobal",
+   "b": "Peraleda",
+   "km": 89,
+   "tipo": "autovía",
+   "v": 120,
+   "min": 44
+  },
+  {
+   "a": "Escobal",
+   "b": "Delmar",
+   "km": 46,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 31
+  },
+  {
+   "a": "Escobal",
+   "b": "Sarmenia",
+   "km": 45,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 30
+  },
+  {
+   "a": "Escobal",
+   "b": "Grisel",
+   "km": 56,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 56
+  },
+  {
+   "a": "Escobal",
+   "b": "Tebares",
+   "km": 87,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 58
+  },
+  {
+   "a": "Peraleda",
+   "b": "Quiroga",
+   "km": 109,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 73
+  },
+  {
+   "a": "Delmar",
+   "b": "Sarmenia",
+   "km": 8,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 5
+  },
+  {
+   "a": "Delmar",
+   "b": "Grisel",
+   "km": 102,
+   "tipo": "autovía",
+   "v": 120,
+   "min": 51
+  },
+  {
+   "a": "Umbria",
+   "b": "Espinel",
+   "km": 66,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 66
+  },
+  {
+   "a": "Umbria",
+   "b": "Olmeda",
+   "km": 40,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 40
+  },
+  {
+   "a": "Bellosa",
+   "b": "Lastres",
+   "km": 24,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 16
+  },
+  {
+   "a": "Bellosa",
+   "b": "Robledal",
+   "km": 76,
+   "tipo": "autovía",
+   "v": 120,
+   "min": 38
+  },
+  {
+   "a": "Sarmenia",
+   "b": "Grisel",
+   "km": 98,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 65
+  },
+  {
+   "a": "Ibaneta",
+   "b": "Sotoval",
+   "km": 76,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 51
+  },
+  {
+   "a": "Ibaneta",
+   "b": "Cascante",
+   "km": 82,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 55
+  },
+  {
+   "a": "Almenar",
+   "b": "Noviella",
+   "km": 41,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 41
+  },
+  {
+   "a": "Almenar",
+   "b": "Canduela",
+   "km": 58,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 58
+  },
+  {
+   "a": "Gandara",
+   "b": "Wendaria",
+   "km": 94,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 63
+  },
+  {
+   "a": "Gandara",
+   "b": "Robledal",
+   "km": 86,
+   "tipo": "autovía",
+   "v": 120,
+   "min": 43
+  },
+  {
+   "a": "Gandara",
+   "b": "Torbel",
+   "km": 40,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 27
+  },
+  {
+   "a": "Gandara",
+   "b": "Guadela",
+   "km": 28,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 28
+  },
+  {
+   "a": "Noviella",
+   "b": "Lorbaga",
+   "km": 10,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 10
+  },
+  {
+   "a": "Noviella",
+   "b": "Canduela",
+   "km": 79,
+   "tipo": "autovía",
+   "v": 120,
+   "min": 40
+  },
+  {
+   "a": "Lastres",
+   "b": "Alventa",
+   "km": 69,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 69
+  },
+  {
+   "a": "Lastres",
+   "b": "Robledal",
+   "km": 87,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 58
+  },
+  {
+   "a": "Lastres",
+   "b": "Canduela",
+   "km": 91,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 61
+  },
+  {
+   "a": "Alventa",
+   "b": "Cascante",
+   "km": 78,
+   "tipo": "autovía",
+   "v": 120,
+   "min": 39
+  },
+  {
+   "a": "Sotoval",
+   "b": "Robledal",
+   "km": 53,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 53
+  },
+  {
+   "a": "Sotoval",
+   "b": "Cascante",
+   "km": 65,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 65
+  },
+  {
+   "a": "Espinel",
+   "b": "Wendaria",
+   "km": 69,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 46
+  },
+  {
+   "a": "Espinel",
+   "b": "Tebares",
+   "km": 74,
+   "tipo": "autovía",
+   "v": 120,
+   "min": 37
+  },
+  {
+   "a": "Espinel",
+   "b": "Olmeda",
+   "km": 30,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 30
+  },
+  {
+   "a": "Grisel",
+   "b": "Tebares",
+   "km": 72,
+   "tipo": "autovía",
+   "v": 120,
+   "min": 36
+  },
+  {
+   "a": "Wendaria",
+   "b": "Torbel",
+   "km": 62,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 41
+  },
+  {
+   "a": "Wendaria",
+   "b": "Hervas",
+   "km": 93,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 62
+  },
+  {
+   "a": "Wendaria",
+   "b": "Olmeda",
+   "km": 97,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 65
+  },
+  {
+   "a": "Robledal",
+   "b": "Guadela",
+   "km": 84,
+   "tipo": "autovía",
+   "v": 120,
+   "min": 42
+  },
+  {
+   "a": "Torbel",
+   "b": "Guadela",
+   "km": 66,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 66
+  },
+  {
+   "a": "Torbel",
+   "b": "Hervas",
+   "km": 53,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 53
+  },
+  {
+   "a": "Tebares",
+   "b": "Guadela",
+   "km": 85,
+   "tipo": "autovía",
+   "v": 120,
+   "min": 42
+  },
+  {
+   "a": "Fraguera",
+   "b": "Canduela",
+   "km": 92,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 61
+  },
+  {
+   "a": "Peraleda",
+   "b": "Gandara",
+   "km": 211,
+   "tipo": "tren lanzadera",
+   "v": 160,
+   "min": 79
+  }
+ ]
+}

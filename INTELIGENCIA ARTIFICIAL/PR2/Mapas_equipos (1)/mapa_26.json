@@ -1,0 +1,400 @@
+{
+ "equipo": 26,
+ "ciudades": [
+  "Doriana",
+  "Fontanar",
+  "Xarel",
+  "Lorbaga",
+  "Sotoval",
+  "Umbria",
+  "Robledal",
+  "Duraza",
+  "Peraleda",
+  "Jerica",
+  "Tebares",
+  "Noviella",
+  "Ribalta",
+  "Hontanar",
+  "Almenar",
+  "Quiroga",
+  "Torbel",
+  "Mirasol",
+  "Ilvera",
+  "Alventa",
+  "Jarandilla",
+  "Valcorta",
+  "Wendaria",
+  "Olmeda",
+  "Kelmar",
+  "Vilanova",
+  "Izaro",
+  "Halcoria"
+ ],
+ "consulta": {
+  "origen": "Mirasol",
+  "destino": "Izaro"
+ },
+ "velocidad_maxima": 160,
+ "carreteras": [
+  {
+   "a": "Doriana",
+   "b": "Sotoval",
+   "km": 77,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 51
+  },
+  {
+   "a": "Doriana",
+   "b": "Torbel",
+   "km": 58,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 39
+  },
+  {
+   "a": "Doriana",
+   "b": "Alventa",
+   "km": 86,
+   "tipo": "autovía",
+   "v": 120,
+   "min": 43
+  },
+  {
+   "a": "Doriana",
+   "b": "Valcorta",
+   "km": 104,
+   "tipo": "autovía",
+   "v": 120,
+   "min": 52
+  },
+  {
+   "a": "Fontanar",
+   "b": "Xarel",
+   "km": 84,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 56
+  },
+  {
+   "a": "Fontanar",
+   "b": "Jerica",
+   "km": 73,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 49
+  },
+  {
+   "a": "Fontanar",
+   "b": "Wendaria",
+   "km": 69,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 69
+  },
+  {
+   "a": "Fontanar",
+   "b": "Vilanova",
+   "km": 80,
+   "tipo": "autovía",
+   "v": 120,
+   "min": 40
+  },
+  {
+   "a": "Xarel",
+   "b": "Jerica",
+   "km": 63,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 63
+  },
+  {
+   "a": "Xarel",
+   "b": "Hontanar",
+   "km": 50,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 50
+  },
+  {
+   "a": "Xarel",
+   "b": "Wendaria",
+   "km": 39,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 39
+  },
+  {
+   "a": "Xarel",
+   "b": "Vilanova",
+   "km": 8,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 8
+  },
+  {
+   "a": "Lorbaga",
+   "b": "Robledal",
+   "km": 32,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 32
+  },
+  {
+   "a": "Lorbaga",
+   "b": "Jerica",
+   "km": 103,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 69
+  },
+  {
+   "a": "Sotoval",
+   "b": "Robledal",
+   "km": 93,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 62
+  },
+  {
+   "a": "Sotoval",
+   "b": "Alventa",
+   "km": 96,
+   "tipo": "autovía",
+   "v": 120,
+   "min": 48
+  },
+  {
+   "a": "Umbria",
+   "b": "Noviella",
+   "km": 79,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 53
+  },
+  {
+   "a": "Umbria",
+   "b": "Torbel",
+   "km": 95,
+   "tipo": "autovía",
+   "v": 120,
+   "min": 48
+  },
+  {
+   "a": "Umbria",
+   "b": "Jarandilla",
+   "km": 101,
+   "tipo": "autovía",
+   "v": 120,
+   "min": 50
+  },
+  {
+   "a": "Robledal",
+   "b": "Jerica",
+   "km": 89,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 59
+  },
+  {
+   "a": "Duraza",
+   "b": "Quiroga",
+   "km": 63,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 42
+  },
+  {
+   "a": "Duraza",
+   "b": "Mirasol",
+   "km": 48,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 32
+  },
+  {
+   "a": "Duraza",
+   "b": "Olmeda",
+   "km": 10,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 10
+  },
+  {
+   "a": "Peraleda",
+   "b": "Quiroga",
+   "km": 49,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 49
+  },
+  {
+   "a": "Peraleda",
+   "b": "Kelmar",
+   "km": 51,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 51
+  },
+  {
+   "a": "Jerica",
+   "b": "Hontanar",
+   "km": 65,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 65
+  },
+  {
+   "a": "Jerica",
+   "b": "Wendaria",
+   "km": 30,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 20
+  },
+  {
+   "a": "Jerica",
+   "b": "Vilanova",
+   "km": 60,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 60
+  },
+  {
+   "a": "Tebares",
+   "b": "Noviella",
+   "km": 51,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 34
+  },
+  {
+   "a": "Tebares",
+   "b": "Ribalta",
+   "km": 43,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 29
+  },
+  {
+   "a": "Noviella",
+   "b": "Ribalta",
+   "km": 34,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 34
+  },
+  {
+   "a": "Noviella",
+   "b": "Torbel",
+   "km": 87,
+   "tipo": "autovía",
+   "v": 120,
+   "min": 44
+  },
+  {
+   "a": "Hontanar",
+   "b": "Wendaria",
+   "km": 69,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 69
+  },
+  {
+   "a": "Almenar",
+   "b": "Quiroga",
+   "km": 56,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 37
+  },
+  {
+   "a": "Almenar",
+   "b": "Alventa",
+   "km": 28,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 28
+  },
+  {
+   "a": "Almenar",
+   "b": "Halcoria",
+   "km": 73,
+   "tipo": "autovía",
+   "v": 120,
+   "min": 36
+  },
+  {
+   "a": "Quiroga",
+   "b": "Olmeda",
+   "km": 57,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 57
+  },
+  {
+   "a": "Quiroga",
+   "b": "Kelmar",
+   "km": 77,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 51
+  },
+  {
+   "a": "Mirasol",
+   "b": "Olmeda",
+   "km": 53,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 35
+  },
+  {
+   "a": "Ilvera",
+   "b": "Jarandilla",
+   "km": 35,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 35
+  },
+  {
+   "a": "Ilvera",
+   "b": "Izaro",
+   "km": 89,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 59
+  },
+  {
+   "a": "Alventa",
+   "b": "Halcoria",
+   "km": 67,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 45
+  },
+  {
+   "a": "Wendaria",
+   "b": "Vilanova",
+   "km": 35,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 35
+  },
+  {
+   "a": "Olmeda",
+   "b": "Kelmar",
+   "km": 96,
+   "tipo": "autovía",
+   "v": 120,
+   "min": 48
+  },
+  {
+   "a": "Ilvera",
+   "b": "Vilanova",
+   "km": 220,
+   "tipo": "tren lanzadera",
+   "v": 160,
+   "min": 82
+  }
+ ]
+}

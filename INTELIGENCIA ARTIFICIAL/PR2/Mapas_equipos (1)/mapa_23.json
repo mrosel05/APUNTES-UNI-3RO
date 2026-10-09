@@ -1,0 +1,400 @@
+{
+ "equipo": 23,
+ "ciudades": [
+  "Sotoval",
+  "Yebres",
+  "Duraza",
+  "Andrada",
+  "Valcorta",
+  "Delmar",
+  "Gandara",
+  "Furquel",
+  "Bracera",
+  "Lorbaga",
+  "Umbria",
+  "Monreal",
+  "Nevarra",
+  "Cordelia",
+  "Escobal",
+  "Yerbal",
+  "Kelmar",
+  "Izaro",
+  "Vilanova",
+  "Peraleda",
+  "Lastres",
+  "Almenar",
+  "Fontanar",
+  "Wendaria",
+  "Jerica",
+  "Grisel",
+  "Olmeda",
+  "Zufre"
+ ],
+ "consulta": {
+  "origen": "Bracera",
+  "destino": "Lorbaga"
+ },
+ "velocidad_maxima": 160,
+ "carreteras": [
+  {
+   "a": "Sotoval",
+   "b": "Duraza",
+   "km": 49,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 49
+  },
+  {
+   "a": "Sotoval",
+   "b": "Gandara",
+   "km": 48,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 32
+  },
+  {
+   "a": "Sotoval",
+   "b": "Monreal",
+   "km": 42,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 28
+  },
+  {
+   "a": "Sotoval",
+   "b": "Nevarra",
+   "km": 33,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 22
+  },
+  {
+   "a": "Sotoval",
+   "b": "Wendaria",
+   "km": 38,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 38
+  },
+  {
+   "a": "Sotoval",
+   "b": "Olmeda",
+   "km": 50,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 50
+  },
+  {
+   "a": "Yebres",
+   "b": "Vilanova",
+   "km": 57,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 38
+  },
+  {
+   "a": "Yebres",
+   "b": "Zufre",
+   "km": 54,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 54
+  },
+  {
+   "a": "Duraza",
+   "b": "Gandara",
+   "km": 43,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 43
+  },
+  {
+   "a": "Duraza",
+   "b": "Monreal",
+   "km": 40,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 27
+  },
+  {
+   "a": "Duraza",
+   "b": "Yerbal",
+   "km": 83,
+   "tipo": "autovía",
+   "v": 120,
+   "min": 42
+  },
+  {
+   "a": "Andrada",
+   "b": "Cordelia",
+   "km": 22,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 15
+  },
+  {
+   "a": "Andrada",
+   "b": "Lastres",
+   "km": 71,
+   "tipo": "autovía",
+   "v": 120,
+   "min": 36
+  },
+  {
+   "a": "Andrada",
+   "b": "Fontanar",
+   "km": 72,
+   "tipo": "autovía",
+   "v": 120,
+   "min": 36
+  },
+  {
+   "a": "Valcorta",
+   "b": "Monreal",
+   "km": 68,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 68
+  },
+  {
+   "a": "Delmar",
+   "b": "Furquel",
+   "km": 63,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 63
+  },
+  {
+   "a": "Delmar",
+   "b": "Umbria",
+   "km": 79,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 53
+  },
+  {
+   "a": "Gandara",
+   "b": "Monreal",
+   "km": 64,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 64
+  },
+  {
+   "a": "Gandara",
+   "b": "Yerbal",
+   "km": 47,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 47
+  },
+  {
+   "a": "Furquel",
+   "b": "Lorbaga",
+   "km": 99,
+   "tipo": "autovía",
+   "v": 120,
+   "min": 50
+  },
+  {
+   "a": "Furquel",
+   "b": "Umbria",
+   "km": 58,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 39
+  },
+  {
+   "a": "Bracera",
+   "b": "Izaro",
+   "km": 104,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 69
+  },
+  {
+   "a": "Umbria",
+   "b": "Escobal",
+   "km": 59,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 59
+  },
+  {
+   "a": "Umbria",
+   "b": "Kelmar",
+   "km": 75,
+   "tipo": "autovía",
+   "v": 120,
+   "min": 38
+  },
+  {
+   "a": "Monreal",
+   "b": "Kelmar",
+   "km": 67,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 67
+  },
+  {
+   "a": "Nevarra",
+   "b": "Kelmar",
+   "km": 72,
+   "tipo": "autovía",
+   "v": 120,
+   "min": 36
+  },
+  {
+   "a": "Nevarra",
+   "b": "Wendaria",
+   "km": 13,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 13
+  },
+  {
+   "a": "Nevarra",
+   "b": "Grisel",
+   "km": 55,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 55
+  },
+  {
+   "a": "Cordelia",
+   "b": "Yerbal",
+   "km": 57,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 57
+  },
+  {
+   "a": "Cordelia",
+   "b": "Lastres",
+   "km": 57,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 57
+  },
+  {
+   "a": "Escobal",
+   "b": "Kelmar",
+   "km": 22,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 15
+  },
+  {
+   "a": "Escobal",
+   "b": "Grisel",
+   "km": 45,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 45
+  },
+  {
+   "a": "Yerbal",
+   "b": "Lastres",
+   "km": 13,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 13
+  },
+  {
+   "a": "Kelmar",
+   "b": "Grisel",
+   "km": 31,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 31
+  },
+  {
+   "a": "Izaro",
+   "b": "Vilanova",
+   "km": 61,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 61
+  },
+  {
+   "a": "Izaro",
+   "b": "Almenar",
+   "km": 87,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 58
+  },
+  {
+   "a": "Vilanova",
+   "b": "Zufre",
+   "km": 58,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 39
+  },
+  {
+   "a": "Peraleda",
+   "b": "Fontanar",
+   "km": 38,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 38
+  },
+  {
+   "a": "Peraleda",
+   "b": "Jerica",
+   "km": 53,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 35
+  },
+  {
+   "a": "Peraleda",
+   "b": "Zufre",
+   "km": 63,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 63
+  },
+  {
+   "a": "Fontanar",
+   "b": "Jerica",
+   "km": 29,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 29
+  },
+  {
+   "a": "Fontanar",
+   "b": "Zufre",
+   "km": 69,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 46
+  },
+  {
+   "a": "Wendaria",
+   "b": "Grisel",
+   "km": 69,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 69
+  },
+  {
+   "a": "Wendaria",
+   "b": "Olmeda",
+   "km": 24,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 16
+  },
+  {
+   "a": "Nevarra",
+   "b": "Vilanova",
+   "km": 169,
+   "tipo": "tren lanzadera",
+   "v": 160,
+   "min": 63
+  }
+ ]
+}

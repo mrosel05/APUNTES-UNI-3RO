@@ -1,0 +1,400 @@
+{
+ "equipo": 3,
+ "ciudades": [
+  "Delmar",
+  "Guadela",
+  "Berlanda",
+  "Lumbrera",
+  "Grisel",
+  "Robledal",
+  "Alventa",
+  "Ilvera",
+  "Jerica",
+  "Bellosa",
+  "Cordelia",
+  "Fontanar",
+  "Escobal",
+  "Ribalta",
+  "Noviella",
+  "Jarandilla",
+  "Kelmar",
+  "Xarel",
+  "Quintaval",
+  "Monreal",
+  "Zaraiba",
+  "Zufre",
+  "Pedroso",
+  "Nevarra",
+  "Hontanar",
+  "Izaro",
+  "Almenar",
+  "Vilanova"
+ ],
+ "consulta": {
+  "origen": "Xarel",
+  "destino": "Nevarra"
+ },
+ "velocidad_maxima": 160,
+ "carreteras": [
+  {
+   "a": "Delmar",
+   "b": "Bellosa",
+   "km": 58,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 39
+  },
+  {
+   "a": "Delmar",
+   "b": "Zaraiba",
+   "km": 55,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 55
+  },
+  {
+   "a": "Delmar",
+   "b": "Vilanova",
+   "km": 8,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 8
+  },
+  {
+   "a": "Guadela",
+   "b": "Robledal",
+   "km": 128,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 85
+  },
+  {
+   "a": "Guadela",
+   "b": "Bellosa",
+   "km": 49,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 49
+  },
+  {
+   "a": "Guadela",
+   "b": "Escobal",
+   "km": 65,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 43
+  },
+  {
+   "a": "Guadela",
+   "b": "Pedroso",
+   "km": 72,
+   "tipo": "autovía",
+   "v": 120,
+   "min": 36
+  },
+  {
+   "a": "Berlanda",
+   "b": "Cordelia",
+   "km": 47,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 47
+  },
+  {
+   "a": "Berlanda",
+   "b": "Noviella",
+   "km": 24,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 24
+  },
+  {
+   "a": "Berlanda",
+   "b": "Kelmar",
+   "km": 30,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 20
+  },
+  {
+   "a": "Berlanda",
+   "b": "Almenar",
+   "km": 51,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 51
+  },
+  {
+   "a": "Lumbrera",
+   "b": "Bellosa",
+   "km": 57,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 57
+  },
+  {
+   "a": "Lumbrera",
+   "b": "Pedroso",
+   "km": 32,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 21
+  },
+  {
+   "a": "Lumbrera",
+   "b": "Izaro",
+   "km": 39,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 39
+  },
+  {
+   "a": "Grisel",
+   "b": "Cordelia",
+   "km": 60,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 60
+  },
+  {
+   "a": "Grisel",
+   "b": "Jarandilla",
+   "km": 36,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 24
+  },
+  {
+   "a": "Grisel",
+   "b": "Kelmar",
+   "km": 70,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 70
+  },
+  {
+   "a": "Grisel",
+   "b": "Monreal",
+   "km": 51,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 51
+  },
+  {
+   "a": "Grisel",
+   "b": "Zaraiba",
+   "km": 75,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 50
+  },
+  {
+   "a": "Alventa",
+   "b": "Ilvera",
+   "km": 76,
+   "tipo": "autovía",
+   "v": 120,
+   "min": 38
+  },
+  {
+   "a": "Alventa",
+   "b": "Fontanar",
+   "km": 56,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 56
+  },
+  {
+   "a": "Alventa",
+   "b": "Quintaval",
+   "km": 30,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 30
+  },
+  {
+   "a": "Alventa",
+   "b": "Hontanar",
+   "km": 91,
+   "tipo": "autovía",
+   "v": 120,
+   "min": 46
+  },
+  {
+   "a": "Jerica",
+   "b": "Zufre",
+   "km": 79,
+   "tipo": "autovía",
+   "v": 120,
+   "min": 40
+  },
+  {
+   "a": "Bellosa",
+   "b": "Vilanova",
+   "km": 70,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 70
+  },
+  {
+   "a": "Cordelia",
+   "b": "Ribalta",
+   "km": 56,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 37
+  },
+  {
+   "a": "Cordelia",
+   "b": "Noviella",
+   "km": 68,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 68
+  },
+  {
+   "a": "Cordelia",
+   "b": "Jarandilla",
+   "km": 85,
+   "tipo": "autovía",
+   "v": 120,
+   "min": 42
+  },
+  {
+   "a": "Cordelia",
+   "b": "Kelmar",
+   "km": 31,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 21
+  },
+  {
+   "a": "Cordelia",
+   "b": "Monreal",
+   "km": 46,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 31
+  },
+  {
+   "a": "Cordelia",
+   "b": "Almenar",
+   "km": 58,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 58
+  },
+  {
+   "a": "Fontanar",
+   "b": "Quintaval",
+   "km": 22,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 15
+  },
+  {
+   "a": "Fontanar",
+   "b": "Zaraiba",
+   "km": 89,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 59
+  },
+  {
+   "a": "Escobal",
+   "b": "Pedroso",
+   "km": 34,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 34
+  },
+  {
+   "a": "Ribalta",
+   "b": "Kelmar",
+   "km": 71,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 47
+  },
+  {
+   "a": "Ribalta",
+   "b": "Xarel",
+   "km": 46,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 46
+  },
+  {
+   "a": "Noviella",
+   "b": "Kelmar",
+   "km": 50,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 50
+  },
+  {
+   "a": "Noviella",
+   "b": "Almenar",
+   "km": 82,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 55
+  },
+  {
+   "a": "Jarandilla",
+   "b": "Monreal",
+   "km": 35,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 35
+  },
+  {
+   "a": "Kelmar",
+   "b": "Almenar",
+   "km": 33,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 22
+  },
+  {
+   "a": "Zaraiba",
+   "b": "Vilanova",
+   "km": 53,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 53
+  },
+  {
+   "a": "Zufre",
+   "b": "Hontanar",
+   "km": 84,
+   "tipo": "autovía",
+   "v": 120,
+   "min": 42
+  },
+  {
+   "a": "Pedroso",
+   "b": "Izaro",
+   "km": 62,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 41
+  },
+  {
+   "a": "Nevarra",
+   "b": "Izaro",
+   "km": 94,
+   "tipo": "autovía",
+   "v": 120,
+   "min": 47
+  },
+  {
+   "a": "Ilvera",
+   "b": "Izaro",
+   "km": 203,
+   "tipo": "tren lanzadera",
+   "v": 160,
+   "min": 76
+  }
+ ]
+}

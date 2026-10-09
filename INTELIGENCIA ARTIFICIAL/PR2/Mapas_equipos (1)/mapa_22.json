@@ -1,0 +1,400 @@
+{
+ "equipo": 22,
+ "ciudades": [
+  "Grisel",
+  "Almenar",
+  "Yebres",
+  "Gandara",
+  "Pedroso",
+  "Valcorta",
+  "Hontanar",
+  "Duraza",
+  "Fontanar",
+  "Andrada",
+  "Orzaya",
+  "Cascante",
+  "Torbel",
+  "Zufre",
+  "Xarel",
+  "Fraguera",
+  "Sotoval",
+  "Quiroga",
+  "Noviella",
+  "Canduela",
+  "Vilanova",
+  "Doriana",
+  "Espinel",
+  "Bellosa",
+  "Ribalta",
+  "Olmeda",
+  "Ilvera",
+  "Sarmenia"
+ ],
+ "consulta": {
+  "origen": "Almenar",
+  "destino": "Ribalta"
+ },
+ "velocidad_maxima": 160,
+ "carreteras": [
+  {
+   "a": "Grisel",
+   "b": "Almenar",
+   "km": 43,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 43
+  },
+  {
+   "a": "Grisel",
+   "b": "Gandara",
+   "km": 41,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 27
+  },
+  {
+   "a": "Almenar",
+   "b": "Gandara",
+   "km": 61,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 61
+  },
+  {
+   "a": "Yebres",
+   "b": "Hontanar",
+   "km": 66,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 44
+  },
+  {
+   "a": "Yebres",
+   "b": "Xarel",
+   "km": 50,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 33
+  },
+  {
+   "a": "Gandara",
+   "b": "Torbel",
+   "km": 71,
+   "tipo": "autovía",
+   "v": 120,
+   "min": 36
+  },
+  {
+   "a": "Gandara",
+   "b": "Quiroga",
+   "km": 78,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 52
+  },
+  {
+   "a": "Gandara",
+   "b": "Vilanova",
+   "km": 8,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 5
+  },
+  {
+   "a": "Pedroso",
+   "b": "Espinel",
+   "km": 47,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 47
+  },
+  {
+   "a": "Pedroso",
+   "b": "Bellosa",
+   "km": 104,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 69
+  },
+  {
+   "a": "Valcorta",
+   "b": "Sotoval",
+   "km": 53,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 53
+  },
+  {
+   "a": "Valcorta",
+   "b": "Canduela",
+   "km": 38,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 25
+  },
+  {
+   "a": "Valcorta",
+   "b": "Doriana",
+   "km": 34,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 34
+  },
+  {
+   "a": "Hontanar",
+   "b": "Duraza",
+   "km": 32,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 32
+  },
+  {
+   "a": "Duraza",
+   "b": "Orzaya",
+   "km": 46,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 46
+  },
+  {
+   "a": "Fontanar",
+   "b": "Fraguera",
+   "km": 108,
+   "tipo": "autovía",
+   "v": 120,
+   "min": 54
+  },
+  {
+   "a": "Andrada",
+   "b": "Zufre",
+   "km": 66,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 66
+  },
+  {
+   "a": "Andrada",
+   "b": "Noviella",
+   "km": 47,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 47
+  },
+  {
+   "a": "Andrada",
+   "b": "Sarmenia",
+   "km": 8,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 5
+  },
+  {
+   "a": "Orzaya",
+   "b": "Sotoval",
+   "km": 43,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 43
+  },
+  {
+   "a": "Orzaya",
+   "b": "Canduela",
+   "km": 76,
+   "tipo": "autovía",
+   "v": 120,
+   "min": 38
+  },
+  {
+   "a": "Cascante",
+   "b": "Fraguera",
+   "km": 30,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 30
+  },
+  {
+   "a": "Cascante",
+   "b": "Sotoval",
+   "km": 68,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 68
+  },
+  {
+   "a": "Cascante",
+   "b": "Doriana",
+   "km": 69,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 46
+  },
+  {
+   "a": "Torbel",
+   "b": "Vilanova",
+   "km": 66,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 44
+  },
+  {
+   "a": "Torbel",
+   "b": "Espinel",
+   "km": 25,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 17
+  },
+  {
+   "a": "Zufre",
+   "b": "Noviella",
+   "km": 65,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 43
+  },
+  {
+   "a": "Zufre",
+   "b": "Sarmenia",
+   "km": 86,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 57
+  },
+  {
+   "a": "Xarel",
+   "b": "Canduela",
+   "km": 46,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 31
+  },
+  {
+   "a": "Xarel",
+   "b": "Olmeda",
+   "km": 79,
+   "tipo": "autovía",
+   "v": 120,
+   "min": 40
+  },
+  {
+   "a": "Xarel",
+   "b": "Ilvera",
+   "km": 60,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 60
+  },
+  {
+   "a": "Fraguera",
+   "b": "Doriana",
+   "km": 48,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 32
+  },
+  {
+   "a": "Sotoval",
+   "b": "Canduela",
+   "km": 61,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 61
+  },
+  {
+   "a": "Sotoval",
+   "b": "Doriana",
+   "km": 65,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 43
+  },
+  {
+   "a": "Quiroga",
+   "b": "Vilanova",
+   "km": 82,
+   "tipo": "autovía",
+   "v": 120,
+   "min": 41
+  },
+  {
+   "a": "Noviella",
+   "b": "Ribalta",
+   "km": 73,
+   "tipo": "autovía",
+   "v": 120,
+   "min": 36
+  },
+  {
+   "a": "Noviella",
+   "b": "Ilvera",
+   "km": 78,
+   "tipo": "autovía",
+   "v": 120,
+   "min": 39
+  },
+  {
+   "a": "Noviella",
+   "b": "Sarmenia",
+   "km": 40,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 40
+  },
+  {
+   "a": "Canduela",
+   "b": "Doriana",
+   "km": 75,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 50
+  },
+  {
+   "a": "Vilanova",
+   "b": "Espinel",
+   "km": 75,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 50
+  },
+  {
+   "a": "Doriana",
+   "b": "Bellosa",
+   "km": 68,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 68
+  },
+  {
+   "a": "Olmeda",
+   "b": "Ilvera",
+   "km": 44,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 44
+  },
+  {
+   "a": "Olmeda",
+   "b": "Sarmenia",
+   "km": 70,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 70
+  },
+  {
+   "a": "Ilvera",
+   "b": "Sarmenia",
+   "km": 35,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 35
+  },
+  {
+   "a": "Andrada",
+   "b": "Fraguera",
+   "km": 188,
+   "tipo": "tren lanzadera",
+   "v": 160,
+   "min": 70
+  }
+ ]
+}

@@ -1,0 +1,400 @@
+{
+ "equipo": 32,
+ "ciudades": [
+  "Bellosa",
+  "Gandara",
+  "Doriana",
+  "Sotoval",
+  "Mirasol",
+  "Monreal",
+  "Escobal",
+  "Umbria",
+  "Jarandilla",
+  "Fraguera",
+  "Vilanova",
+  "Ibaneta",
+  "Bracera",
+  "Ilvera",
+  "Noviella",
+  "Jerica",
+  "Ribalta",
+  "Lorbaga",
+  "Urgela",
+  "Lastres",
+  "Espinel",
+  "Canduela",
+  "Elmedio",
+  "Grisel",
+  "Yerbal",
+  "Torbel",
+  "Orzaya",
+  "Quiroga"
+ ],
+ "consulta": {
+  "origen": "Jarandilla",
+  "destino": "Orzaya"
+ },
+ "velocidad_maxima": 160,
+ "carreteras": [
+  {
+   "a": "Bellosa",
+   "b": "Gandara",
+   "km": 51,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 51
+  },
+  {
+   "a": "Bellosa",
+   "b": "Jarandilla",
+   "km": 62,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 41
+  },
+  {
+   "a": "Gandara",
+   "b": "Mirasol",
+   "km": 82,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 55
+  },
+  {
+   "a": "Gandara",
+   "b": "Fraguera",
+   "km": 66,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 44
+  },
+  {
+   "a": "Doriana",
+   "b": "Umbria",
+   "km": 52,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 52
+  },
+  {
+   "a": "Doriana",
+   "b": "Vilanova",
+   "km": 100,
+   "tipo": "autovía",
+   "v": 120,
+   "min": 50
+  },
+  {
+   "a": "Doriana",
+   "b": "Bracera",
+   "km": 49,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 49
+  },
+  {
+   "a": "Doriana",
+   "b": "Urgela",
+   "km": 62,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 62
+  },
+  {
+   "a": "Doriana",
+   "b": "Grisel",
+   "km": 66,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 66
+  },
+  {
+   "a": "Sotoval",
+   "b": "Ilvera",
+   "km": 25,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 17
+  },
+  {
+   "a": "Sotoval",
+   "b": "Lastres",
+   "km": 86,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 57
+  },
+  {
+   "a": "Sotoval",
+   "b": "Yerbal",
+   "km": 11,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 11
+  },
+  {
+   "a": "Mirasol",
+   "b": "Fraguera",
+   "km": 82,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 55
+  },
+  {
+   "a": "Mirasol",
+   "b": "Urgela",
+   "km": 85,
+   "tipo": "autovía",
+   "v": 120,
+   "min": 42
+  },
+  {
+   "a": "Mirasol",
+   "b": "Canduela",
+   "km": 49,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 49
+  },
+  {
+   "a": "Monreal",
+   "b": "Vilanova",
+   "km": 22,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 15
+  },
+  {
+   "a": "Monreal",
+   "b": "Ibaneta",
+   "km": 109,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 73
+  },
+  {
+   "a": "Monreal",
+   "b": "Orzaya",
+   "km": 153,
+   "tipo": "autovía",
+   "v": 120,
+   "min": 76
+  },
+  {
+   "a": "Escobal",
+   "b": "Noviella",
+   "km": 41,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 41
+  },
+  {
+   "a": "Escobal",
+   "b": "Canduela",
+   "km": 75,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 50
+  },
+  {
+   "a": "Umbria",
+   "b": "Bracera",
+   "km": 8,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 5
+  },
+  {
+   "a": "Umbria",
+   "b": "Urgela",
+   "km": 21,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 21
+  },
+  {
+   "a": "Umbria",
+   "b": "Lastres",
+   "km": 88,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 59
+  },
+  {
+   "a": "Jarandilla",
+   "b": "Elmedio",
+   "km": 64,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 64
+  },
+  {
+   "a": "Fraguera",
+   "b": "Canduela",
+   "km": 56,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 56
+  },
+  {
+   "a": "Bracera",
+   "b": "Urgela",
+   "km": 19,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 19
+  },
+  {
+   "a": "Bracera",
+   "b": "Lastres",
+   "km": 90,
+   "tipo": "autovía",
+   "v": 120,
+   "min": 45
+  },
+  {
+   "a": "Ilvera",
+   "b": "Grisel",
+   "km": 34,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 34
+  },
+  {
+   "a": "Ilvera",
+   "b": "Yerbal",
+   "km": 30,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 20
+  },
+  {
+   "a": "Noviella",
+   "b": "Espinel",
+   "km": 67,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 67
+  },
+  {
+   "a": "Jerica",
+   "b": "Ribalta",
+   "km": 38,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 38
+  },
+  {
+   "a": "Jerica",
+   "b": "Lorbaga",
+   "km": 58,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 58
+  },
+  {
+   "a": "Jerica",
+   "b": "Lastres",
+   "km": 62,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 62
+  },
+  {
+   "a": "Jerica",
+   "b": "Torbel",
+   "km": 49,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 49
+  },
+  {
+   "a": "Jerica",
+   "b": "Quiroga",
+   "km": 15,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 15
+  },
+  {
+   "a": "Ribalta",
+   "b": "Lastres",
+   "km": 78,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 52
+  },
+  {
+   "a": "Ribalta",
+   "b": "Elmedio",
+   "km": 88,
+   "tipo": "autovía",
+   "v": 120,
+   "min": 44
+  },
+  {
+   "a": "Ribalta",
+   "b": "Torbel",
+   "km": 25,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 17
+  },
+  {
+   "a": "Lorbaga",
+   "b": "Elmedio",
+   "km": 10,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 7
+  },
+  {
+   "a": "Lorbaga",
+   "b": "Quiroga",
+   "km": 39,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 26
+  },
+  {
+   "a": "Lastres",
+   "b": "Grisel",
+   "km": 48,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 48
+  },
+  {
+   "a": "Lastres",
+   "b": "Torbel",
+   "km": 75,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 50
+  },
+  {
+   "a": "Espinel",
+   "b": "Canduela",
+   "km": 54,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 54
+  },
+  {
+   "a": "Grisel",
+   "b": "Yerbal",
+   "km": 51,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 51
+  },
+  {
+   "a": "Doriana",
+   "b": "Canduela",
+   "km": 151,
+   "tipo": "tren lanzadera",
+   "v": 160,
+   "min": 57
+  }
+ ]
+}

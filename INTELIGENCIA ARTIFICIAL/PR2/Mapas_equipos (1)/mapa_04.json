@@ -1,0 +1,400 @@
+{
+ "equipo": 4,
+ "ciudades": [
+  "Cordelia",
+  "Monreal",
+  "Yebres",
+  "Peraleda",
+  "Ilvera",
+  "Ibaneta",
+  "Torbel",
+  "Vilanova",
+  "Pedroso",
+  "Orzaya",
+  "Xarel",
+  "Cascante",
+  "Furquel",
+  "Hervas",
+  "Kelmar",
+  "Espinel",
+  "Andrada",
+  "Jarandilla",
+  "Almenar",
+  "Hontanar",
+  "Lastres",
+  "Alventa",
+  "Urgela",
+  "Escobal",
+  "Fontanar",
+  "Jabalera",
+  "Zufre",
+  "Yerbal"
+ ],
+ "consulta": {
+  "origen": "Furquel",
+  "destino": "Yerbal"
+ },
+ "velocidad_maxima": 160,
+ "carreteras": [
+  {
+   "a": "Cordelia",
+   "b": "Yebres",
+   "km": 53,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 53
+  },
+  {
+   "a": "Cordelia",
+   "b": "Ibaneta",
+   "km": 35,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 23
+  },
+  {
+   "a": "Cordelia",
+   "b": "Cascante",
+   "km": 77,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 51
+  },
+  {
+   "a": "Cordelia",
+   "b": "Jarandilla",
+   "km": 24,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 16
+  },
+  {
+   "a": "Monreal",
+   "b": "Hervas",
+   "km": 75,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 50
+  },
+  {
+   "a": "Monreal",
+   "b": "Almenar",
+   "km": 92,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 61
+  },
+  {
+   "a": "Yebres",
+   "b": "Ibaneta",
+   "km": 77,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 51
+  },
+  {
+   "a": "Yebres",
+   "b": "Furquel",
+   "km": 55,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 55
+  },
+  {
+   "a": "Peraleda",
+   "b": "Ilvera",
+   "km": 67,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 67
+  },
+  {
+   "a": "Peraleda",
+   "b": "Cascante",
+   "km": 43,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 43
+  },
+  {
+   "a": "Peraleda",
+   "b": "Andrada",
+   "km": 40,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 27
+  },
+  {
+   "a": "Ilvera",
+   "b": "Orzaya",
+   "km": 83,
+   "tipo": "autovía",
+   "v": 120,
+   "min": 42
+  },
+  {
+   "a": "Ilvera",
+   "b": "Cascante",
+   "km": 71,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 47
+  },
+  {
+   "a": "Ilvera",
+   "b": "Andrada",
+   "km": 73,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 49
+  },
+  {
+   "a": "Ibaneta",
+   "b": "Cascante",
+   "km": 47,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 47
+  },
+  {
+   "a": "Ibaneta",
+   "b": "Jarandilla",
+   "km": 33,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 33
+  },
+  {
+   "a": "Torbel",
+   "b": "Andrada",
+   "km": 81,
+   "tipo": "autovía",
+   "v": 120,
+   "min": 40
+  },
+  {
+   "a": "Torbel",
+   "b": "Escobal",
+   "km": 29,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 29
+  },
+  {
+   "a": "Vilanova",
+   "b": "Orzaya",
+   "km": 67,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 67
+  },
+  {
+   "a": "Vilanova",
+   "b": "Hervas",
+   "km": 62,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 62
+  },
+  {
+   "a": "Pedroso",
+   "b": "Xarel",
+   "km": 33,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 33
+  },
+  {
+   "a": "Pedroso",
+   "b": "Lastres",
+   "km": 19,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 19
+  },
+  {
+   "a": "Pedroso",
+   "b": "Alventa",
+   "km": 81,
+   "tipo": "autovía",
+   "v": 120,
+   "min": 40
+  },
+  {
+   "a": "Pedroso",
+   "b": "Urgela",
+   "km": 15,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 10
+  },
+  {
+   "a": "Pedroso",
+   "b": "Zufre",
+   "km": 76,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 51
+  },
+  {
+   "a": "Orzaya",
+   "b": "Fontanar",
+   "km": 82,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 55
+  },
+  {
+   "a": "Xarel",
+   "b": "Espinel",
+   "km": 97,
+   "tipo": "autovía",
+   "v": 120,
+   "min": 48
+  },
+  {
+   "a": "Xarel",
+   "b": "Lastres",
+   "km": 17,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 17
+  },
+  {
+   "a": "Xarel",
+   "b": "Alventa",
+   "km": 64,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 64
+  },
+  {
+   "a": "Xarel",
+   "b": "Urgela",
+   "km": 29,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 29
+  },
+  {
+   "a": "Xarel",
+   "b": "Zufre",
+   "km": 51,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 34
+  },
+  {
+   "a": "Cascante",
+   "b": "Andrada",
+   "km": 77,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 51
+  },
+  {
+   "a": "Furquel",
+   "b": "Jarandilla",
+   "km": 87,
+   "tipo": "autovía",
+   "v": 120,
+   "min": 44
+  },
+  {
+   "a": "Hervas",
+   "b": "Kelmar",
+   "km": 90,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 60
+  },
+  {
+   "a": "Hervas",
+   "b": "Almenar",
+   "km": 8,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 5
+  },
+  {
+   "a": "Kelmar",
+   "b": "Almenar",
+   "km": 85,
+   "tipo": "autovía",
+   "v": 120,
+   "min": 42
+  },
+  {
+   "a": "Kelmar",
+   "b": "Hontanar",
+   "km": 55,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 37
+  },
+  {
+   "a": "Hontanar",
+   "b": "Yerbal",
+   "km": 17,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 11
+  },
+  {
+   "a": "Lastres",
+   "b": "Alventa",
+   "km": 77,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 51
+  },
+  {
+   "a": "Lastres",
+   "b": "Zufre",
+   "km": 59,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 39
+  },
+  {
+   "a": "Alventa",
+   "b": "Zufre",
+   "km": 12,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 8
+  },
+  {
+   "a": "Urgela",
+   "b": "Zufre",
+   "km": 51,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 51
+  },
+  {
+   "a": "Fontanar",
+   "b": "Jabalera",
+   "km": 79,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 53
+  },
+  {
+   "a": "Fontanar",
+   "b": "Zufre",
+   "km": 72,
+   "tipo": "autovía",
+   "v": 120,
+   "min": 36
+  },
+  {
+   "a": "Kelmar",
+   "b": "Urgela",
+   "km": 218,
+   "tipo": "tren lanzadera",
+   "v": 160,
+   "min": 82
+  }
+ ]
+}

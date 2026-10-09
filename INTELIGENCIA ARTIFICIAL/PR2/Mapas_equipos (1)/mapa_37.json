@@ -1,0 +1,400 @@
+{
+ "equipo": 37,
+ "ciudades": [
+  "Duraza",
+  "Monreal",
+  "Vilanova",
+  "Furquel",
+  "Orzaya",
+  "Lorbaga",
+  "Lumbrera",
+  "Andrada",
+  "Berlanda",
+  "Doriana",
+  "Halcoria",
+  "Sotoval",
+  "Ibaneta",
+  "Cordelia",
+  "Robledal",
+  "Mirasol",
+  "Urgela",
+  "Hervas",
+  "Bellosa",
+  "Almenar",
+  "Nevarra",
+  "Quintaval",
+  "Xarel",
+  "Peraleda",
+  "Delmar",
+  "Jarandilla",
+  "Wendaria",
+  "Hontanar"
+ ],
+ "consulta": {
+  "origen": "Almenar",
+  "destino": "Nevarra"
+ },
+ "velocidad_maxima": 160,
+ "carreteras": [
+  {
+   "a": "Duraza",
+   "b": "Lorbaga",
+   "km": 49,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 49
+  },
+  {
+   "a": "Duraza",
+   "b": "Doriana",
+   "km": 56,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 56
+  },
+  {
+   "a": "Duraza",
+   "b": "Cordelia",
+   "km": 87,
+   "tipo": "autovía",
+   "v": 120,
+   "min": 44
+  },
+  {
+   "a": "Duraza",
+   "b": "Robledal",
+   "km": 82,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 55
+  },
+  {
+   "a": "Duraza",
+   "b": "Bellosa",
+   "km": 73,
+   "tipo": "autovía",
+   "v": 120,
+   "min": 36
+  },
+  {
+   "a": "Monreal",
+   "b": "Cordelia",
+   "km": 25,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 17
+  },
+  {
+   "a": "Monreal",
+   "b": "Wendaria",
+   "km": 78,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 52
+  },
+  {
+   "a": "Vilanova",
+   "b": "Hervas",
+   "km": 83,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 55
+  },
+  {
+   "a": "Vilanova",
+   "b": "Hontanar",
+   "km": 87,
+   "tipo": "autovía",
+   "v": 120,
+   "min": 44
+  },
+  {
+   "a": "Furquel",
+   "b": "Lumbrera",
+   "km": 66,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 44
+  },
+  {
+   "a": "Furquel",
+   "b": "Berlanda",
+   "km": 14,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 9
+  },
+  {
+   "a": "Furquel",
+   "b": "Halcoria",
+   "km": 56,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 56
+  },
+  {
+   "a": "Furquel",
+   "b": "Robledal",
+   "km": 93,
+   "tipo": "autovía",
+   "v": 120,
+   "min": 46
+  },
+  {
+   "a": "Furquel",
+   "b": "Urgela",
+   "km": 61,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 61
+  },
+  {
+   "a": "Furquel",
+   "b": "Hervas",
+   "km": 83,
+   "tipo": "autovía",
+   "v": 120,
+   "min": 42
+  },
+  {
+   "a": "Orzaya",
+   "b": "Urgela",
+   "km": 100,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 67
+  },
+  {
+   "a": "Orzaya",
+   "b": "Almenar",
+   "km": 54,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 54
+  },
+  {
+   "a": "Orzaya",
+   "b": "Quintaval",
+   "km": 17,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 11
+  },
+  {
+   "a": "Lorbaga",
+   "b": "Andrada",
+   "km": 47,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 47
+  },
+  {
+   "a": "Lorbaga",
+   "b": "Doriana",
+   "km": 47,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 47
+  },
+  {
+   "a": "Lorbaga",
+   "b": "Bellosa",
+   "km": 48,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 32
+  },
+  {
+   "a": "Lumbrera",
+   "b": "Berlanda",
+   "km": 79,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 53
+  },
+  {
+   "a": "Lumbrera",
+   "b": "Ibaneta",
+   "km": 47,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 47
+  },
+  {
+   "a": "Lumbrera",
+   "b": "Urgela",
+   "km": 62,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 41
+  },
+  {
+   "a": "Lumbrera",
+   "b": "Delmar",
+   "km": 24,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 16
+  },
+  {
+   "a": "Andrada",
+   "b": "Doriana",
+   "km": 8,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 5
+  },
+  {
+   "a": "Andrada",
+   "b": "Nevarra",
+   "km": 85,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 57
+  },
+  {
+   "a": "Berlanda",
+   "b": "Halcoria",
+   "km": 61,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 61
+  },
+  {
+   "a": "Berlanda",
+   "b": "Robledal",
+   "km": 72,
+   "tipo": "autovía",
+   "v": 120,
+   "min": 36
+  },
+  {
+   "a": "Berlanda",
+   "b": "Hervas",
+   "km": 85,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 57
+  },
+  {
+   "a": "Doriana",
+   "b": "Nevarra",
+   "km": 84,
+   "tipo": "autovía",
+   "v": 120,
+   "min": 42
+  },
+  {
+   "a": "Halcoria",
+   "b": "Hervas",
+   "km": 52,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 52
+  },
+  {
+   "a": "Sotoval",
+   "b": "Peraleda",
+   "km": 38,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 25
+  },
+  {
+   "a": "Ibaneta",
+   "b": "Peraleda",
+   "km": 77,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 51
+  },
+  {
+   "a": "Cordelia",
+   "b": "Robledal",
+   "km": 75,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 50
+  },
+  {
+   "a": "Cordelia",
+   "b": "Wendaria",
+   "km": 76,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 51
+  },
+  {
+   "a": "Robledal",
+   "b": "Wendaria",
+   "km": 54,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 36
+  },
+  {
+   "a": "Mirasol",
+   "b": "Jarandilla",
+   "km": 30,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 30
+  },
+  {
+   "a": "Mirasol",
+   "b": "Hontanar",
+   "km": 64,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 43
+  },
+  {
+   "a": "Urgela",
+   "b": "Delmar",
+   "km": 81,
+   "tipo": "autovía",
+   "v": 120,
+   "min": 40
+  },
+  {
+   "a": "Urgela",
+   "b": "Wendaria",
+   "km": 86,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 57
+  },
+  {
+   "a": "Almenar",
+   "b": "Quintaval",
+   "km": 54,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 54
+  },
+  {
+   "a": "Xarel",
+   "b": "Delmar",
+   "km": 31,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 31
+  },
+  {
+   "a": "Jarandilla",
+   "b": "Hontanar",
+   "km": 35,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 35
+  },
+  {
+   "a": "Doriana",
+   "b": "Mirasol",
+   "km": 211,
+   "tipo": "tren lanzadera",
+   "v": 160,
+   "min": 79
+  }
+ ]
+}

@@ -1,0 +1,400 @@
+{
+ "equipo": 24,
+ "ciudades": [
+  "Hervas",
+  "Guadela",
+  "Jabalera",
+  "Escobal",
+  "Pedroso",
+  "Yerbal",
+  "Hontanar",
+  "Jerica",
+  "Lorbaga",
+  "Xarel",
+  "Canduela",
+  "Olmeda",
+  "Zaraiba",
+  "Delmar",
+  "Grisel",
+  "Fraguera",
+  "Vilanova",
+  "Zufre",
+  "Monreal",
+  "Cordelia",
+  "Sotoval",
+  "Wendaria",
+  "Quiroga",
+  "Elmedio",
+  "Noviella",
+  "Orzaya",
+  "Ilvera",
+  "Mirasol"
+ ],
+ "consulta": {
+  "origen": "Xarel",
+  "destino": "Mirasol"
+ },
+ "velocidad_maxima": 160,
+ "carreteras": [
+  {
+   "a": "Hervas",
+   "b": "Jerica",
+   "km": 84,
+   "tipo": "autovía",
+   "v": 120,
+   "min": 42
+  },
+  {
+   "a": "Hervas",
+   "b": "Monreal",
+   "km": 42,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 28
+  },
+  {
+   "a": "Guadela",
+   "b": "Pedroso",
+   "km": 45,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 45
+  },
+  {
+   "a": "Guadela",
+   "b": "Lorbaga",
+   "km": 53,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 53
+  },
+  {
+   "a": "Guadela",
+   "b": "Xarel",
+   "km": 28,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 28
+  },
+  {
+   "a": "Guadela",
+   "b": "Noviella",
+   "km": 64,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 64
+  },
+  {
+   "a": "Guadela",
+   "b": "Ilvera",
+   "km": 28,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 19
+  },
+  {
+   "a": "Jabalera",
+   "b": "Zaraiba",
+   "km": 77,
+   "tipo": "autovía",
+   "v": 120,
+   "min": 38
+  },
+  {
+   "a": "Jabalera",
+   "b": "Cordelia",
+   "km": 95,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 63
+  },
+  {
+   "a": "Escobal",
+   "b": "Grisel",
+   "km": 23,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 15
+  },
+  {
+   "a": "Pedroso",
+   "b": "Yerbal",
+   "km": 37,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 25
+  },
+  {
+   "a": "Pedroso",
+   "b": "Xarel",
+   "km": 63,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 63
+  },
+  {
+   "a": "Pedroso",
+   "b": "Elmedio",
+   "km": 77,
+   "tipo": "autovía",
+   "v": 120,
+   "min": 38
+  },
+  {
+   "a": "Pedroso",
+   "b": "Noviella",
+   "km": 25,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 17
+  },
+  {
+   "a": "Pedroso",
+   "b": "Ilvera",
+   "km": 28,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 28
+  },
+  {
+   "a": "Yerbal",
+   "b": "Lorbaga",
+   "km": 18,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 18
+  },
+  {
+   "a": "Yerbal",
+   "b": "Xarel",
+   "km": 65,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 65
+  },
+  {
+   "a": "Yerbal",
+   "b": "Noviella",
+   "km": 50,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 50
+  },
+  {
+   "a": "Yerbal",
+   "b": "Orzaya",
+   "km": 77,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 51
+  },
+  {
+   "a": "Yerbal",
+   "b": "Ilvera",
+   "km": 31,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 21
+  },
+  {
+   "a": "Hontanar",
+   "b": "Zaraiba",
+   "km": 54,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 54
+  },
+  {
+   "a": "Hontanar",
+   "b": "Vilanova",
+   "km": 64,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 64
+  },
+  {
+   "a": "Hontanar",
+   "b": "Zufre",
+   "km": 55,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 55
+  },
+  {
+   "a": "Lorbaga",
+   "b": "Xarel",
+   "km": 52,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 52
+  },
+  {
+   "a": "Lorbaga",
+   "b": "Noviella",
+   "km": 65,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 65
+  },
+  {
+   "a": "Lorbaga",
+   "b": "Ilvera",
+   "km": 23,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 23
+  },
+  {
+   "a": "Xarel",
+   "b": "Ilvera",
+   "km": 43,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 43
+  },
+  {
+   "a": "Canduela",
+   "b": "Olmeda",
+   "km": 29,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 19
+  },
+  {
+   "a": "Canduela",
+   "b": "Cordelia",
+   "km": 29,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 19
+  },
+  {
+   "a": "Canduela",
+   "b": "Mirasol",
+   "km": 103,
+   "tipo": "autovía",
+   "v": 120,
+   "min": 52
+  },
+  {
+   "a": "Zaraiba",
+   "b": "Zufre",
+   "km": 80,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 53
+  },
+  {
+   "a": "Delmar",
+   "b": "Fraguera",
+   "km": 25,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 25
+  },
+  {
+   "a": "Delmar",
+   "b": "Wendaria",
+   "km": 15,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 15
+  },
+  {
+   "a": "Grisel",
+   "b": "Zufre",
+   "km": 34,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 34
+  },
+  {
+   "a": "Fraguera",
+   "b": "Sotoval",
+   "km": 69,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 69
+  },
+  {
+   "a": "Fraguera",
+   "b": "Wendaria",
+   "km": 31,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 31
+  },
+  {
+   "a": "Fraguera",
+   "b": "Orzaya",
+   "km": 55,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 37
+  },
+  {
+   "a": "Zufre",
+   "b": "Quiroga",
+   "km": 110,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 73
+  },
+  {
+   "a": "Monreal",
+   "b": "Wendaria",
+   "km": 72,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 48
+  },
+  {
+   "a": "Quiroga",
+   "b": "Elmedio",
+   "km": 36,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 24
+  },
+  {
+   "a": "Elmedio",
+   "b": "Noviella",
+   "km": 53,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 53
+  },
+  {
+   "a": "Elmedio",
+   "b": "Orzaya",
+   "km": 50,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 33
+  },
+  {
+   "a": "Noviella",
+   "b": "Orzaya",
+   "km": 53,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 53
+  },
+  {
+   "a": "Noviella",
+   "b": "Ilvera",
+   "km": 56,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 37
+  },
+  {
+   "a": "Hervas",
+   "b": "Olmeda",
+   "km": 203,
+   "tipo": "tren lanzadera",
+   "v": 160,
+   "min": 76
+  }
+ ]
+}

@@ -1,0 +1,400 @@
+{
+ "equipo": 10,
+ "ciudades": [
+  "Gandara",
+  "Alventa",
+  "Doriana",
+  "Kelmar",
+  "Fontanar",
+  "Zaraiba",
+  "Delmar",
+  "Lorbaga",
+  "Nevarra",
+  "Noviella",
+  "Ribalta",
+  "Duraza",
+  "Olmeda",
+  "Monreal",
+  "Umbria",
+  "Grisel",
+  "Sotoval",
+  "Torbel",
+  "Zufre",
+  "Berlanda",
+  "Espinel",
+  "Tebares",
+  "Almenar",
+  "Guadela",
+  "Orzaya",
+  "Canduela",
+  "Jarandilla",
+  "Halcoria"
+ ],
+ "consulta": {
+  "origen": "Torbel",
+  "destino": "Jarandilla"
+ },
+ "velocidad_maxima": 160,
+ "carreteras": [
+  {
+   "a": "Gandara",
+   "b": "Alventa",
+   "km": 41,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 41
+  },
+  {
+   "a": "Gandara",
+   "b": "Espinel",
+   "km": 46,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 31
+  },
+  {
+   "a": "Gandara",
+   "b": "Halcoria",
+   "km": 47,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 47
+  },
+  {
+   "a": "Alventa",
+   "b": "Kelmar",
+   "km": 73,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 49
+  },
+  {
+   "a": "Alventa",
+   "b": "Espinel",
+   "km": 23,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 15
+  },
+  {
+   "a": "Doriana",
+   "b": "Almenar",
+   "km": 81,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 54
+  },
+  {
+   "a": "Doriana",
+   "b": "Halcoria",
+   "km": 52,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 52
+  },
+  {
+   "a": "Kelmar",
+   "b": "Espinel",
+   "km": 77,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 51
+  },
+  {
+   "a": "Fontanar",
+   "b": "Nevarra",
+   "km": 84,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 56
+  },
+  {
+   "a": "Fontanar",
+   "b": "Monreal",
+   "km": 65,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 65
+  },
+  {
+   "a": "Zaraiba",
+   "b": "Noviella",
+   "km": 43,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 43
+  },
+  {
+   "a": "Zaraiba",
+   "b": "Grisel",
+   "km": 82,
+   "tipo": "autovía",
+   "v": 120,
+   "min": 41
+  },
+  {
+   "a": "Zaraiba",
+   "b": "Almenar",
+   "km": 27,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 18
+  },
+  {
+   "a": "Delmar",
+   "b": "Duraza",
+   "km": 82,
+   "tipo": "autovía",
+   "v": 120,
+   "min": 41
+  },
+  {
+   "a": "Delmar",
+   "b": "Olmeda",
+   "km": 57,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 38
+  },
+  {
+   "a": "Delmar",
+   "b": "Sotoval",
+   "km": 13,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 13
+  },
+  {
+   "a": "Delmar",
+   "b": "Zufre",
+   "km": 68,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 68
+  },
+  {
+   "a": "Lorbaga",
+   "b": "Halcoria",
+   "km": 77,
+   "tipo": "autovía",
+   "v": 120,
+   "min": 38
+  },
+  {
+   "a": "Nevarra",
+   "b": "Duraza",
+   "km": 34,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 34
+  },
+  {
+   "a": "Nevarra",
+   "b": "Monreal",
+   "km": 58,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 39
+  },
+  {
+   "a": "Nevarra",
+   "b": "Sotoval",
+   "km": 71,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 47
+  },
+  {
+   "a": "Nevarra",
+   "b": "Tebares",
+   "km": 77,
+   "tipo": "autovía",
+   "v": 120,
+   "min": 38
+  },
+  {
+   "a": "Noviella",
+   "b": "Ribalta",
+   "km": 49,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 33
+  },
+  {
+   "a": "Noviella",
+   "b": "Grisel",
+   "km": 67,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 67
+  },
+  {
+   "a": "Noviella",
+   "b": "Almenar",
+   "km": 71,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 47
+  },
+  {
+   "a": "Noviella",
+   "b": "Canduela",
+   "km": 45,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 45
+  },
+  {
+   "a": "Ribalta",
+   "b": "Grisel",
+   "km": 33,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 33
+  },
+  {
+   "a": "Duraza",
+   "b": "Monreal",
+   "km": 36,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 36
+  },
+  {
+   "a": "Duraza",
+   "b": "Sotoval",
+   "km": 63,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 63
+  },
+  {
+   "a": "Duraza",
+   "b": "Tebares",
+   "km": 53,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 35
+  },
+  {
+   "a": "Olmeda",
+   "b": "Zufre",
+   "km": 26,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 17
+  },
+  {
+   "a": "Monreal",
+   "b": "Tebares",
+   "km": 73,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 49
+  },
+  {
+   "a": "Monreal",
+   "b": "Guadela",
+   "km": 40,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 40
+  },
+  {
+   "a": "Umbria",
+   "b": "Grisel",
+   "km": 73,
+   "tipo": "autovía",
+   "v": 120,
+   "min": 36
+  },
+  {
+   "a": "Umbria",
+   "b": "Almenar",
+   "km": 71,
+   "tipo": "autovía",
+   "v": 120,
+   "min": 36
+  },
+  {
+   "a": "Umbria",
+   "b": "Orzaya",
+   "km": 22,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 22
+  },
+  {
+   "a": "Sotoval",
+   "b": "Zufre",
+   "km": 67,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 45
+  },
+  {
+   "a": "Sotoval",
+   "b": "Tebares",
+   "km": 60,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 60
+  },
+  {
+   "a": "Torbel",
+   "b": "Berlanda",
+   "km": 73,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 49
+  },
+  {
+   "a": "Zufre",
+   "b": "Tebares",
+   "km": 65,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 43
+  },
+  {
+   "a": "Zufre",
+   "b": "Jarandilla",
+   "km": 94,
+   "tipo": "autovía",
+   "v": 120,
+   "min": 47
+  },
+  {
+   "a": "Berlanda",
+   "b": "Canduela",
+   "km": 55,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 55
+  },
+  {
+   "a": "Tebares",
+   "b": "Guadela",
+   "km": 70,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 47
+  },
+  {
+   "a": "Guadela",
+   "b": "Orzaya",
+   "km": 105,
+   "tipo": "autovía",
+   "v": 120,
+   "min": 52
+  },
+  {
+   "a": "Kelmar",
+   "b": "Zufre",
+   "km": 190,
+   "tipo": "tren lanzadera",
+   "v": 160,
+   "min": 71
+  }
+ ]
+}

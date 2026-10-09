@@ -1,0 +1,400 @@
+{
+ "equipo": 35,
+ "ciudades": [
+  "Grisel",
+  "Lastres",
+  "Ilvera",
+  "Mirasol",
+  "Gandara",
+  "Pedroso",
+  "Vilanova",
+  "Xarel",
+  "Alventa",
+  "Olmeda",
+  "Torbel",
+  "Jabalera",
+  "Berlanda",
+  "Elmedio",
+  "Furquel",
+  "Fraguera",
+  "Sotoval",
+  "Doriana",
+  "Wendaria",
+  "Halcoria",
+  "Jarandilla",
+  "Sarmenia",
+  "Noviella",
+  "Yebres",
+  "Escobal",
+  "Peraleda",
+  "Cascante",
+  "Ibaneta"
+ ],
+ "consulta": {
+  "origen": "Olmeda",
+  "destino": "Elmedio"
+ },
+ "velocidad_maxima": 160,
+ "carreteras": [
+  {
+   "a": "Grisel",
+   "b": "Lastres",
+   "km": 22,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 22
+  },
+  {
+   "a": "Grisel",
+   "b": "Ilvera",
+   "km": 72,
+   "tipo": "autovía",
+   "v": 120,
+   "min": 36
+  },
+  {
+   "a": "Grisel",
+   "b": "Mirasol",
+   "km": 69,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 46
+  },
+  {
+   "a": "Grisel",
+   "b": "Vilanova",
+   "km": 78,
+   "tipo": "autovía",
+   "v": 120,
+   "min": 39
+  },
+  {
+   "a": "Grisel",
+   "b": "Yebres",
+   "km": 48,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 48
+  },
+  {
+   "a": "Grisel",
+   "b": "Cascante",
+   "km": 36,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 24
+  },
+  {
+   "a": "Lastres",
+   "b": "Mirasol",
+   "km": 74,
+   "tipo": "autovía",
+   "v": 120,
+   "min": 37
+  },
+  {
+   "a": "Lastres",
+   "b": "Noviella",
+   "km": 77,
+   "tipo": "autovía",
+   "v": 120,
+   "min": 38
+  },
+  {
+   "a": "Lastres",
+   "b": "Yebres",
+   "km": 57,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 57
+  },
+  {
+   "a": "Lastres",
+   "b": "Cascante",
+   "km": 15,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 10
+  },
+  {
+   "a": "Ilvera",
+   "b": "Vilanova",
+   "km": 32,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 21
+  },
+  {
+   "a": "Mirasol",
+   "b": "Elmedio",
+   "km": 113,
+   "tipo": "autovía",
+   "v": 120,
+   "min": 56
+  },
+  {
+   "a": "Mirasol",
+   "b": "Noviella",
+   "km": 72,
+   "tipo": "autovía",
+   "v": 120,
+   "min": 36
+  },
+  {
+   "a": "Mirasol",
+   "b": "Yebres",
+   "km": 40,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 40
+  },
+  {
+   "a": "Gandara",
+   "b": "Alventa",
+   "km": 18,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 18
+  },
+  {
+   "a": "Gandara",
+   "b": "Furquel",
+   "km": 32,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 21
+  },
+  {
+   "a": "Gandara",
+   "b": "Sarmenia",
+   "km": 81,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 54
+  },
+  {
+   "a": "Pedroso",
+   "b": "Jabalera",
+   "km": 73,
+   "tipo": "autovía",
+   "v": 120,
+   "min": 36
+  },
+  {
+   "a": "Vilanova",
+   "b": "Xarel",
+   "km": 85,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 57
+  },
+  {
+   "a": "Xarel",
+   "b": "Peraleda",
+   "km": 43,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 43
+  },
+  {
+   "a": "Xarel",
+   "b": "Ibaneta",
+   "km": 42,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 28
+  },
+  {
+   "a": "Alventa",
+   "b": "Torbel",
+   "km": 64,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 64
+  },
+  {
+   "a": "Alventa",
+   "b": "Sarmenia",
+   "km": 62,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 62
+  },
+  {
+   "a": "Alventa",
+   "b": "Ibaneta",
+   "km": 67,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 67
+  },
+  {
+   "a": "Olmeda",
+   "b": "Berlanda",
+   "km": 58,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 58
+  },
+  {
+   "a": "Olmeda",
+   "b": "Fraguera",
+   "km": 35,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 35
+  },
+  {
+   "a": "Jabalera",
+   "b": "Sotoval",
+   "km": 47,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 31
+  },
+  {
+   "a": "Jabalera",
+   "b": "Jarandilla",
+   "km": 26,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 17
+  },
+  {
+   "a": "Berlanda",
+   "b": "Furquel",
+   "km": 96,
+   "tipo": "autovía",
+   "v": 120,
+   "min": 48
+  },
+  {
+   "a": "Berlanda",
+   "b": "Fraguera",
+   "km": 45,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 30
+  },
+  {
+   "a": "Sotoval",
+   "b": "Halcoria",
+   "km": 73,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 49
+  },
+  {
+   "a": "Sotoval",
+   "b": "Jarandilla",
+   "km": 17,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 17
+  },
+  {
+   "a": "Doriana",
+   "b": "Wendaria",
+   "km": 29,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 29
+  },
+  {
+   "a": "Doriana",
+   "b": "Sarmenia",
+   "km": 68,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 68
+  },
+  {
+   "a": "Doriana",
+   "b": "Peraleda",
+   "km": 34,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 34
+  },
+  {
+   "a": "Doriana",
+   "b": "Ibaneta",
+   "km": 63,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 63
+  },
+  {
+   "a": "Wendaria",
+   "b": "Peraleda",
+   "km": 53,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 53
+  },
+  {
+   "a": "Halcoria",
+   "b": "Cascante",
+   "km": 93,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 62
+  },
+  {
+   "a": "Sarmenia",
+   "b": "Peraleda",
+   "km": 75,
+   "tipo": "autovía",
+   "v": 120,
+   "min": 38
+  },
+  {
+   "a": "Sarmenia",
+   "b": "Ibaneta",
+   "km": 43,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 43
+  },
+  {
+   "a": "Noviella",
+   "b": "Yebres",
+   "km": 35,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 35
+  },
+  {
+   "a": "Yebres",
+   "b": "Cascante",
+   "km": 69,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 69
+  },
+  {
+   "a": "Escobal",
+   "b": "Peraleda",
+   "km": 76,
+   "tipo": "autovía",
+   "v": 120,
+   "min": 38
+  },
+  {
+   "a": "Peraleda",
+   "b": "Ibaneta",
+   "km": 45,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 45
+  },
+  {
+   "a": "Gandara",
+   "b": "Sotoval",
+   "km": 165,
+   "tipo": "tren lanzadera",
+   "v": 160,
+   "min": 62
+  }
+ ]
+}

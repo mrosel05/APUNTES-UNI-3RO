@@ -1,0 +1,43 @@
+#Nuevo intento de reducir velocidad
+#Aunque la máxima velocidad sea 160, la distancia que se puede recorrer a esa velocidad no es ilimitada, sino la suma de la distancia
+#de todas las carreteras de 160. Y asi con todos hasta las de 60. 
+#Descartamos el hecho de que viaje por una carretera dos veeces, ya que siempre se puede hacer otro camino mejor. 
+#Ademas, dijkstra(KM, destino) nos da la mejor distancia, por lo que asumimos esta restricción. 
+
+def maxDistancias(KM, VIA):
+    max160 = max120 = max90 = max60 = 0
+
+    for n1 in VIA:
+        for n2, c in VIA[n1].items():
+            dist = KM[n1][n2]
+
+            if c == "comarcal": max60 += dist
+            elif c == "nacional": max90 += dist
+            elif c == "autovía": max120 += dist
+            else: max160 += dist
+
+    return max160 / 2, max120 / 2, max90 / 2, max60 / 2
+
+
+def mi_heuristica(G, KM, VIA, destino):
+    # Reglas:  h(destino) = 0   ·   h(n) <= h*(n) SIEMPRE   ·   en minutos
+    dist = dijkstra(KM, destino)
+    max160, max120, max90, max60 = maxDistancias(KM, VIA)
+
+    def h(n):
+        x = dist[n]
+
+        x160 = min(x, max160)
+        x -= x160
+
+        x120 = min(x, max120)
+        x -= x120
+
+        x90 = min(x, max90)
+        x -= x90
+
+        x60 = x
+
+        return x160 / 8*3 + x120 / 2 + x90 / 3*2 + x60
+
+    return h

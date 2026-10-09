@@ -1,0 +1,16 @@
+while IFS=':' read login enc_pass uid gid user_name home shell
+do  
+	if [ "$(dirname "$home")" == "/home" ]
+	then 
+		echo "[Entry #]"
+		echo -e "\tlogin=$login"
+		echo -e "\tenc_pass=$enc_pass"
+		echo -e "\tuid=$uid"
+		echo -e "\tgid=$gid"
+		echo -e "\tuser_name=$user_name"
+		echo -e "\thome=$home"
+		echo -e "\tshell=$shell"	
+	fi	
+done < /etc/passwd
+
+#cut -d: -f6 /etc/passwd | grep '^/home'

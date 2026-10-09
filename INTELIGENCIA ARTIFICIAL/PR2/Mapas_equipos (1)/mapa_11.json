@@ -1,0 +1,400 @@
+{
+ "equipo": 11,
+ "ciudades": [
+  "Grisel",
+  "Fraguera",
+  "Quiroga",
+  "Hontanar",
+  "Lastres",
+  "Cascante",
+  "Tebares",
+  "Andrada",
+  "Yebres",
+  "Canduela",
+  "Jarandilla",
+  "Wendaria",
+  "Pedroso",
+  "Mirasol",
+  "Orzaya",
+  "Alventa",
+  "Almenar",
+  "Peraleda",
+  "Lumbrera",
+  "Sotoval",
+  "Zaraiba",
+  "Sarmenia",
+  "Delmar",
+  "Ilvera",
+  "Jerica",
+  "Cordelia",
+  "Halcoria",
+  "Fontanar"
+ ],
+ "consulta": {
+  "origen": "Quiroga",
+  "destino": "Jerica"
+ },
+ "velocidad_maxima": 160,
+ "carreteras": [
+  {
+   "a": "Grisel",
+   "b": "Canduela",
+   "km": 56,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 56
+  },
+  {
+   "a": "Grisel",
+   "b": "Jarandilla",
+   "km": 36,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 24
+  },
+  {
+   "a": "Grisel",
+   "b": "Delmar",
+   "km": 91,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 61
+  },
+  {
+   "a": "Fraguera",
+   "b": "Pedroso",
+   "km": 64,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 64
+  },
+  {
+   "a": "Fraguera",
+   "b": "Peraleda",
+   "km": 55,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 55
+  },
+  {
+   "a": "Quiroga",
+   "b": "Ilvera",
+   "km": 23,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 23
+  },
+  {
+   "a": "Quiroga",
+   "b": "Fontanar",
+   "km": 44,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 44
+  },
+  {
+   "a": "Hontanar",
+   "b": "Alventa",
+   "km": 40,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 27
+  },
+  {
+   "a": "Hontanar",
+   "b": "Cordelia",
+   "km": 69,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 69
+  },
+  {
+   "a": "Lastres",
+   "b": "Cascante",
+   "km": 107,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 71
+  },
+  {
+   "a": "Lastres",
+   "b": "Pedroso",
+   "km": 93,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 62
+  },
+  {
+   "a": "Lastres",
+   "b": "Peraleda",
+   "km": 103,
+   "tipo": "autovía",
+   "v": 120,
+   "min": 52
+  },
+  {
+   "a": "Lastres",
+   "b": "Sotoval",
+   "km": 84,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 56
+  },
+  {
+   "a": "Lastres",
+   "b": "Zaraiba",
+   "km": 32,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 21
+  },
+  {
+   "a": "Lastres",
+   "b": "Halcoria",
+   "km": 135,
+   "tipo": "autovía",
+   "v": 120,
+   "min": 68
+  },
+  {
+   "a": "Cascante",
+   "b": "Andrada",
+   "km": 83,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 55
+  },
+  {
+   "a": "Cascante",
+   "b": "Yebres",
+   "km": 77,
+   "tipo": "autovía",
+   "v": 120,
+   "min": 38
+  },
+  {
+   "a": "Cascante",
+   "b": "Canduela",
+   "km": 56,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 37
+  },
+  {
+   "a": "Cascante",
+   "b": "Jarandilla",
+   "km": 52,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 52
+  },
+  {
+   "a": "Tebares",
+   "b": "Orzaya",
+   "km": 102,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 68
+  },
+  {
+   "a": "Tebares",
+   "b": "Delmar",
+   "km": 49,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 49
+  },
+  {
+   "a": "Andrada",
+   "b": "Mirasol",
+   "km": 44,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 44
+  },
+  {
+   "a": "Andrada",
+   "b": "Almenar",
+   "km": 67,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 45
+  },
+  {
+   "a": "Andrada",
+   "b": "Sarmenia",
+   "km": 36,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 36
+  },
+  {
+   "a": "Yebres",
+   "b": "Jarandilla",
+   "km": 51,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 51
+  },
+  {
+   "a": "Yebres",
+   "b": "Mirasol",
+   "km": 77,
+   "tipo": "autovía",
+   "v": 120,
+   "min": 38
+  },
+  {
+   "a": "Yebres",
+   "b": "Sarmenia",
+   "km": 57,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 38
+  },
+  {
+   "a": "Canduela",
+   "b": "Jarandilla",
+   "km": 34,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 34
+  },
+  {
+   "a": "Wendaria",
+   "b": "Lumbrera",
+   "km": 32,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 21
+  },
+  {
+   "a": "Wendaria",
+   "b": "Jerica",
+   "km": 57,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 57
+  },
+  {
+   "a": "Pedroso",
+   "b": "Peraleda",
+   "km": 16,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 16
+  },
+  {
+   "a": "Pedroso",
+   "b": "Zaraiba",
+   "km": 97,
+   "tipo": "autovía",
+   "v": 120,
+   "min": 48
+  },
+  {
+   "a": "Mirasol",
+   "b": "Almenar",
+   "km": 46,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 31
+  },
+  {
+   "a": "Mirasol",
+   "b": "Sarmenia",
+   "km": 63,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 63
+  },
+  {
+   "a": "Mirasol",
+   "b": "Cordelia",
+   "km": 97,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 65
+  },
+  {
+   "a": "Orzaya",
+   "b": "Delmar",
+   "km": 41,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 41
+  },
+  {
+   "a": "Orzaya",
+   "b": "Ilvera",
+   "km": 63,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 63
+  },
+  {
+   "a": "Orzaya",
+   "b": "Fontanar",
+   "km": 105,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 70
+  },
+  {
+   "a": "Alventa",
+   "b": "Cordelia",
+   "km": 104,
+   "tipo": "autovía",
+   "v": 120,
+   "min": 52
+  },
+  {
+   "a": "Almenar",
+   "b": "Lumbrera",
+   "km": 59,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 59
+  },
+  {
+   "a": "Almenar",
+   "b": "Sarmenia",
+   "km": 107,
+   "tipo": "autovía",
+   "v": 120,
+   "min": 54
+  },
+  {
+   "a": "Lumbrera",
+   "b": "Jerica",
+   "km": 70,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 70
+  },
+  {
+   "a": "Sotoval",
+   "b": "Zaraiba",
+   "km": 59,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 59
+  },
+  {
+   "a": "Ilvera",
+   "b": "Fontanar",
+   "km": 28,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 28
+  },
+  {
+   "a": "Zaraiba",
+   "b": "Jerica",
+   "km": 237,
+   "tipo": "tren lanzadera",
+   "v": 160,
+   "min": 89
+  }
+ ]
+}

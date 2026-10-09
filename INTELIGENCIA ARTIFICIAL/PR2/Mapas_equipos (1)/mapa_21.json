@@ -1,0 +1,400 @@
+{
+ "equipo": 21,
+ "ciudades": [
+  "Quintaval",
+  "Lastres",
+  "Robledal",
+  "Ibaneta",
+  "Espinel",
+  "Urgela",
+  "Quiroga",
+  "Fraguera",
+  "Umbria",
+  "Fontanar",
+  "Yerbal",
+  "Andrada",
+  "Duraza",
+  "Sotoval",
+  "Yebres",
+  "Escobal",
+  "Berlanda",
+  "Halcoria",
+  "Izaro",
+  "Noviella",
+  "Jabalera",
+  "Delmar",
+  "Wendaria",
+  "Ribalta",
+  "Orzaya",
+  "Sarmenia",
+  "Elmedio",
+  "Gandara"
+ ],
+ "consulta": {
+  "origen": "Duraza",
+  "destino": "Gandara"
+ },
+ "velocidad_maxima": 160,
+ "carreteras": [
+  {
+   "a": "Quintaval",
+   "b": "Umbria",
+   "km": 82,
+   "tipo": "autovía",
+   "v": 120,
+   "min": 41
+  },
+  {
+   "a": "Quintaval",
+   "b": "Berlanda",
+   "km": 70,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 70
+  },
+  {
+   "a": "Quintaval",
+   "b": "Orzaya",
+   "km": 88,
+   "tipo": "autovía",
+   "v": 120,
+   "min": 44
+  },
+  {
+   "a": "Lastres",
+   "b": "Sotoval",
+   "km": 44,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 44
+  },
+  {
+   "a": "Lastres",
+   "b": "Escobal",
+   "km": 86,
+   "tipo": "autovía",
+   "v": 120,
+   "min": 43
+  },
+  {
+   "a": "Lastres",
+   "b": "Elmedio",
+   "km": 18,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 18
+  },
+  {
+   "a": "Robledal",
+   "b": "Ibaneta",
+   "km": 52,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 52
+  },
+  {
+   "a": "Robledal",
+   "b": "Halcoria",
+   "km": 35,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 23
+  },
+  {
+   "a": "Robledal",
+   "b": "Izaro",
+   "km": 73,
+   "tipo": "autovía",
+   "v": 120,
+   "min": 36
+  },
+  {
+   "a": "Ibaneta",
+   "b": "Umbria",
+   "km": 49,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 33
+  },
+  {
+   "a": "Ibaneta",
+   "b": "Izaro",
+   "km": 75,
+   "tipo": "autovía",
+   "v": 120,
+   "min": 38
+  },
+  {
+   "a": "Espinel",
+   "b": "Urgela",
+   "km": 41,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 41
+  },
+  {
+   "a": "Espinel",
+   "b": "Duraza",
+   "km": 83,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 55
+  },
+  {
+   "a": "Espinel",
+   "b": "Berlanda",
+   "km": 21,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 21
+  },
+  {
+   "a": "Urgela",
+   "b": "Duraza",
+   "km": 59,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 39
+  },
+  {
+   "a": "Urgela",
+   "b": "Berlanda",
+   "km": 57,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 57
+  },
+  {
+   "a": "Quiroga",
+   "b": "Yerbal",
+   "km": 81,
+   "tipo": "autovía",
+   "v": 120,
+   "min": 40
+  },
+  {
+   "a": "Quiroga",
+   "b": "Noviella",
+   "km": 92,
+   "tipo": "autovía",
+   "v": 120,
+   "min": 46
+  },
+  {
+   "a": "Fraguera",
+   "b": "Sotoval",
+   "km": 53,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 53
+  },
+  {
+   "a": "Fraguera",
+   "b": "Escobal",
+   "km": 87,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 58
+  },
+  {
+   "a": "Fraguera",
+   "b": "Elmedio",
+   "km": 78,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 52
+  },
+  {
+   "a": "Umbria",
+   "b": "Orzaya",
+   "km": 62,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 62
+  },
+  {
+   "a": "Fontanar",
+   "b": "Andrada",
+   "km": 57,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 38
+  },
+  {
+   "a": "Fontanar",
+   "b": "Halcoria",
+   "km": 69,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 69
+  },
+  {
+   "a": "Fontanar",
+   "b": "Delmar",
+   "km": 22,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 22
+  },
+  {
+   "a": "Yerbal",
+   "b": "Yebres",
+   "km": 74,
+   "tipo": "autovía",
+   "v": 120,
+   "min": 37
+  },
+  {
+   "a": "Yerbal",
+   "b": "Ribalta",
+   "km": 74,
+   "tipo": "autovía",
+   "v": 120,
+   "min": 37
+  },
+  {
+   "a": "Andrada",
+   "b": "Duraza",
+   "km": 92,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 61
+  },
+  {
+   "a": "Andrada",
+   "b": "Delmar",
+   "km": 46,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 31
+  },
+  {
+   "a": "Sotoval",
+   "b": "Jabalera",
+   "km": 63,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 63
+  },
+  {
+   "a": "Sotoval",
+   "b": "Elmedio",
+   "km": 36,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 36
+  },
+  {
+   "a": "Yebres",
+   "b": "Wendaria",
+   "km": 19,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 19
+  },
+  {
+   "a": "Yebres",
+   "b": "Ribalta",
+   "km": 28,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 28
+  },
+  {
+   "a": "Escobal",
+   "b": "Sarmenia",
+   "km": 80,
+   "tipo": "autovía",
+   "v": 120,
+   "min": 40
+  },
+  {
+   "a": "Berlanda",
+   "b": "Izaro",
+   "km": 84,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 56
+  },
+  {
+   "a": "Halcoria",
+   "b": "Izaro",
+   "km": 66,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 66
+  },
+  {
+   "a": "Halcoria",
+   "b": "Delmar",
+   "km": 64,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 43
+  },
+  {
+   "a": "Izaro",
+   "b": "Delmar",
+   "km": 95,
+   "tipo": "autovía",
+   "v": 120,
+   "min": 48
+  },
+  {
+   "a": "Noviella",
+   "b": "Orzaya",
+   "km": 88,
+   "tipo": "autovía",
+   "v": 120,
+   "min": 44
+  },
+  {
+   "a": "Jabalera",
+   "b": "Wendaria",
+   "km": 81,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 54
+  },
+  {
+   "a": "Jabalera",
+   "b": "Ribalta",
+   "km": 73,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 49
+  },
+  {
+   "a": "Jabalera",
+   "b": "Elmedio",
+   "km": 86,
+   "tipo": "autovía",
+   "v": 120,
+   "min": 43
+  },
+  {
+   "a": "Wendaria",
+   "b": "Ribalta",
+   "km": 18,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 18
+  },
+  {
+   "a": "Sarmenia",
+   "b": "Gandara",
+   "km": 72,
+   "tipo": "autovía",
+   "v": 120,
+   "min": 36
+  },
+  {
+   "a": "Izaro",
+   "b": "Wendaria",
+   "km": 191,
+   "tipo": "tren lanzadera",
+   "v": 160,
+   "min": 72
+  }
+ ]
+}

@@ -1,0 +1,400 @@
+{
+ "equipo": 25,
+ "ciudades": [
+  "Fraguera",
+  "Sarmenia",
+  "Ilvera",
+  "Sotoval",
+  "Valcorta",
+  "Kelmar",
+  "Lumbrera",
+  "Delmar",
+  "Mirasol",
+  "Vilanova",
+  "Xarel",
+  "Cascante",
+  "Umbria",
+  "Espinel",
+  "Pedroso",
+  "Hontanar",
+  "Lorbaga",
+  "Doriana",
+  "Urgela",
+  "Bellosa",
+  "Halcoria",
+  "Zufre",
+  "Lastres",
+  "Yerbal",
+  "Alventa",
+  "Grisel",
+  "Peraleda",
+  "Andrada"
+ ],
+ "consulta": {
+  "origen": "Hontanar",
+  "destino": "Yerbal"
+ },
+ "velocidad_maxima": 160,
+ "carreteras": [
+  {
+   "a": "Fraguera",
+   "b": "Umbria",
+   "km": 90,
+   "tipo": "autovía",
+   "v": 120,
+   "min": 45
+  },
+  {
+   "a": "Sarmenia",
+   "b": "Ilvera",
+   "km": 94,
+   "tipo": "autovía",
+   "v": 120,
+   "min": 47
+  },
+  {
+   "a": "Sarmenia",
+   "b": "Valcorta",
+   "km": 87,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 58
+  },
+  {
+   "a": "Sarmenia",
+   "b": "Umbria",
+   "km": 116,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 77
+  },
+  {
+   "a": "Sarmenia",
+   "b": "Halcoria",
+   "km": 55,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 55
+  },
+  {
+   "a": "Ilvera",
+   "b": "Sotoval",
+   "km": 41,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 27
+  },
+  {
+   "a": "Ilvera",
+   "b": "Valcorta",
+   "km": 13,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 9
+  },
+  {
+   "a": "Ilvera",
+   "b": "Cascante",
+   "km": 55,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 37
+  },
+  {
+   "a": "Ilvera",
+   "b": "Halcoria",
+   "km": 34,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 34
+  },
+  {
+   "a": "Sotoval",
+   "b": "Valcorta",
+   "km": 30,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 20
+  },
+  {
+   "a": "Sotoval",
+   "b": "Cascante",
+   "km": 27,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 27
+  },
+  {
+   "a": "Sotoval",
+   "b": "Halcoria",
+   "km": 80,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 53
+  },
+  {
+   "a": "Valcorta",
+   "b": "Cascante",
+   "km": 42,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 28
+  },
+  {
+   "a": "Valcorta",
+   "b": "Halcoria",
+   "km": 44,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 44
+  },
+  {
+   "a": "Kelmar",
+   "b": "Mirasol",
+   "km": 48,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 32
+  },
+  {
+   "a": "Kelmar",
+   "b": "Doriana",
+   "km": 70,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 70
+  },
+  {
+   "a": "Kelmar",
+   "b": "Grisel",
+   "km": 16,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 16
+  },
+  {
+   "a": "Lumbrera",
+   "b": "Cascante",
+   "km": 146,
+   "tipo": "autovía",
+   "v": 120,
+   "min": 73
+  },
+  {
+   "a": "Lumbrera",
+   "b": "Yerbal",
+   "km": 18,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 12
+  },
+  {
+   "a": "Delmar",
+   "b": "Lastres",
+   "km": 50,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 50
+  },
+  {
+   "a": "Delmar",
+   "b": "Alventa",
+   "km": 100,
+   "tipo": "autovía",
+   "v": 120,
+   "min": 50
+  },
+  {
+   "a": "Delmar",
+   "b": "Peraleda",
+   "km": 110,
+   "tipo": "autovía",
+   "v": 120,
+   "min": 55
+  },
+  {
+   "a": "Mirasol",
+   "b": "Doriana",
+   "km": 59,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 59
+  },
+  {
+   "a": "Mirasol",
+   "b": "Zufre",
+   "km": 63,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 63
+  },
+  {
+   "a": "Mirasol",
+   "b": "Alventa",
+   "km": 55,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 37
+  },
+  {
+   "a": "Vilanova",
+   "b": "Bellosa",
+   "km": 33,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 22
+  },
+  {
+   "a": "Vilanova",
+   "b": "Andrada",
+   "km": 90,
+   "tipo": "autovía",
+   "v": 120,
+   "min": 45
+  },
+  {
+   "a": "Xarel",
+   "b": "Lorbaga",
+   "km": 36,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 24
+  },
+  {
+   "a": "Xarel",
+   "b": "Urgela",
+   "km": 31,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 21
+  },
+  {
+   "a": "Umbria",
+   "b": "Espinel",
+   "km": 47,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 47
+  },
+  {
+   "a": "Espinel",
+   "b": "Pedroso",
+   "km": 66,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 66
+  },
+  {
+   "a": "Espinel",
+   "b": "Bellosa",
+   "km": 76,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 51
+  },
+  {
+   "a": "Espinel",
+   "b": "Andrada",
+   "km": 13,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 13
+  },
+  {
+   "a": "Pedroso",
+   "b": "Lorbaga",
+   "km": 38,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 38
+  },
+  {
+   "a": "Pedroso",
+   "b": "Urgela",
+   "km": 74,
+   "tipo": "autovía",
+   "v": 120,
+   "min": 37
+  },
+  {
+   "a": "Pedroso",
+   "b": "Bellosa",
+   "km": 77,
+   "tipo": "autovía",
+   "v": 120,
+   "min": 38
+  },
+  {
+   "a": "Pedroso",
+   "b": "Andrada",
+   "km": 77,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 51
+  },
+  {
+   "a": "Hontanar",
+   "b": "Peraleda",
+   "km": 16,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 16
+  },
+  {
+   "a": "Lorbaga",
+   "b": "Urgela",
+   "km": 33,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 22
+  },
+  {
+   "a": "Doriana",
+   "b": "Zufre",
+   "km": 92,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 61
+  },
+  {
+   "a": "Doriana",
+   "b": "Grisel",
+   "km": 55,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 37
+  },
+  {
+   "a": "Urgela",
+   "b": "Zufre",
+   "km": 94,
+   "tipo": "autovía",
+   "v": 120,
+   "min": 47
+  },
+  {
+   "a": "Bellosa",
+   "b": "Andrada",
+   "km": 65,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 65
+  },
+  {
+   "a": "Lastres",
+   "b": "Alventa",
+   "km": 41,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 41
+  },
+  {
+   "a": "Sotoval",
+   "b": "Pedroso",
+   "km": 235,
+   "tipo": "tren lanzadera",
+   "v": 160,
+   "min": 88
+  }
+ ]
+}

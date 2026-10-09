@@ -1,0 +1,400 @@
+{
+ "equipo": 29,
+ "ciudades": [
+  "Ribalta",
+  "Espinel",
+  "Guadela",
+  "Nevarra",
+  "Xarel",
+  "Yerbal",
+  "Lastres",
+  "Orzaya",
+  "Olmeda",
+  "Hervas",
+  "Berlanda",
+  "Mirasol",
+  "Kelmar",
+  "Gandara",
+  "Urgela",
+  "Ilvera",
+  "Robledal",
+  "Valcorta",
+  "Jarandilla",
+  "Torbel",
+  "Bellosa",
+  "Lumbrera",
+  "Andrada",
+  "Elmedio",
+  "Ibaneta",
+  "Escobal",
+  "Fraguera",
+  "Delmar"
+ ],
+ "consulta": {
+  "origen": "Nevarra",
+  "destino": "Olmeda"
+ },
+ "velocidad_maxima": 160,
+ "carreteras": [
+  {
+   "a": "Ribalta",
+   "b": "Berlanda",
+   "km": 18,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 12
+  },
+  {
+   "a": "Espinel",
+   "b": "Hervas",
+   "km": 70,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 70
+  },
+  {
+   "a": "Espinel",
+   "b": "Andrada",
+   "km": 78,
+   "tipo": "autovía",
+   "v": 120,
+   "min": 39
+  },
+  {
+   "a": "Espinel",
+   "b": "Elmedio",
+   "km": 75,
+   "tipo": "autovía",
+   "v": 120,
+   "min": 38
+  },
+  {
+   "a": "Guadela",
+   "b": "Orzaya",
+   "km": 51,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 34
+  },
+  {
+   "a": "Guadela",
+   "b": "Jarandilla",
+   "km": 68,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 68
+  },
+  {
+   "a": "Guadela",
+   "b": "Bellosa",
+   "km": 73,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 49
+  },
+  {
+   "a": "Guadela",
+   "b": "Escobal",
+   "km": 49,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 49
+  },
+  {
+   "a": "Guadela",
+   "b": "Delmar",
+   "km": 74,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 49
+  },
+  {
+   "a": "Nevarra",
+   "b": "Xarel",
+   "km": 111,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 74
+  },
+  {
+   "a": "Xarel",
+   "b": "Valcorta",
+   "km": 105,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 70
+  },
+  {
+   "a": "Yerbal",
+   "b": "Berlanda",
+   "km": 95,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 63
+  },
+  {
+   "a": "Yerbal",
+   "b": "Gandara",
+   "km": 15,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 15
+  },
+  {
+   "a": "Yerbal",
+   "b": "Robledal",
+   "km": 44,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 29
+  },
+  {
+   "a": "Yerbal",
+   "b": "Ibaneta",
+   "km": 69,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 46
+  },
+  {
+   "a": "Lastres",
+   "b": "Robledal",
+   "km": 84,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 56
+  },
+  {
+   "a": "Lastres",
+   "b": "Valcorta",
+   "km": 72,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 48
+  },
+  {
+   "a": "Lastres",
+   "b": "Andrada",
+   "km": 30,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 30
+  },
+  {
+   "a": "Lastres",
+   "b": "Elmedio",
+   "km": 35,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 23
+  },
+  {
+   "a": "Lastres",
+   "b": "Ibaneta",
+   "km": 58,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 58
+  },
+  {
+   "a": "Orzaya",
+   "b": "Urgela",
+   "km": 60,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 40
+  },
+  {
+   "a": "Olmeda",
+   "b": "Kelmar",
+   "km": 83,
+   "tipo": "autovía",
+   "v": 120,
+   "min": 42
+  },
+  {
+   "a": "Hervas",
+   "b": "Ilvera",
+   "km": 84,
+   "tipo": "autovía",
+   "v": 120,
+   "min": 42
+  },
+  {
+   "a": "Mirasol",
+   "b": "Ilvera",
+   "km": 32,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 21
+  },
+  {
+   "a": "Mirasol",
+   "b": "Torbel",
+   "km": 32,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 32
+  },
+  {
+   "a": "Kelmar",
+   "b": "Lumbrera",
+   "km": 26,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 26
+  },
+  {
+   "a": "Gandara",
+   "b": "Robledal",
+   "km": 52,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 52
+  },
+  {
+   "a": "Gandara",
+   "b": "Andrada",
+   "km": 81,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 54
+  },
+  {
+   "a": "Urgela",
+   "b": "Ilvera",
+   "km": 41,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 27
+  },
+  {
+   "a": "Urgela",
+   "b": "Torbel",
+   "km": 51,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 51
+  },
+  {
+   "a": "Ilvera",
+   "b": "Torbel",
+   "km": 39,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 39
+  },
+  {
+   "a": "Robledal",
+   "b": "Ibaneta",
+   "km": 38,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 38
+  },
+  {
+   "a": "Jarandilla",
+   "b": "Bellosa",
+   "km": 54,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 54
+  },
+  {
+   "a": "Jarandilla",
+   "b": "Escobal",
+   "km": 65,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 43
+  },
+  {
+   "a": "Jarandilla",
+   "b": "Fraguera",
+   "km": 75,
+   "tipo": "autovía",
+   "v": 120,
+   "min": 38
+  },
+  {
+   "a": "Jarandilla",
+   "b": "Delmar",
+   "km": 68,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 68
+  },
+  {
+   "a": "Bellosa",
+   "b": "Lumbrera",
+   "km": 78,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 52
+  },
+  {
+   "a": "Bellosa",
+   "b": "Delmar",
+   "km": 15,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 10
+  },
+  {
+   "a": "Lumbrera",
+   "b": "Fraguera",
+   "km": 76,
+   "tipo": "autovía",
+   "v": 120,
+   "min": 38
+  },
+  {
+   "a": "Andrada",
+   "b": "Elmedio",
+   "km": 8,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 8
+  },
+  {
+   "a": "Elmedio",
+   "b": "Ibaneta",
+   "km": 78,
+   "tipo": "autovía",
+   "v": 120,
+   "min": 39
+  },
+  {
+   "a": "Escobal",
+   "b": "Fraguera",
+   "km": 42,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 42
+  },
+  {
+   "a": "Escobal",
+   "b": "Delmar",
+   "km": 24,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 24
+  },
+  {
+   "a": "Fraguera",
+   "b": "Delmar",
+   "km": 16,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 16
+  },
+  {
+   "a": "Ilvera",
+   "b": "Fraguera",
+   "km": 165,
+   "tipo": "tren lanzadera",
+   "v": 160,
+   "min": 62
+  }
+ ]
+}

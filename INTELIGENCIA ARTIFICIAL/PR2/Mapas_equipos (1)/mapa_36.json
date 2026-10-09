@@ -1,0 +1,400 @@
+{
+ "equipo": 36,
+ "ciudades": [
+  "Nevarra",
+  "Monreal",
+  "Alventa",
+  "Berlanda",
+  "Xarel",
+  "Cordelia",
+  "Orzaya",
+  "Lorbaga",
+  "Canduela",
+  "Elmedio",
+  "Noviella",
+  "Andrada",
+  "Urgela",
+  "Gandara",
+  "Vilanova",
+  "Guadela",
+  "Bracera",
+  "Zaraiba",
+  "Grisel",
+  "Wendaria",
+  "Zufre",
+  "Valcorta",
+  "Mirasol",
+  "Yerbal",
+  "Furquel",
+  "Escobal",
+  "Olmeda",
+  "Lastres"
+ ],
+ "consulta": {
+  "origen": "Alventa",
+  "destino": "Furquel"
+ },
+ "velocidad_maxima": 160,
+ "carreteras": [
+  {
+   "a": "Nevarra",
+   "b": "Gandara",
+   "km": 59,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 39
+  },
+  {
+   "a": "Nevarra",
+   "b": "Vilanova",
+   "km": 82,
+   "tipo": "autovía",
+   "v": 120,
+   "min": 41
+  },
+  {
+   "a": "Nevarra",
+   "b": "Valcorta",
+   "km": 64,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 64
+  },
+  {
+   "a": "Nevarra",
+   "b": "Yerbal",
+   "km": 44,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 44
+  },
+  {
+   "a": "Nevarra",
+   "b": "Olmeda",
+   "km": 49,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 49
+  },
+  {
+   "a": "Monreal",
+   "b": "Alventa",
+   "km": 80,
+   "tipo": "autovía",
+   "v": 120,
+   "min": 40
+  },
+  {
+   "a": "Monreal",
+   "b": "Urgela",
+   "km": 37,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 37
+  },
+  {
+   "a": "Monreal",
+   "b": "Escobal",
+   "km": 66,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 44
+  },
+  {
+   "a": "Alventa",
+   "b": "Urgela",
+   "km": 78,
+   "tipo": "autovía",
+   "v": 120,
+   "min": 39
+  },
+  {
+   "a": "Berlanda",
+   "b": "Elmedio",
+   "km": 77,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 51
+  },
+  {
+   "a": "Berlanda",
+   "b": "Escobal",
+   "km": 68,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 68
+  },
+  {
+   "a": "Xarel",
+   "b": "Bracera",
+   "km": 40,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 40
+  },
+  {
+   "a": "Cordelia",
+   "b": "Guadela",
+   "km": 73,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 49
+  },
+  {
+   "a": "Cordelia",
+   "b": "Zaraiba",
+   "km": 68,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 45
+  },
+  {
+   "a": "Cordelia",
+   "b": "Grisel",
+   "km": 92,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 61
+  },
+  {
+   "a": "Cordelia",
+   "b": "Lastres",
+   "km": 53,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 53
+  },
+  {
+   "a": "Orzaya",
+   "b": "Noviella",
+   "km": 10,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 10
+  },
+  {
+   "a": "Orzaya",
+   "b": "Mirasol",
+   "km": 70,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 70
+  },
+  {
+   "a": "Orzaya",
+   "b": "Furquel",
+   "km": 60,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 40
+  },
+  {
+   "a": "Lorbaga",
+   "b": "Wendaria",
+   "km": 28,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 28
+  },
+  {
+   "a": "Lorbaga",
+   "b": "Zufre",
+   "km": 18,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 18
+  },
+  {
+   "a": "Canduela",
+   "b": "Vilanova",
+   "km": 33,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 33
+  },
+  {
+   "a": "Canduela",
+   "b": "Olmeda",
+   "km": 44,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 44
+  },
+  {
+   "a": "Elmedio",
+   "b": "Bracera",
+   "km": 77,
+   "tipo": "autovía",
+   "v": 120,
+   "min": 38
+  },
+  {
+   "a": "Elmedio",
+   "b": "Grisel",
+   "km": 103,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 69
+  },
+  {
+   "a": "Elmedio",
+   "b": "Escobal",
+   "km": 24,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 24
+  },
+  {
+   "a": "Noviella",
+   "b": "Mirasol",
+   "km": 93,
+   "tipo": "autovía",
+   "v": 120,
+   "min": 46
+  },
+  {
+   "a": "Noviella",
+   "b": "Furquel",
+   "km": 62,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 62
+  },
+  {
+   "a": "Andrada",
+   "b": "Guadela",
+   "km": 36,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 24
+  },
+  {
+   "a": "Andrada",
+   "b": "Lastres",
+   "km": 35,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 35
+  },
+  {
+   "a": "Gandara",
+   "b": "Valcorta",
+   "km": 39,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 39
+  },
+  {
+   "a": "Gandara",
+   "b": "Yerbal",
+   "km": 28,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 28
+  },
+  {
+   "a": "Vilanova",
+   "b": "Olmeda",
+   "km": 34,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 23
+  },
+  {
+   "a": "Guadela",
+   "b": "Zaraiba",
+   "km": 23,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 23
+  },
+  {
+   "a": "Guadela",
+   "b": "Mirasol",
+   "km": 58,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 39
+  },
+  {
+   "a": "Guadela",
+   "b": "Lastres",
+   "km": 23,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 23
+  },
+  {
+   "a": "Zaraiba",
+   "b": "Mirasol",
+   "km": 48,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 32
+  },
+  {
+   "a": "Grisel",
+   "b": "Yerbal",
+   "km": 87,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 58
+  },
+  {
+   "a": "Wendaria",
+   "b": "Zufre",
+   "km": 14,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 9
+  },
+  {
+   "a": "Wendaria",
+   "b": "Valcorta",
+   "km": 71,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 47
+  },
+  {
+   "a": "Zufre",
+   "b": "Valcorta",
+   "km": 72,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 48
+  },
+  {
+   "a": "Valcorta",
+   "b": "Yerbal",
+   "km": 61,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 41
+  },
+  {
+   "a": "Mirasol",
+   "b": "Lastres",
+   "km": 84,
+   "tipo": "autovía",
+   "v": 120,
+   "min": 42
+  },
+  {
+   "a": "Yerbal",
+   "b": "Olmeda",
+   "km": 79,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 53
+  },
+  {
+   "a": "Orzaya",
+   "b": "Yerbal",
+   "km": 227,
+   "tipo": "tren lanzadera",
+   "v": 160,
+   "min": 85
+  }
+ ]
+}

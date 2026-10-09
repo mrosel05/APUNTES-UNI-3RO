@@ -1,0 +1,400 @@
+{
+ "equipo": 14,
+ "ciudades": [
+  "Escobal",
+  "Ibaneta",
+  "Fraguera",
+  "Elmedio",
+  "Hontanar",
+  "Cascante",
+  "Delmar",
+  "Ribalta",
+  "Wendaria",
+  "Torbel",
+  "Mirasol",
+  "Pedroso",
+  "Bellosa",
+  "Gandara",
+  "Hervas",
+  "Jarandilla",
+  "Umbria",
+  "Canduela",
+  "Tebares",
+  "Quiroga",
+  "Robledal",
+  "Zaraiba",
+  "Andrada",
+  "Jerica",
+  "Alventa",
+  "Lumbrera",
+  "Monreal",
+  "Halcoria"
+ ],
+ "consulta": {
+  "origen": "Fraguera",
+  "destino": "Pedroso"
+ },
+ "velocidad_maxima": 160,
+ "carreteras": [
+  {
+   "a": "Escobal",
+   "b": "Wendaria",
+   "km": 61,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 41
+  },
+  {
+   "a": "Escobal",
+   "b": "Gandara",
+   "km": 67,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 67
+  },
+  {
+   "a": "Escobal",
+   "b": "Hervas",
+   "km": 45,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 45
+  },
+  {
+   "a": "Escobal",
+   "b": "Umbria",
+   "km": 38,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 25
+  },
+  {
+   "a": "Escobal",
+   "b": "Robledal",
+   "km": 79,
+   "tipo": "autovía",
+   "v": 120,
+   "min": 40
+  },
+  {
+   "a": "Ibaneta",
+   "b": "Tebares",
+   "km": 80,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 53
+  },
+  {
+   "a": "Ibaneta",
+   "b": "Monreal",
+   "km": 42,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 42
+  },
+  {
+   "a": "Fraguera",
+   "b": "Mirasol",
+   "km": 77,
+   "tipo": "autovía",
+   "v": 120,
+   "min": 38
+  },
+  {
+   "a": "Fraguera",
+   "b": "Bellosa",
+   "km": 72,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 48
+  },
+  {
+   "a": "Elmedio",
+   "b": "Cascante",
+   "km": 17,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 17
+  },
+  {
+   "a": "Elmedio",
+   "b": "Ribalta",
+   "km": 11,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 7
+  },
+  {
+   "a": "Elmedio",
+   "b": "Bellosa",
+   "km": 39,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 26
+  },
+  {
+   "a": "Elmedio",
+   "b": "Jarandilla",
+   "km": 59,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 59
+  },
+  {
+   "a": "Elmedio",
+   "b": "Canduela",
+   "km": 74,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 49
+  },
+  {
+   "a": "Hontanar",
+   "b": "Hervas",
+   "km": 103,
+   "tipo": "autovía",
+   "v": 120,
+   "min": 52
+  },
+  {
+   "a": "Cascante",
+   "b": "Ribalta",
+   "km": 28,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 19
+  },
+  {
+   "a": "Cascante",
+   "b": "Bellosa",
+   "km": 27,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 27
+  },
+  {
+   "a": "Cascante",
+   "b": "Jarandilla",
+   "km": 75,
+   "tipo": "autovía",
+   "v": 120,
+   "min": 38
+  },
+  {
+   "a": "Cascante",
+   "b": "Quiroga",
+   "km": 67,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 45
+  },
+  {
+   "a": "Delmar",
+   "b": "Robledal",
+   "km": 40,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 27
+  },
+  {
+   "a": "Delmar",
+   "b": "Andrada",
+   "km": 54,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 54
+  },
+  {
+   "a": "Ribalta",
+   "b": "Jarandilla",
+   "km": 51,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 51
+  },
+  {
+   "a": "Ribalta",
+   "b": "Canduela",
+   "km": 72,
+   "tipo": "autovía",
+   "v": 120,
+   "min": 36
+  },
+  {
+   "a": "Wendaria",
+   "b": "Hervas",
+   "km": 74,
+   "tipo": "autovía",
+   "v": 120,
+   "min": 37
+  },
+  {
+   "a": "Wendaria",
+   "b": "Umbria",
+   "km": 27,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 18
+  },
+  {
+   "a": "Wendaria",
+   "b": "Alventa",
+   "km": 79,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 53
+  },
+  {
+   "a": "Torbel",
+   "b": "Tebares",
+   "km": 86,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 57
+  },
+  {
+   "a": "Torbel",
+   "b": "Lumbrera",
+   "km": 72,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 48
+  },
+  {
+   "a": "Mirasol",
+   "b": "Quiroga",
+   "km": 48,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 48
+  },
+  {
+   "a": "Pedroso",
+   "b": "Jerica",
+   "km": 97,
+   "tipo": "autovía",
+   "v": 120,
+   "min": 48
+  },
+  {
+   "a": "Bellosa",
+   "b": "Quiroga",
+   "km": 67,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 67
+  },
+  {
+   "a": "Bellosa",
+   "b": "Zaraiba",
+   "km": 82,
+   "tipo": "autovía",
+   "v": 120,
+   "min": 41
+  },
+  {
+   "a": "Gandara",
+   "b": "Hervas",
+   "km": 37,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 37
+  },
+  {
+   "a": "Gandara",
+   "b": "Jarandilla",
+   "km": 86,
+   "tipo": "autovía",
+   "v": 120,
+   "min": 43
+  },
+  {
+   "a": "Gandara",
+   "b": "Umbria",
+   "km": 36,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 36
+  },
+  {
+   "a": "Gandara",
+   "b": "Canduela",
+   "km": 49,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 33
+  },
+  {
+   "a": "Hervas",
+   "b": "Umbria",
+   "km": 43,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 43
+  },
+  {
+   "a": "Jarandilla",
+   "b": "Canduela",
+   "km": 51,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 34
+  },
+  {
+   "a": "Umbria",
+   "b": "Canduela",
+   "km": 77,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 51
+  },
+  {
+   "a": "Canduela",
+   "b": "Quiroga",
+   "km": 53,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 35
+  },
+  {
+   "a": "Tebares",
+   "b": "Monreal",
+   "km": 39,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 39
+  },
+  {
+   "a": "Tebares",
+   "b": "Halcoria",
+   "km": 73,
+   "tipo": "autovía",
+   "v": 120,
+   "min": 36
+  },
+  {
+   "a": "Jerica",
+   "b": "Halcoria",
+   "km": 72,
+   "tipo": "autovía",
+   "v": 120,
+   "min": 36
+  },
+  {
+   "a": "Alventa",
+   "b": "Lumbrera",
+   "km": 9,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 9
+  },
+  {
+   "a": "Wendaria",
+   "b": "Monreal",
+   "km": 165,
+   "tipo": "tren lanzadera",
+   "v": 160,
+   "min": 62
+  }
+ ]
+}

@@ -1,0 +1,400 @@
+{
+ "equipo": 19,
+ "ciudades": [
+  "Sarmenia",
+  "Valcorta",
+  "Noviella",
+  "Robledal",
+  "Zaraiba",
+  "Doriana",
+  "Yebres",
+  "Gandara",
+  "Guadela",
+  "Fraguera",
+  "Quiroga",
+  "Quintaval",
+  "Canduela",
+  "Zufre",
+  "Monreal",
+  "Grisel",
+  "Jarandilla",
+  "Jerica",
+  "Bellosa",
+  "Kelmar",
+  "Peraleda",
+  "Mirasol",
+  "Lorbaga",
+  "Lastres",
+  "Cascante",
+  "Tebares",
+  "Nevarra",
+  "Espinel"
+ ],
+ "consulta": {
+  "origen": "Valcorta",
+  "destino": "Fraguera"
+ },
+ "velocidad_maxima": 160,
+ "carreteras": [
+  {
+   "a": "Sarmenia",
+   "b": "Zaraiba",
+   "km": 77,
+   "tipo": "autovía",
+   "v": 120,
+   "min": 38
+  },
+  {
+   "a": "Valcorta",
+   "b": "Grisel",
+   "km": 40,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 40
+  },
+  {
+   "a": "Noviella",
+   "b": "Robledal",
+   "km": 65,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 65
+  },
+  {
+   "a": "Noviella",
+   "b": "Yebres",
+   "km": 79,
+   "tipo": "autovía",
+   "v": 120,
+   "min": 40
+  },
+  {
+   "a": "Noviella",
+   "b": "Canduela",
+   "km": 73,
+   "tipo": "autovía",
+   "v": 120,
+   "min": 36
+  },
+  {
+   "a": "Robledal",
+   "b": "Lastres",
+   "km": 69,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 46
+  },
+  {
+   "a": "Robledal",
+   "b": "Tebares",
+   "km": 59,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 59
+  },
+  {
+   "a": "Zaraiba",
+   "b": "Mirasol",
+   "km": 26,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 26
+  },
+  {
+   "a": "Zaraiba",
+   "b": "Nevarra",
+   "km": 52,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 52
+  },
+  {
+   "a": "Doriana",
+   "b": "Monreal",
+   "km": 17,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 11
+  },
+  {
+   "a": "Doriana",
+   "b": "Jarandilla",
+   "km": 32,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 21
+  },
+  {
+   "a": "Doriana",
+   "b": "Jerica",
+   "km": 10,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 10
+  },
+  {
+   "a": "Doriana",
+   "b": "Cascante",
+   "km": 8,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 8
+  },
+  {
+   "a": "Doriana",
+   "b": "Tebares",
+   "km": 59,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 39
+  },
+  {
+   "a": "Yebres",
+   "b": "Gandara",
+   "km": 94,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 63
+  },
+  {
+   "a": "Yebres",
+   "b": "Quintaval",
+   "km": 87,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 58
+  },
+  {
+   "a": "Gandara",
+   "b": "Quiroga",
+   "km": 22,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 22
+  },
+  {
+   "a": "Gandara",
+   "b": "Lastres",
+   "km": 84,
+   "tipo": "autovía",
+   "v": 120,
+   "min": 42
+  },
+  {
+   "a": "Guadela",
+   "b": "Zufre",
+   "km": 77,
+   "tipo": "autovía",
+   "v": 120,
+   "min": 38
+  },
+  {
+   "a": "Guadela",
+   "b": "Bellosa",
+   "km": 40,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 40
+  },
+  {
+   "a": "Fraguera",
+   "b": "Quintaval",
+   "km": 35,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 23
+  },
+  {
+   "a": "Fraguera",
+   "b": "Espinel",
+   "km": 24,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 24
+  },
+  {
+   "a": "Quiroga",
+   "b": "Lastres",
+   "km": 67,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 67
+  },
+  {
+   "a": "Quintaval",
+   "b": "Espinel",
+   "km": 22,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 22
+  },
+  {
+   "a": "Canduela",
+   "b": "Monreal",
+   "km": 83,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 55
+  },
+  {
+   "a": "Canduela",
+   "b": "Cascante",
+   "km": 79,
+   "tipo": "autovía",
+   "v": 120,
+   "min": 40
+  },
+  {
+   "a": "Zufre",
+   "b": "Bellosa",
+   "km": 42,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 42
+  },
+  {
+   "a": "Zufre",
+   "b": "Kelmar",
+   "km": 75,
+   "tipo": "autovía",
+   "v": 120,
+   "min": 38
+  },
+  {
+   "a": "Zufre",
+   "b": "Lorbaga",
+   "km": 53,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 53
+  },
+  {
+   "a": "Monreal",
+   "b": "Jarandilla",
+   "km": 47,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 47
+  },
+  {
+   "a": "Monreal",
+   "b": "Cascante",
+   "km": 15,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 10
+  },
+  {
+   "a": "Monreal",
+   "b": "Tebares",
+   "km": 39,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 26
+  },
+  {
+   "a": "Grisel",
+   "b": "Nevarra",
+   "km": 107,
+   "tipo": "autovía",
+   "v": 120,
+   "min": 54
+  },
+  {
+   "a": "Jarandilla",
+   "b": "Jerica",
+   "km": 29,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 29
+  },
+  {
+   "a": "Jarandilla",
+   "b": "Cascante",
+   "km": 37,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 25
+  },
+  {
+   "a": "Jarandilla",
+   "b": "Tebares",
+   "km": 77,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 51
+  },
+  {
+   "a": "Jerica",
+   "b": "Cascante",
+   "km": 11,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 7
+  },
+  {
+   "a": "Jerica",
+   "b": "Tebares",
+   "km": 56,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 56
+  },
+  {
+   "a": "Kelmar",
+   "b": "Lorbaga",
+   "km": 62,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 62
+  },
+  {
+   "a": "Peraleda",
+   "b": "Lastres",
+   "km": 62,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 62
+  },
+  {
+   "a": "Peraleda",
+   "b": "Nevarra",
+   "km": 104,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 69
+  },
+  {
+   "a": "Mirasol",
+   "b": "Nevarra",
+   "km": 30,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 20
+  },
+  {
+   "a": "Lorbaga",
+   "b": "Lastres",
+   "km": 109,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 73
+  },
+  {
+   "a": "Cascante",
+   "b": "Tebares",
+   "km": 48,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 32
+  },
+  {
+   "a": "Fraguera",
+   "b": "Tebares",
+   "km": 231,
+   "tipo": "tren lanzadera",
+   "v": 160,
+   "min": 87
+  }
+ ]
+}

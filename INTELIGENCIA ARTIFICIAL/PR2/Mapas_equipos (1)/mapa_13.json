@@ -1,0 +1,400 @@
+{
+ "equipo": 13,
+ "ciudades": [
+  "Monreal",
+  "Sotoval",
+  "Orzaya",
+  "Torbel",
+  "Jarandilla",
+  "Valcorta",
+  "Cascante",
+  "Guadela",
+  "Hontanar",
+  "Jabalera",
+  "Doriana",
+  "Lastres",
+  "Mirasol",
+  "Sarmenia",
+  "Zaraiba",
+  "Quiroga",
+  "Lorbaga",
+  "Yerbal",
+  "Fontanar",
+  "Lumbrera",
+  "Cordelia",
+  "Espinel",
+  "Halcoria",
+  "Duraza",
+  "Escobal",
+  "Umbria",
+  "Olmeda",
+  "Quintaval"
+ ],
+ "consulta": {
+  "origen": "Olmeda",
+  "destino": "Quintaval"
+ },
+ "velocidad_maxima": 160,
+ "carreteras": [
+  {
+   "a": "Monreal",
+   "b": "Lorbaga",
+   "km": 33,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 33
+  },
+  {
+   "a": "Monreal",
+   "b": "Halcoria",
+   "km": 31,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 31
+  },
+  {
+   "a": "Monreal",
+   "b": "Umbria",
+   "km": 78,
+   "tipo": "autovía",
+   "v": 120,
+   "min": 39
+  },
+  {
+   "a": "Sotoval",
+   "b": "Torbel",
+   "km": 84,
+   "tipo": "autovía",
+   "v": 120,
+   "min": 42
+  },
+  {
+   "a": "Sotoval",
+   "b": "Doriana",
+   "km": 74,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 49
+  },
+  {
+   "a": "Sotoval",
+   "b": "Mirasol",
+   "km": 48,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 32
+  },
+  {
+   "a": "Sotoval",
+   "b": "Fontanar",
+   "km": 53,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 53
+  },
+  {
+   "a": "Sotoval",
+   "b": "Cordelia",
+   "km": 69,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 69
+  },
+  {
+   "a": "Orzaya",
+   "b": "Yerbal",
+   "km": 34,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 34
+  },
+  {
+   "a": "Torbel",
+   "b": "Quintaval",
+   "km": 43,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 29
+  },
+  {
+   "a": "Jarandilla",
+   "b": "Hontanar",
+   "km": 68,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 45
+  },
+  {
+   "a": "Jarandilla",
+   "b": "Doriana",
+   "km": 92,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 61
+  },
+  {
+   "a": "Jarandilla",
+   "b": "Sarmenia",
+   "km": 11,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 7
+  },
+  {
+   "a": "Jarandilla",
+   "b": "Zaraiba",
+   "km": 65,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 65
+  },
+  {
+   "a": "Valcorta",
+   "b": "Hontanar",
+   "km": 33,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 33
+  },
+  {
+   "a": "Valcorta",
+   "b": "Jabalera",
+   "km": 36,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 36
+  },
+  {
+   "a": "Valcorta",
+   "b": "Lumbrera",
+   "km": 86,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 57
+  },
+  {
+   "a": "Valcorta",
+   "b": "Duraza",
+   "km": 31,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 31
+  },
+  {
+   "a": "Cascante",
+   "b": "Halcoria",
+   "km": 101,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 67
+  },
+  {
+   "a": "Cascante",
+   "b": "Olmeda",
+   "km": 39,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 26
+  },
+  {
+   "a": "Guadela",
+   "b": "Lastres",
+   "km": 30,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 30
+  },
+  {
+   "a": "Guadela",
+   "b": "Lumbrera",
+   "km": 75,
+   "tipo": "autovía",
+   "v": 120,
+   "min": 38
+  },
+  {
+   "a": "Guadela",
+   "b": "Escobal",
+   "km": 53,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 53
+  },
+  {
+   "a": "Hontanar",
+   "b": "Jabalera",
+   "km": 46,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 31
+  },
+  {
+   "a": "Hontanar",
+   "b": "Sarmenia",
+   "km": 65,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 43
+  },
+  {
+   "a": "Hontanar",
+   "b": "Lumbrera",
+   "km": 62,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 62
+  },
+  {
+   "a": "Jabalera",
+   "b": "Lastres",
+   "km": 85,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 57
+  },
+  {
+   "a": "Jabalera",
+   "b": "Lumbrera",
+   "km": 65,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 65
+  },
+  {
+   "a": "Jabalera",
+   "b": "Espinel",
+   "km": 85,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 57
+  },
+  {
+   "a": "Doriana",
+   "b": "Mirasol",
+   "km": 90,
+   "tipo": "autovía",
+   "v": 120,
+   "min": 45
+  },
+  {
+   "a": "Doriana",
+   "b": "Fontanar",
+   "km": 72,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 48
+  },
+  {
+   "a": "Lastres",
+   "b": "Lumbrera",
+   "km": 60,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 60
+  },
+  {
+   "a": "Lastres",
+   "b": "Espinel",
+   "km": 91,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 61
+  },
+  {
+   "a": "Mirasol",
+   "b": "Zaraiba",
+   "km": 78,
+   "tipo": "autovía",
+   "v": 120,
+   "min": 39
+  },
+  {
+   "a": "Mirasol",
+   "b": "Fontanar",
+   "km": 20,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 20
+  },
+  {
+   "a": "Sarmenia",
+   "b": "Zaraiba",
+   "km": 59,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 59
+  },
+  {
+   "a": "Zaraiba",
+   "b": "Fontanar",
+   "km": 60,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 60
+  },
+  {
+   "a": "Zaraiba",
+   "b": "Lumbrera",
+   "km": 31,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 31
+  },
+  {
+   "a": "Quiroga",
+   "b": "Yerbal",
+   "km": 77,
+   "tipo": "autovía",
+   "v": 120,
+   "min": 38
+  },
+  {
+   "a": "Quiroga",
+   "b": "Espinel",
+   "km": 93,
+   "tipo": "autovía",
+   "v": 120,
+   "min": 46
+  },
+  {
+   "a": "Quiroga",
+   "b": "Escobal",
+   "km": 50,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 50
+  },
+  {
+   "a": "Lorbaga",
+   "b": "Escobal",
+   "km": 102,
+   "tipo": "autovía",
+   "v": 120,
+   "min": 51
+  },
+  {
+   "a": "Lorbaga",
+   "b": "Umbria",
+   "km": 54,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 36
+  },
+  {
+   "a": "Fontanar",
+   "b": "Lumbrera",
+   "km": 76,
+   "tipo": "autovía",
+   "v": 120,
+   "min": 38
+  },
+  {
+   "a": "Torbel",
+   "b": "Hontanar",
+   "km": 184,
+   "tipo": "tren lanzadera",
+   "v": 160,
+   "min": 69
+  }
+ ]
+}

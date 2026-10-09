@@ -1,0 +1,400 @@
+{
+ "equipo": 1,
+ "ciudades": [
+  "Tebares",
+  "Lumbrera",
+  "Jabalera",
+  "Cordelia",
+  "Hervas",
+  "Furquel",
+  "Umbria",
+  "Escobal",
+  "Gandara",
+  "Xarel",
+  "Peraleda",
+  "Ribalta",
+  "Doriana",
+  "Zaraiba",
+  "Yerbal",
+  "Delmar",
+  "Duraza",
+  "Espinel",
+  "Lorbaga",
+  "Alventa",
+  "Quiroga",
+  "Mirasol",
+  "Jerica",
+  "Cascante",
+  "Nevarra",
+  "Andrada",
+  "Valcorta",
+  "Monreal"
+ ],
+ "consulta": {
+  "origen": "Delmar",
+  "destino": "Espinel"
+ },
+ "velocidad_maxima": 160,
+ "carreteras": [
+  {
+   "a": "Tebares",
+   "b": "Zaraiba",
+   "km": 54,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 54
+  },
+  {
+   "a": "Tebares",
+   "b": "Andrada",
+   "km": 68,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 45
+  },
+  {
+   "a": "Lumbrera",
+   "b": "Gandara",
+   "km": 79,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 53
+  },
+  {
+   "a": "Lumbrera",
+   "b": "Yerbal",
+   "km": 91,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 61
+  },
+  {
+   "a": "Jabalera",
+   "b": "Umbria",
+   "km": 62,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 62
+  },
+  {
+   "a": "Cordelia",
+   "b": "Escobal",
+   "km": 34,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 34
+  },
+  {
+   "a": "Cordelia",
+   "b": "Xarel",
+   "km": 45,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 45
+  },
+  {
+   "a": "Cordelia",
+   "b": "Duraza",
+   "km": 57,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 38
+  },
+  {
+   "a": "Cordelia",
+   "b": "Alventa",
+   "km": 27,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 27
+  },
+  {
+   "a": "Cordelia",
+   "b": "Cascante",
+   "km": 36,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 24
+  },
+  {
+   "a": "Cordelia",
+   "b": "Nevarra",
+   "km": 39,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 26
+  },
+  {
+   "a": "Hervas",
+   "b": "Gandara",
+   "km": 57,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 38
+  },
+  {
+   "a": "Hervas",
+   "b": "Peraleda",
+   "km": 29,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 29
+  },
+  {
+   "a": "Hervas",
+   "b": "Mirasol",
+   "km": 34,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 23
+  },
+  {
+   "a": "Furquel",
+   "b": "Lorbaga",
+   "km": 23,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 15
+  },
+  {
+   "a": "Umbria",
+   "b": "Zaraiba",
+   "km": 67,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 45
+  },
+  {
+   "a": "Umbria",
+   "b": "Monreal",
+   "km": 91,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 61
+  },
+  {
+   "a": "Escobal",
+   "b": "Mirasol",
+   "km": 57,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 57
+  },
+  {
+   "a": "Escobal",
+   "b": "Cascante",
+   "km": 59,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 59
+  },
+  {
+   "a": "Escobal",
+   "b": "Nevarra",
+   "km": 50,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 50
+  },
+  {
+   "a": "Gandara",
+   "b": "Doriana",
+   "km": 57,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 57
+  },
+  {
+   "a": "Xarel",
+   "b": "Ribalta",
+   "km": 61,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 61
+  },
+  {
+   "a": "Xarel",
+   "b": "Duraza",
+   "km": 33,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 22
+  },
+  {
+   "a": "Xarel",
+   "b": "Alventa",
+   "km": 16,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 11
+  },
+  {
+   "a": "Xarel",
+   "b": "Cascante",
+   "km": 41,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 27
+  },
+  {
+   "a": "Xarel",
+   "b": "Andrada",
+   "km": 50,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 50
+  },
+  {
+   "a": "Peraleda",
+   "b": "Mirasol",
+   "km": 18,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 18
+  },
+  {
+   "a": "Peraleda",
+   "b": "Nevarra",
+   "km": 45,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 45
+  },
+  {
+   "a": "Ribalta",
+   "b": "Duraza",
+   "km": 48,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 32
+  },
+  {
+   "a": "Ribalta",
+   "b": "Lorbaga",
+   "km": 61,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 61
+  },
+  {
+   "a": "Ribalta",
+   "b": "Andrada",
+   "km": 50,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 33
+  },
+  {
+   "a": "Yerbal",
+   "b": "Espinel",
+   "km": 68,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 45
+  },
+  {
+   "a": "Delmar",
+   "b": "Monreal",
+   "km": 81,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 54
+  },
+  {
+   "a": "Duraza",
+   "b": "Alventa",
+   "km": 34,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 34
+  },
+  {
+   "a": "Duraza",
+   "b": "Andrada",
+   "km": 57,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 57
+  },
+  {
+   "a": "Lorbaga",
+   "b": "Quiroga",
+   "km": 71,
+   "tipo": "autovía",
+   "v": 120,
+   "min": 36
+  },
+  {
+   "a": "Alventa",
+   "b": "Cascante",
+   "km": 29,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 29
+  },
+  {
+   "a": "Alventa",
+   "b": "Nevarra",
+   "km": 51,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 34
+  },
+  {
+   "a": "Alventa",
+   "b": "Andrada",
+   "km": 64,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 43
+  },
+  {
+   "a": "Quiroga",
+   "b": "Valcorta",
+   "km": 82,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 55
+  },
+  {
+   "a": "Mirasol",
+   "b": "Cascante",
+   "km": 46,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 31
+  },
+  {
+   "a": "Mirasol",
+   "b": "Nevarra",
+   "km": 30,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 20
+  },
+  {
+   "a": "Jerica",
+   "b": "Monreal",
+   "km": 29,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 29
+  },
+  {
+   "a": "Cascante",
+   "b": "Nevarra",
+   "km": 23,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 23
+  },
+  {
+   "a": "Yerbal",
+   "b": "Lorbaga",
+   "km": 211,
+   "tipo": "tren lanzadera",
+   "v": 160,
+   "min": 79
+  }
+ ]
+}

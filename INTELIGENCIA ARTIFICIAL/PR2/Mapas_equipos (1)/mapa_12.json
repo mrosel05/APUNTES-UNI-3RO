@@ -1,0 +1,400 @@
+{
+ "equipo": 12,
+ "ciudades": [
+  "Urgela",
+  "Zufre",
+  "Canduela",
+  "Xarel",
+  "Quiroga",
+  "Torbel",
+  "Olmeda",
+  "Nevarra",
+  "Gandara",
+  "Halcoria",
+  "Jabalera",
+  "Sotoval",
+  "Yebres",
+  "Umbria",
+  "Noviella",
+  "Hervas",
+  "Grisel",
+  "Andrada",
+  "Wendaria",
+  "Zaraiba",
+  "Valcorta",
+  "Tebares",
+  "Furquel",
+  "Ribalta",
+  "Izaro",
+  "Yerbal",
+  "Fraguera",
+  "Sarmenia"
+ ],
+ "consulta": {
+  "origen": "Torbel",
+  "destino": "Noviella"
+ },
+ "velocidad_maxima": 160,
+ "carreteras": [
+  {
+   "a": "Urgela",
+   "b": "Halcoria",
+   "km": 88,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 59
+  },
+  {
+   "a": "Urgela",
+   "b": "Grisel",
+   "km": 45,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 30
+  },
+  {
+   "a": "Urgela",
+   "b": "Zaraiba",
+   "km": 71,
+   "tipo": "autovía",
+   "v": 120,
+   "min": 36
+  },
+  {
+   "a": "Zufre",
+   "b": "Gandara",
+   "km": 83,
+   "tipo": "autovía",
+   "v": 120,
+   "min": 42
+  },
+  {
+   "a": "Zufre",
+   "b": "Halcoria",
+   "km": 68,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 68
+  },
+  {
+   "a": "Zufre",
+   "b": "Yebres",
+   "km": 78,
+   "tipo": "autovía",
+   "v": 120,
+   "min": 39
+  },
+  {
+   "a": "Zufre",
+   "b": "Hervas",
+   "km": 54,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 36
+  },
+  {
+   "a": "Zufre",
+   "b": "Tebares",
+   "km": 85,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 57
+  },
+  {
+   "a": "Zufre",
+   "b": "Yerbal",
+   "km": 55,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 55
+  },
+  {
+   "a": "Zufre",
+   "b": "Sarmenia",
+   "km": 15,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 10
+  },
+  {
+   "a": "Canduela",
+   "b": "Torbel",
+   "km": 49,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 49
+  },
+  {
+   "a": "Canduela",
+   "b": "Wendaria",
+   "km": 82,
+   "tipo": "autovía",
+   "v": 120,
+   "min": 41
+  },
+  {
+   "a": "Xarel",
+   "b": "Olmeda",
+   "km": 45,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 30
+  },
+  {
+   "a": "Xarel",
+   "b": "Jabalera",
+   "km": 86,
+   "tipo": "autovía",
+   "v": 120,
+   "min": 43
+  },
+  {
+   "a": "Xarel",
+   "b": "Furquel",
+   "km": 16,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 16
+  },
+  {
+   "a": "Quiroga",
+   "b": "Zaraiba",
+   "km": 93,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 62
+  },
+  {
+   "a": "Quiroga",
+   "b": "Izaro",
+   "km": 97,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 65
+  },
+  {
+   "a": "Torbel",
+   "b": "Wendaria",
+   "km": 56,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 56
+  },
+  {
+   "a": "Olmeda",
+   "b": "Jabalera",
+   "km": 59,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 59
+  },
+  {
+   "a": "Olmeda",
+   "b": "Grisel",
+   "km": 75,
+   "tipo": "autovía",
+   "v": 120,
+   "min": 38
+  },
+  {
+   "a": "Nevarra",
+   "b": "Yebres",
+   "km": 22,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 22
+  },
+  {
+   "a": "Nevarra",
+   "b": "Fraguera",
+   "km": 71,
+   "tipo": "autovía",
+   "v": 120,
+   "min": 36
+  },
+  {
+   "a": "Gandara",
+   "b": "Halcoria",
+   "km": 25,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 17
+  },
+  {
+   "a": "Gandara",
+   "b": "Umbria",
+   "km": 35,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 23
+  },
+  {
+   "a": "Gandara",
+   "b": "Tebares",
+   "km": 72,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 48
+  },
+  {
+   "a": "Halcoria",
+   "b": "Umbria",
+   "km": 52,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 52
+  },
+  {
+   "a": "Halcoria",
+   "b": "Tebares",
+   "km": 87,
+   "tipo": "autovía",
+   "v": 120,
+   "min": 44
+  },
+  {
+   "a": "Halcoria",
+   "b": "Sarmenia",
+   "km": 82,
+   "tipo": "autovía",
+   "v": 120,
+   "min": 41
+  },
+  {
+   "a": "Jabalera",
+   "b": "Andrada",
+   "km": 28,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 28
+  },
+  {
+   "a": "Jabalera",
+   "b": "Ribalta",
+   "km": 31,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 31
+  },
+  {
+   "a": "Sotoval",
+   "b": "Tebares",
+   "km": 73,
+   "tipo": "autovía",
+   "v": 120,
+   "min": 36
+  },
+  {
+   "a": "Sotoval",
+   "b": "Yerbal",
+   "km": 65,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 65
+  },
+  {
+   "a": "Yebres",
+   "b": "Hervas",
+   "km": 82,
+   "tipo": "autovía",
+   "v": 120,
+   "min": 41
+  },
+  {
+   "a": "Yebres",
+   "b": "Fraguera",
+   "km": 59,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 59
+  },
+  {
+   "a": "Umbria",
+   "b": "Tebares",
+   "km": 97,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 65
+  },
+  {
+   "a": "Noviella",
+   "b": "Izaro",
+   "km": 88,
+   "tipo": "autovía",
+   "v": 120,
+   "min": 44
+  },
+  {
+   "a": "Hervas",
+   "b": "Yerbal",
+   "km": 78,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 52
+  },
+  {
+   "a": "Hervas",
+   "b": "Fraguera",
+   "km": 58,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 58
+  },
+  {
+   "a": "Hervas",
+   "b": "Sarmenia",
+   "km": 50,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 50
+  },
+  {
+   "a": "Grisel",
+   "b": "Valcorta",
+   "km": 61,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 61
+  },
+  {
+   "a": "Andrada",
+   "b": "Ribalta",
+   "km": 25,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 17
+  },
+  {
+   "a": "Wendaria",
+   "b": "Valcorta",
+   "km": 111,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 74
+  },
+  {
+   "a": "Tebares",
+   "b": "Yerbal",
+   "km": 54,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 54
+  },
+  {
+   "a": "Yerbal",
+   "b": "Sarmenia",
+   "km": 49,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 49
+  },
+  {
+   "a": "Quiroga",
+   "b": "Halcoria",
+   "km": 192,
+   "tipo": "tren lanzadera",
+   "v": 160,
+   "min": 72
+  }
+ ]
+}

@@ -1,0 +1,400 @@
+{
+ "equipo": 17,
+ "ciudades": [
+  "Furquel",
+  "Lorbaga",
+  "Noviella",
+  "Xarel",
+  "Andrada",
+  "Bellosa",
+  "Cordelia",
+  "Olmeda",
+  "Jarandilla",
+  "Lumbrera",
+  "Duraza",
+  "Fontanar",
+  "Lastres",
+  "Doriana",
+  "Kelmar",
+  "Quintaval",
+  "Ribalta",
+  "Tebares",
+  "Bracera",
+  "Berlanda",
+  "Zaraiba",
+  "Hervas",
+  "Vilanova",
+  "Nevarra",
+  "Sotoval",
+  "Ibaneta",
+  "Gandara",
+  "Alventa"
+ ],
+ "consulta": {
+  "origen": "Fontanar",
+  "destino": "Zaraiba"
+ },
+ "velocidad_maxima": 160,
+ "carreteras": [
+  {
+   "a": "Furquel",
+   "b": "Alventa",
+   "km": 63,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 63
+  },
+  {
+   "a": "Lorbaga",
+   "b": "Bellosa",
+   "km": 58,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 58
+  },
+  {
+   "a": "Lorbaga",
+   "b": "Hervas",
+   "km": 72,
+   "tipo": "autovía",
+   "v": 120,
+   "min": 36
+  },
+  {
+   "a": "Lorbaga",
+   "b": "Sotoval",
+   "km": 38,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 38
+  },
+  {
+   "a": "Lorbaga",
+   "b": "Gandara",
+   "km": 66,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 66
+  },
+  {
+   "a": "Noviella",
+   "b": "Lumbrera",
+   "km": 34,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 34
+  },
+  {
+   "a": "Noviella",
+   "b": "Tebares",
+   "km": 67,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 67
+  },
+  {
+   "a": "Noviella",
+   "b": "Berlanda",
+   "km": 66,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 66
+  },
+  {
+   "a": "Xarel",
+   "b": "Andrada",
+   "km": 87,
+   "tipo": "autovía",
+   "v": 120,
+   "min": 44
+  },
+  {
+   "a": "Xarel",
+   "b": "Cordelia",
+   "km": 61,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 41
+  },
+  {
+   "a": "Xarel",
+   "b": "Ribalta",
+   "km": 19,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 19
+  },
+  {
+   "a": "Bellosa",
+   "b": "Lastres",
+   "km": 72,
+   "tipo": "autovía",
+   "v": 120,
+   "min": 36
+  },
+  {
+   "a": "Bellosa",
+   "b": "Hervas",
+   "km": 60,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 60
+  },
+  {
+   "a": "Bellosa",
+   "b": "Sotoval",
+   "km": 38,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 38
+  },
+  {
+   "a": "Bellosa",
+   "b": "Gandara",
+   "km": 59,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 59
+  },
+  {
+   "a": "Cordelia",
+   "b": "Doriana",
+   "km": 70,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 70
+  },
+  {
+   "a": "Cordelia",
+   "b": "Ribalta",
+   "km": 44,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 29
+  },
+  {
+   "a": "Cordelia",
+   "b": "Alventa",
+   "km": 70,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 47
+  },
+  {
+   "a": "Olmeda",
+   "b": "Kelmar",
+   "km": 83,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 55
+  },
+  {
+   "a": "Olmeda",
+   "b": "Ribalta",
+   "km": 57,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 57
+  },
+  {
+   "a": "Jarandilla",
+   "b": "Doriana",
+   "km": 65,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 65
+  },
+  {
+   "a": "Jarandilla",
+   "b": "Quintaval",
+   "km": 73,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 49
+  },
+  {
+   "a": "Jarandilla",
+   "b": "Ibaneta",
+   "km": 68,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 45
+  },
+  {
+   "a": "Lumbrera",
+   "b": "Tebares",
+   "km": 56,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 37
+  },
+  {
+   "a": "Lumbrera",
+   "b": "Berlanda",
+   "km": 54,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 54
+  },
+  {
+   "a": "Lumbrera",
+   "b": "Vilanova",
+   "km": 61,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 61
+  },
+  {
+   "a": "Duraza",
+   "b": "Lastres",
+   "km": 58,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 58
+  },
+  {
+   "a": "Duraza",
+   "b": "Doriana",
+   "km": 57,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 57
+  },
+  {
+   "a": "Duraza",
+   "b": "Hervas",
+   "km": 64,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 43
+  },
+  {
+   "a": "Duraza",
+   "b": "Gandara",
+   "km": 76,
+   "tipo": "autovía",
+   "v": 120,
+   "min": 38
+  },
+  {
+   "a": "Fontanar",
+   "b": "Vilanova",
+   "km": 77,
+   "tipo": "autovía",
+   "v": 120,
+   "min": 38
+  },
+  {
+   "a": "Lastres",
+   "b": "Hervas",
+   "km": 12,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 12
+  },
+  {
+   "a": "Lastres",
+   "b": "Sotoval",
+   "km": 47,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 47
+  },
+  {
+   "a": "Lastres",
+   "b": "Gandara",
+   "km": 13,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 9
+  },
+  {
+   "a": "Kelmar",
+   "b": "Nevarra",
+   "km": 64,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 64
+  },
+  {
+   "a": "Quintaval",
+   "b": "Zaraiba",
+   "km": 63,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 63
+  },
+  {
+   "a": "Tebares",
+   "b": "Berlanda",
+   "km": 10,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 10
+  },
+  {
+   "a": "Tebares",
+   "b": "Alventa",
+   "km": 77,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 51
+  },
+  {
+   "a": "Bracera",
+   "b": "Zaraiba",
+   "km": 48,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 48
+  },
+  {
+   "a": "Bracera",
+   "b": "Ibaneta",
+   "km": 63,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 63
+  },
+  {
+   "a": "Berlanda",
+   "b": "Alventa",
+   "km": 71,
+   "tipo": "autovía",
+   "v": 120,
+   "min": 36
+  },
+  {
+   "a": "Hervas",
+   "b": "Sotoval",
+   "km": 38,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 38
+  },
+  {
+   "a": "Hervas",
+   "b": "Gandara",
+   "km": 8,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 8
+  },
+  {
+   "a": "Sotoval",
+   "b": "Gandara",
+   "km": 34,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 34
+  },
+  {
+   "a": "Bellosa",
+   "b": "Zaraiba",
+   "km": 220,
+   "tipo": "tren lanzadera",
+   "v": 160,
+   "min": 82
+  }
+ ]
+}

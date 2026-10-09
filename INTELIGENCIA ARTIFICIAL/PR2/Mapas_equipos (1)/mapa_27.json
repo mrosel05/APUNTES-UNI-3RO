@@ -1,0 +1,400 @@
+{
+ "equipo": 27,
+ "ciudades": [
+  "Furquel",
+  "Almenar",
+  "Jerica",
+  "Ilvera",
+  "Zufre",
+  "Nevarra",
+  "Lorbaga",
+  "Cascante",
+  "Quiroga",
+  "Bellosa",
+  "Wendaria",
+  "Sarmenia",
+  "Halcoria",
+  "Izaro",
+  "Guadela",
+  "Mirasol",
+  "Jarandilla",
+  "Monreal",
+  "Doriana",
+  "Lastres",
+  "Ibaneta",
+  "Olmeda",
+  "Hontanar",
+  "Bracera",
+  "Canduela",
+  "Fontanar",
+  "Berlanda",
+  "Cordelia"
+ ],
+ "consulta": {
+  "origen": "Bellosa",
+  "destino": "Guadela"
+ },
+ "velocidad_maxima": 160,
+ "carreteras": [
+  {
+   "a": "Furquel",
+   "b": "Almenar",
+   "km": 46,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 46
+  },
+  {
+   "a": "Furquel",
+   "b": "Quiroga",
+   "km": 10,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 10
+  },
+  {
+   "a": "Furquel",
+   "b": "Mirasol",
+   "km": 61,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 41
+  },
+  {
+   "a": "Furquel",
+   "b": "Monreal",
+   "km": 90,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 60
+  },
+  {
+   "a": "Furquel",
+   "b": "Ibaneta",
+   "km": 37,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 37
+  },
+  {
+   "a": "Almenar",
+   "b": "Quiroga",
+   "km": 54,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 54
+  },
+  {
+   "a": "Almenar",
+   "b": "Bracera",
+   "km": 63,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 42
+  },
+  {
+   "a": "Jerica",
+   "b": "Ilvera",
+   "km": 79,
+   "tipo": "autovía",
+   "v": 120,
+   "min": 40
+  },
+  {
+   "a": "Jerica",
+   "b": "Lorbaga",
+   "km": 50,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 50
+  },
+  {
+   "a": "Jerica",
+   "b": "Jarandilla",
+   "km": 73,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 49
+  },
+  {
+   "a": "Jerica",
+   "b": "Doriana",
+   "km": 79,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 53
+  },
+  {
+   "a": "Jerica",
+   "b": "Lastres",
+   "km": 77,
+   "tipo": "autovía",
+   "v": 120,
+   "min": 38
+  },
+  {
+   "a": "Ilvera",
+   "b": "Doriana",
+   "km": 50,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 33
+  },
+  {
+   "a": "Zufre",
+   "b": "Mirasol",
+   "km": 46,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 46
+  },
+  {
+   "a": "Zufre",
+   "b": "Doriana",
+   "km": 18,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 12
+  },
+  {
+   "a": "Zufre",
+   "b": "Ibaneta",
+   "km": 67,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 67
+  },
+  {
+   "a": "Zufre",
+   "b": "Cordelia",
+   "km": 59,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 39
+  },
+  {
+   "a": "Nevarra",
+   "b": "Wendaria",
+   "km": 18,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 18
+  },
+  {
+   "a": "Nevarra",
+   "b": "Jarandilla",
+   "km": 58,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 58
+  },
+  {
+   "a": "Nevarra",
+   "b": "Doriana",
+   "km": 84,
+   "tipo": "autovía",
+   "v": 120,
+   "min": 42
+  },
+  {
+   "a": "Nevarra",
+   "b": "Cordelia",
+   "km": 8,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 8
+  },
+  {
+   "a": "Lorbaga",
+   "b": "Lastres",
+   "km": 73,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 49
+  },
+  {
+   "a": "Cascante",
+   "b": "Sarmenia",
+   "km": 83,
+   "tipo": "autovía",
+   "v": 120,
+   "min": 42
+  },
+  {
+   "a": "Cascante",
+   "b": "Halcoria",
+   "km": 67,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 45
+  },
+  {
+   "a": "Cascante",
+   "b": "Hontanar",
+   "km": 61,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 61
+  },
+  {
+   "a": "Quiroga",
+   "b": "Ibaneta",
+   "km": 36,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 36
+  },
+  {
+   "a": "Bellosa",
+   "b": "Olmeda",
+   "km": 53,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 53
+  },
+  {
+   "a": "Bellosa",
+   "b": "Fontanar",
+   "km": 56,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 56
+  },
+  {
+   "a": "Wendaria",
+   "b": "Sarmenia",
+   "km": 70,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 70
+  },
+  {
+   "a": "Wendaria",
+   "b": "Jarandilla",
+   "km": 45,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 45
+  },
+  {
+   "a": "Wendaria",
+   "b": "Cordelia",
+   "km": 25,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 17
+  },
+  {
+   "a": "Sarmenia",
+   "b": "Halcoria",
+   "km": 61,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 41
+  },
+  {
+   "a": "Sarmenia",
+   "b": "Hontanar",
+   "km": 52,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 52
+  },
+  {
+   "a": "Sarmenia",
+   "b": "Cordelia",
+   "km": 72,
+   "tipo": "autovía",
+   "v": 120,
+   "min": 36
+  },
+  {
+   "a": "Halcoria",
+   "b": "Canduela",
+   "km": 46,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 46
+  },
+  {
+   "a": "Izaro",
+   "b": "Canduela",
+   "km": 76,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 51
+  },
+  {
+   "a": "Guadela",
+   "b": "Berlanda",
+   "km": 103,
+   "tipo": "autovía",
+   "v": 120,
+   "min": 52
+  },
+  {
+   "a": "Mirasol",
+   "b": "Doriana",
+   "km": 55,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 37
+  },
+  {
+   "a": "Mirasol",
+   "b": "Ibaneta",
+   "km": 26,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 17
+  },
+  {
+   "a": "Monreal",
+   "b": "Bracera",
+   "km": 87,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 58
+  },
+  {
+   "a": "Monreal",
+   "b": "Cordelia",
+   "km": 69,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 46
+  },
+  {
+   "a": "Lastres",
+   "b": "Berlanda",
+   "km": 47,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 47
+  },
+  {
+   "a": "Olmeda",
+   "b": "Fontanar",
+   "km": 29,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 29
+  },
+  {
+   "a": "Canduela",
+   "b": "Fontanar",
+   "km": 43,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 43
+  },
+  {
+   "a": "Zufre",
+   "b": "Berlanda",
+   "km": 182,
+   "tipo": "tren lanzadera",
+   "v": 160,
+   "min": 68
+  }
+ ]
+}

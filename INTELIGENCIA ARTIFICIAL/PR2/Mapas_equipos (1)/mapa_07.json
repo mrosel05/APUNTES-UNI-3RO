@@ -1,0 +1,400 @@
+{
+ "equipo": 7,
+ "ciudades": [
+  "Lastres",
+  "Sotoval",
+  "Espinel",
+  "Kelmar",
+  "Peraleda",
+  "Berlanda",
+  "Robledal",
+  "Doriana",
+  "Monreal",
+  "Furquel",
+  "Yerbal",
+  "Fraguera",
+  "Bellosa",
+  "Zaraiba",
+  "Ilvera",
+  "Jarandilla",
+  "Valcorta",
+  "Sarmenia",
+  "Quintaval",
+  "Hontanar",
+  "Izaro",
+  "Guadela",
+  "Cordelia",
+  "Vilanova",
+  "Noviella",
+  "Torbel",
+  "Hervas",
+  "Jabalera"
+ ],
+ "consulta": {
+  "origen": "Jarandilla",
+  "destino": "Jabalera"
+ },
+ "velocidad_maxima": 160,
+ "carreteras": [
+  {
+   "a": "Lastres",
+   "b": "Quintaval",
+   "km": 26,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 26
+  },
+  {
+   "a": "Lastres",
+   "b": "Hervas",
+   "km": 68,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 45
+  },
+  {
+   "a": "Lastres",
+   "b": "Jabalera",
+   "km": 164,
+   "tipo": "autovía",
+   "v": 120,
+   "min": 82
+  },
+  {
+   "a": "Sotoval",
+   "b": "Kelmar",
+   "km": 75,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 50
+  },
+  {
+   "a": "Sotoval",
+   "b": "Bellosa",
+   "km": 57,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 38
+  },
+  {
+   "a": "Sotoval",
+   "b": "Quintaval",
+   "km": 98,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 65
+  },
+  {
+   "a": "Espinel",
+   "b": "Monreal",
+   "km": 8,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 5
+  },
+  {
+   "a": "Espinel",
+   "b": "Valcorta",
+   "km": 35,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 23
+  },
+  {
+   "a": "Espinel",
+   "b": "Sarmenia",
+   "km": 66,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 66
+  },
+  {
+   "a": "Kelmar",
+   "b": "Doriana",
+   "km": 26,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 17
+  },
+  {
+   "a": "Kelmar",
+   "b": "Fraguera",
+   "km": 8,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 8
+  },
+  {
+   "a": "Kelmar",
+   "b": "Bellosa",
+   "km": 57,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 38
+  },
+  {
+   "a": "Peraleda",
+   "b": "Yerbal",
+   "km": 34,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 34
+  },
+  {
+   "a": "Peraleda",
+   "b": "Valcorta",
+   "km": 23,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 15
+  },
+  {
+   "a": "Peraleda",
+   "b": "Sarmenia",
+   "km": 21,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 21
+  },
+  {
+   "a": "Peraleda",
+   "b": "Guadela",
+   "km": 56,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 56
+  },
+  {
+   "a": "Berlanda",
+   "b": "Robledal",
+   "km": 28,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 28
+  },
+  {
+   "a": "Berlanda",
+   "b": "Furquel",
+   "km": 8,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 8
+  },
+  {
+   "a": "Berlanda",
+   "b": "Cordelia",
+   "km": 55,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 37
+  },
+  {
+   "a": "Berlanda",
+   "b": "Torbel",
+   "km": 49,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 49
+  },
+  {
+   "a": "Robledal",
+   "b": "Furquel",
+   "km": 31,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 31
+  },
+  {
+   "a": "Robledal",
+   "b": "Sarmenia",
+   "km": 110,
+   "tipo": "autovía",
+   "v": 120,
+   "min": 55
+  },
+  {
+   "a": "Robledal",
+   "b": "Cordelia",
+   "km": 27,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 18
+  },
+  {
+   "a": "Robledal",
+   "b": "Torbel",
+   "km": 77,
+   "tipo": "autovía",
+   "v": 120,
+   "min": 38
+  },
+  {
+   "a": "Doriana",
+   "b": "Fraguera",
+   "km": 33,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 33
+  },
+  {
+   "a": "Monreal",
+   "b": "Zaraiba",
+   "km": 16,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 16
+  },
+  {
+   "a": "Monreal",
+   "b": "Valcorta",
+   "km": 35,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 35
+  },
+  {
+   "a": "Furquel",
+   "b": "Cordelia",
+   "km": 53,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 35
+  },
+  {
+   "a": "Yerbal",
+   "b": "Bellosa",
+   "km": 69,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 69
+  },
+  {
+   "a": "Yerbal",
+   "b": "Valcorta",
+   "km": 51,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 34
+  },
+  {
+   "a": "Yerbal",
+   "b": "Sarmenia",
+   "km": 34,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 23
+  },
+  {
+   "a": "Yerbal",
+   "b": "Hontanar",
+   "km": 81,
+   "tipo": "autovía",
+   "v": 120,
+   "min": 40
+  },
+  {
+   "a": "Yerbal",
+   "b": "Guadela",
+   "km": 17,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 17
+  },
+  {
+   "a": "Fraguera",
+   "b": "Bellosa",
+   "km": 55,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 55
+  },
+  {
+   "a": "Bellosa",
+   "b": "Guadela",
+   "km": 66,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 44
+  },
+  {
+   "a": "Ilvera",
+   "b": "Hervas",
+   "km": 19,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 19
+  },
+  {
+   "a": "Jarandilla",
+   "b": "Vilanova",
+   "km": 40,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 27
+  },
+  {
+   "a": "Valcorta",
+   "b": "Sarmenia",
+   "km": 44,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 44
+  },
+  {
+   "a": "Valcorta",
+   "b": "Guadela",
+   "km": 75,
+   "tipo": "autovía",
+   "v": 120,
+   "min": 38
+  },
+  {
+   "a": "Sarmenia",
+   "b": "Guadela",
+   "km": 50,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 50
+  },
+  {
+   "a": "Hontanar",
+   "b": "Guadela",
+   "km": 76,
+   "tipo": "autovía",
+   "v": 120,
+   "min": 38
+  },
+  {
+   "a": "Hontanar",
+   "b": "Noviella",
+   "km": 57,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 57
+  },
+  {
+   "a": "Izaro",
+   "b": "Torbel",
+   "km": 63,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 42
+  },
+  {
+   "a": "Vilanova",
+   "b": "Noviella",
+   "km": 68,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 68
+  },
+  {
+   "a": "Valcorta",
+   "b": "Hervas",
+   "km": 172,
+   "tipo": "tren lanzadera",
+   "v": 160,
+   "min": 64
+  }
+ ]
+}

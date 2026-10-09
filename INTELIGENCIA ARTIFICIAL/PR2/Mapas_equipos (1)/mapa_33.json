@@ -1,0 +1,400 @@
+{
+ "equipo": 33,
+ "ciudades": [
+  "Kelmar",
+  "Xarel",
+  "Gandara",
+  "Lorbaga",
+  "Quiroga",
+  "Sarmenia",
+  "Monreal",
+  "Zufre",
+  "Hervas",
+  "Yebres",
+  "Bracera",
+  "Lastres",
+  "Tebares",
+  "Izaro",
+  "Ibaneta",
+  "Grisel",
+  "Delmar",
+  "Escobal",
+  "Zaraiba",
+  "Peraleda",
+  "Jarandilla",
+  "Noviella",
+  "Vilanova",
+  "Wendaria",
+  "Orzaya",
+  "Cordelia",
+  "Sotoval",
+  "Fontanar"
+ ],
+ "consulta": {
+  "origen": "Hervas",
+  "destino": "Noviella"
+ },
+ "velocidad_maxima": 160,
+ "carreteras": [
+  {
+   "a": "Kelmar",
+   "b": "Xarel",
+   "km": 27,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 27
+  },
+  {
+   "a": "Kelmar",
+   "b": "Ibaneta",
+   "km": 110,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 73
+  },
+  {
+   "a": "Kelmar",
+   "b": "Vilanova",
+   "km": 54,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 36
+  },
+  {
+   "a": "Kelmar",
+   "b": "Wendaria",
+   "km": 83,
+   "tipo": "autovía",
+   "v": 120,
+   "min": 42
+  },
+  {
+   "a": "Kelmar",
+   "b": "Fontanar",
+   "km": 25,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 25
+  },
+  {
+   "a": "Xarel",
+   "b": "Tebares",
+   "km": 23,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 15
+  },
+  {
+   "a": "Xarel",
+   "b": "Vilanova",
+   "km": 48,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 48
+  },
+  {
+   "a": "Xarel",
+   "b": "Fontanar",
+   "km": 37,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 25
+  },
+  {
+   "a": "Gandara",
+   "b": "Bracera",
+   "km": 24,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 24
+  },
+  {
+   "a": "Gandara",
+   "b": "Izaro",
+   "km": 58,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 58
+  },
+  {
+   "a": "Gandara",
+   "b": "Peraleda",
+   "km": 82,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 55
+  },
+  {
+   "a": "Gandara",
+   "b": "Cordelia",
+   "km": 82,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 55
+  },
+  {
+   "a": "Lorbaga",
+   "b": "Izaro",
+   "km": 63,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 42
+  },
+  {
+   "a": "Quiroga",
+   "b": "Escobal",
+   "km": 103,
+   "tipo": "autovía",
+   "v": 120,
+   "min": 52
+  },
+  {
+   "a": "Sarmenia",
+   "b": "Zufre",
+   "km": 81,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 54
+  },
+  {
+   "a": "Sarmenia",
+   "b": "Bracera",
+   "km": 80,
+   "tipo": "autovía",
+   "v": 120,
+   "min": 40
+  },
+  {
+   "a": "Sarmenia",
+   "b": "Cordelia",
+   "km": 33,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 33
+  },
+  {
+   "a": "Monreal",
+   "b": "Jarandilla",
+   "km": 72,
+   "tipo": "autovía",
+   "v": 120,
+   "min": 36
+  },
+  {
+   "a": "Monreal",
+   "b": "Sotoval",
+   "km": 85,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 57
+  },
+  {
+   "a": "Zufre",
+   "b": "Jarandilla",
+   "km": 63,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 42
+  },
+  {
+   "a": "Zufre",
+   "b": "Orzaya",
+   "km": 61,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 41
+  },
+  {
+   "a": "Hervas",
+   "b": "Yebres",
+   "km": 9,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 6
+  },
+  {
+   "a": "Yebres",
+   "b": "Escobal",
+   "km": 121,
+   "tipo": "autovía",
+   "v": 120,
+   "min": 60
+  },
+  {
+   "a": "Bracera",
+   "b": "Cordelia",
+   "km": 57,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 57
+  },
+  {
+   "a": "Lastres",
+   "b": "Noviella",
+   "km": 86,
+   "tipo": "autovía",
+   "v": 120,
+   "min": 43
+  },
+  {
+   "a": "Lastres",
+   "b": "Sotoval",
+   "km": 16,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 11
+  },
+  {
+   "a": "Tebares",
+   "b": "Vilanova",
+   "km": 37,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 37
+  },
+  {
+   "a": "Tebares",
+   "b": "Wendaria",
+   "km": 48,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 48
+  },
+  {
+   "a": "Tebares",
+   "b": "Fontanar",
+   "km": 50,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 50
+  },
+  {
+   "a": "Izaro",
+   "b": "Ibaneta",
+   "km": 39,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 39
+  },
+  {
+   "a": "Izaro",
+   "b": "Delmar",
+   "km": 42,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 28
+  },
+  {
+   "a": "Izaro",
+   "b": "Peraleda",
+   "km": 20,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 20
+  },
+  {
+   "a": "Ibaneta",
+   "b": "Delmar",
+   "km": 23,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 15
+  },
+  {
+   "a": "Ibaneta",
+   "b": "Zaraiba",
+   "km": 72,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 48
+  },
+  {
+   "a": "Ibaneta",
+   "b": "Peraleda",
+   "km": 20,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 20
+  },
+  {
+   "a": "Grisel",
+   "b": "Delmar",
+   "km": 8,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 8
+  },
+  {
+   "a": "Grisel",
+   "b": "Zaraiba",
+   "km": 63,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 63
+  },
+  {
+   "a": "Grisel",
+   "b": "Peraleda",
+   "km": 37,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 37
+  },
+  {
+   "a": "Delmar",
+   "b": "Zaraiba",
+   "km": 76,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 51
+  },
+  {
+   "a": "Escobal",
+   "b": "Vilanova",
+   "km": 107,
+   "tipo": "autovía",
+   "v": 120,
+   "min": 54
+  },
+  {
+   "a": "Jarandilla",
+   "b": "Orzaya",
+   "km": 75,
+   "tipo": "autovía",
+   "v": 120,
+   "min": 38
+  },
+  {
+   "a": "Vilanova",
+   "b": "Wendaria",
+   "km": 35,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 23
+  },
+  {
+   "a": "Vilanova",
+   "b": "Fontanar",
+   "km": 32,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 32
+  },
+  {
+   "a": "Wendaria",
+   "b": "Fontanar",
+   "km": 67,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 45
+  },
+  {
+   "a": "Zufre",
+   "b": "Sotoval",
+   "km": 171,
+   "tipo": "tren lanzadera",
+   "v": 160,
+   "min": 64
+  }
+ ]
+}

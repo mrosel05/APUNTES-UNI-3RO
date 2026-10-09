@@ -1,0 +1,400 @@
+{
+ "equipo": 16,
+ "ciudades": [
+  "Jerica",
+  "Yerbal",
+  "Quiroga",
+  "Gandara",
+  "Vilanova",
+  "Alventa",
+  "Noviella",
+  "Zufre",
+  "Sarmenia",
+  "Guadela",
+  "Robledal",
+  "Umbria",
+  "Orzaya",
+  "Kelmar",
+  "Berlanda",
+  "Valcorta",
+  "Lumbrera",
+  "Elmedio",
+  "Furquel",
+  "Fontanar",
+  "Bellosa",
+  "Duraza",
+  "Zaraiba",
+  "Grisel",
+  "Cascante",
+  "Jarandilla",
+  "Lastres",
+  "Urgela"
+ ],
+ "consulta": {
+  "origen": "Vilanova",
+  "destino": "Grisel"
+ },
+ "velocidad_maxima": 160,
+ "carreteras": [
+  {
+   "a": "Jerica",
+   "b": "Umbria",
+   "km": 11,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 11
+  },
+  {
+   "a": "Jerica",
+   "b": "Bellosa",
+   "km": 44,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 44
+  },
+  {
+   "a": "Jerica",
+   "b": "Jarandilla",
+   "km": 72,
+   "tipo": "autovía",
+   "v": 120,
+   "min": 36
+  },
+  {
+   "a": "Yerbal",
+   "b": "Alventa",
+   "km": 77,
+   "tipo": "autovía",
+   "v": 120,
+   "min": 38
+  },
+  {
+   "a": "Yerbal",
+   "b": "Sarmenia",
+   "km": 88,
+   "tipo": "autovía",
+   "v": 120,
+   "min": 44
+  },
+  {
+   "a": "Yerbal",
+   "b": "Berlanda",
+   "km": 87,
+   "tipo": "autovía",
+   "v": 120,
+   "min": 44
+  },
+  {
+   "a": "Yerbal",
+   "b": "Lumbrera",
+   "km": 61,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 41
+  },
+  {
+   "a": "Yerbal",
+   "b": "Furquel",
+   "km": 65,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 65
+  },
+  {
+   "a": "Quiroga",
+   "b": "Alventa",
+   "km": 65,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 65
+  },
+  {
+   "a": "Quiroga",
+   "b": "Zufre",
+   "km": 55,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 37
+  },
+  {
+   "a": "Quiroga",
+   "b": "Robledal",
+   "km": 28,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 28
+  },
+  {
+   "a": "Quiroga",
+   "b": "Orzaya",
+   "km": 52,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 52
+  },
+  {
+   "a": "Quiroga",
+   "b": "Berlanda",
+   "km": 68,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 45
+  },
+  {
+   "a": "Quiroga",
+   "b": "Urgela",
+   "km": 36,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 36
+  },
+  {
+   "a": "Gandara",
+   "b": "Berlanda",
+   "km": 85,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 57
+  },
+  {
+   "a": "Gandara",
+   "b": "Zaraiba",
+   "km": 27,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 27
+  },
+  {
+   "a": "Vilanova",
+   "b": "Noviella",
+   "km": 22,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 22
+  },
+  {
+   "a": "Alventa",
+   "b": "Robledal",
+   "km": 68,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 45
+  },
+  {
+   "a": "Alventa",
+   "b": "Orzaya",
+   "km": 85,
+   "tipo": "autovía",
+   "v": 120,
+   "min": 42
+  },
+  {
+   "a": "Alventa",
+   "b": "Berlanda",
+   "km": 14,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 9
+  },
+  {
+   "a": "Noviella",
+   "b": "Duraza",
+   "km": 50,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 50
+  },
+  {
+   "a": "Zufre",
+   "b": "Robledal",
+   "km": 70,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 47
+  },
+  {
+   "a": "Zufre",
+   "b": "Fontanar",
+   "km": 91,
+   "tipo": "autovía",
+   "v": 120,
+   "min": 46
+  },
+  {
+   "a": "Zufre",
+   "b": "Urgela",
+   "km": 26,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 17
+  },
+  {
+   "a": "Sarmenia",
+   "b": "Valcorta",
+   "km": 76,
+   "tipo": "autovía",
+   "v": 120,
+   "min": 38
+  },
+  {
+   "a": "Guadela",
+   "b": "Lumbrera",
+   "km": 53,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 53
+  },
+  {
+   "a": "Guadela",
+   "b": "Furquel",
+   "km": 44,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 44
+  },
+  {
+   "a": "Guadela",
+   "b": "Lastres",
+   "km": 29,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 19
+  },
+  {
+   "a": "Robledal",
+   "b": "Berlanda",
+   "km": 54,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 54
+  },
+  {
+   "a": "Robledal",
+   "b": "Urgela",
+   "km": 69,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 46
+  },
+  {
+   "a": "Umbria",
+   "b": "Bellosa",
+   "km": 51,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 34
+  },
+  {
+   "a": "Umbria",
+   "b": "Cascante",
+   "km": 49,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 33
+  },
+  {
+   "a": "Umbria",
+   "b": "Jarandilla",
+   "km": 63,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 42
+  },
+  {
+   "a": "Orzaya",
+   "b": "Valcorta",
+   "km": 54,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 54
+  },
+  {
+   "a": "Kelmar",
+   "b": "Lumbrera",
+   "km": 89,
+   "tipo": "autovía",
+   "v": 120,
+   "min": 44
+  },
+  {
+   "a": "Lumbrera",
+   "b": "Furquel",
+   "km": 8,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 8
+  },
+  {
+   "a": "Elmedio",
+   "b": "Fontanar",
+   "km": 83,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 55
+  },
+  {
+   "a": "Elmedio",
+   "b": "Grisel",
+   "km": 52,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 52
+  },
+  {
+   "a": "Furquel",
+   "b": "Lastres",
+   "km": 71,
+   "tipo": "autovía",
+   "v": 120,
+   "min": 36
+  },
+  {
+   "a": "Bellosa",
+   "b": "Cascante",
+   "km": 9,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 9
+  },
+  {
+   "a": "Bellosa",
+   "b": "Jarandilla",
+   "km": 59,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 59
+  },
+  {
+   "a": "Duraza",
+   "b": "Jarandilla",
+   "km": 72,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 48
+  },
+  {
+   "a": "Zaraiba",
+   "b": "Jarandilla",
+   "km": 99,
+   "tipo": "autovía",
+   "v": 120,
+   "min": 50
+  },
+  {
+   "a": "Cascante",
+   "b": "Jarandilla",
+   "km": 50,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 33
+  },
+  {
+   "a": "Kelmar",
+   "b": "Grisel",
+   "km": 229,
+   "tipo": "tren lanzadera",
+   "v": 160,
+   "min": 86
+  }
+ ]
+}

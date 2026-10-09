@@ -1,0 +1,400 @@
+{
+ "equipo": 2,
+ "ciudades": [
+  "Sarmenia",
+  "Fraguera",
+  "Hontanar",
+  "Yebres",
+  "Yerbal",
+  "Ibaneta",
+  "Sotoval",
+  "Peraleda",
+  "Wendaria",
+  "Gandara",
+  "Pedroso",
+  "Valcorta",
+  "Alventa",
+  "Halcoria",
+  "Olmeda",
+  "Cordelia",
+  "Ilvera",
+  "Fontanar",
+  "Quiroga",
+  "Nevarra",
+  "Andrada",
+  "Delmar",
+  "Bellosa",
+  "Lastres",
+  "Canduela",
+  "Jabalera",
+  "Vilanova",
+  "Furquel"
+ ],
+ "consulta": {
+  "origen": "Yerbal",
+  "destino": "Valcorta"
+ },
+ "velocidad_maxima": 160,
+ "carreteras": [
+  {
+   "a": "Sarmenia",
+   "b": "Sotoval",
+   "km": 42,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 42
+  },
+  {
+   "a": "Sarmenia",
+   "b": "Cordelia",
+   "km": 11,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 11
+  },
+  {
+   "a": "Sarmenia",
+   "b": "Ilvera",
+   "km": 72,
+   "tipo": "autovía",
+   "v": 120,
+   "min": 36
+  },
+  {
+   "a": "Sarmenia",
+   "b": "Bellosa",
+   "km": 19,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 19
+  },
+  {
+   "a": "Fraguera",
+   "b": "Gandara",
+   "km": 70,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 70
+  },
+  {
+   "a": "Fraguera",
+   "b": "Lastres",
+   "km": 67,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 67
+  },
+  {
+   "a": "Fraguera",
+   "b": "Canduela",
+   "km": 101,
+   "tipo": "autovía",
+   "v": 120,
+   "min": 50
+  },
+  {
+   "a": "Hontanar",
+   "b": "Wendaria",
+   "km": 62,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 62
+  },
+  {
+   "a": "Hontanar",
+   "b": "Gandara",
+   "km": 64,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 43
+  },
+  {
+   "a": "Hontanar",
+   "b": "Quiroga",
+   "km": 58,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 39
+  },
+  {
+   "a": "Hontanar",
+   "b": "Lastres",
+   "km": 78,
+   "tipo": "autovía",
+   "v": 120,
+   "min": 39
+  },
+  {
+   "a": "Yebres",
+   "b": "Peraleda",
+   "km": 61,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 41
+  },
+  {
+   "a": "Yebres",
+   "b": "Lastres",
+   "km": 91,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 61
+  },
+  {
+   "a": "Yerbal",
+   "b": "Olmeda",
+   "km": 83,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 55
+  },
+  {
+   "a": "Ibaneta",
+   "b": "Sotoval",
+   "km": 30,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 20
+  },
+  {
+   "a": "Ibaneta",
+   "b": "Valcorta",
+   "km": 35,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 23
+  },
+  {
+   "a": "Ibaneta",
+   "b": "Cordelia",
+   "km": 82,
+   "tipo": "autovía",
+   "v": 120,
+   "min": 41
+  },
+  {
+   "a": "Ibaneta",
+   "b": "Bellosa",
+   "km": 73,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 49
+  },
+  {
+   "a": "Sotoval",
+   "b": "Valcorta",
+   "km": 67,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 67
+  },
+  {
+   "a": "Sotoval",
+   "b": "Cordelia",
+   "km": 52,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 52
+  },
+  {
+   "a": "Sotoval",
+   "b": "Bellosa",
+   "km": 46,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 46
+  },
+  {
+   "a": "Peraleda",
+   "b": "Nevarra",
+   "km": 68,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 68
+  },
+  {
+   "a": "Wendaria",
+   "b": "Alventa",
+   "km": 78,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 52
+  },
+  {
+   "a": "Wendaria",
+   "b": "Andrada",
+   "km": 49,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 33
+  },
+  {
+   "a": "Gandara",
+   "b": "Quiroga",
+   "km": 29,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 29
+  },
+  {
+   "a": "Gandara",
+   "b": "Lastres",
+   "km": 33,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 22
+  },
+  {
+   "a": "Pedroso",
+   "b": "Alventa",
+   "km": 22,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 22
+  },
+  {
+   "a": "Pedroso",
+   "b": "Ilvera",
+   "km": 87,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 58
+  },
+  {
+   "a": "Pedroso",
+   "b": "Jabalera",
+   "km": 35,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 35
+  },
+  {
+   "a": "Alventa",
+   "b": "Jabalera",
+   "km": 55,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 55
+  },
+  {
+   "a": "Halcoria",
+   "b": "Fontanar",
+   "km": 22,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 15
+  },
+  {
+   "a": "Halcoria",
+   "b": "Nevarra",
+   "km": 46,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 46
+  },
+  {
+   "a": "Olmeda",
+   "b": "Canduela",
+   "km": 24,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 24
+  },
+  {
+   "a": "Cordelia",
+   "b": "Bellosa",
+   "km": 29,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 19
+  },
+  {
+   "a": "Ilvera",
+   "b": "Bellosa",
+   "km": 58,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 39
+  },
+  {
+   "a": "Ilvera",
+   "b": "Jabalera",
+   "km": 57,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 57
+  },
+  {
+   "a": "Fontanar",
+   "b": "Nevarra",
+   "km": 26,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 26
+  },
+  {
+   "a": "Quiroga",
+   "b": "Lastres",
+   "km": 56,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 56
+  },
+  {
+   "a": "Andrada",
+   "b": "Delmar",
+   "km": 26,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 17
+  },
+  {
+   "a": "Andrada",
+   "b": "Vilanova",
+   "km": 44,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 29
+  },
+  {
+   "a": "Andrada",
+   "b": "Furquel",
+   "km": 53,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 53
+  },
+  {
+   "a": "Delmar",
+   "b": "Vilanova",
+   "km": 18,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 18
+  },
+  {
+   "a": "Delmar",
+   "b": "Furquel",
+   "km": 61,
+   "tipo": "nacional",
+   "v": 90,
+   "min": 41
+  },
+  {
+   "a": "Vilanova",
+   "b": "Furquel",
+   "km": 65,
+   "tipo": "comarcal",
+   "v": 60,
+   "min": 65
+  },
+  {
+   "a": "Cordelia",
+   "b": "Fontanar",
+   "km": 197,
+   "tipo": "tren lanzadera",
+   "v": 160,
+   "min": 74
+  }
+ ]
+}
