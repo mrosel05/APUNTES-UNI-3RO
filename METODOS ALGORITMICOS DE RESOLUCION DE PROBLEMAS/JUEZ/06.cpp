@@ -4,66 +4,52 @@
 #include <queue>
 
 /*
-Cola de clientes. 
-Cuando haya hueco, cogemos tantos como huecos haya. 
-Los metemos en el priority queue con la posicion de la caja en la que estan
-Para saber las cajas libres, llevamos un set de cajas, ordenado para que nos de la mas baja
-Metemos al cliente en la pqueue con la pos de cola y momento en que llega. 
-Sacamos al primero de la pqueue y para el resto, ha pasado tanto tiempo
-como hubiera necesitado el cliente para todos los que estuvieran en la cola. 
-Rebajamos el tiempo de todos? Eso es lineal, no se puede. 
-Necesitamos un ordenador que ordene segun una cola de tiempos que han pasado
-al sacar cada cliente y el tiempo que les quedaba. De esta manera si se puede. 
+EXPLICACIÓN
+Para el siguiente problema, vamos a ordenar a los clientes sobre el tiempo en el que 
+les toca salir de la caja y, en caso de igualdad, el de la caja mas baja. 
+Tenemos dos casos, cuando el número de clientes es menor que el número 
+de cajas, por lo que la solución es la caja c + 1 y limpiamos la entrada.
+
+En otro caso, llenamos inicialmente las cajas (i <= n) y luego, 
+sacamos un cliente y metemos a otro por el orden establecido. 
+Su tiempo de salida será el tiempo que ha tardado el anterior más el suyo propio. 
+Devolvemos la próxima caja en quedarse libre. 
+
+COSTE: 
+Depende de n y c. Si n > c, la función tiene coste c para limpiar la entrada. O(c)
+En otro caso, el bucle se ejecuta c veces, con un coste log n en ambos casos
+(ya que o metemos en la caja o metemos y sacamos). Coste O(c log n).
+
 */
 
 struct data{
     bool operator()(data const& d1, data const& d2){
-        return d1.tiempo + d1.momentoEntrada < d2.tiempo + d2.momentoEntrada;
+        return d1.tiempo < d2.tiempo || (d1.tiempo == d2.tiempo && d1.caja < d2.caja);
     }
-    int tiempo, momentoEntrada, caja;
+    int tiempo, caja;
 };
 
 
 
 int resolver(int n, int c){
     PriorityQueue<data, data> cajas;
-    std::queue<int> cola;
-    std::set<int> cajasLibres;
-    int tiempo_pasado = 0;
-    while(c--){ //creamos la cola
-        int aux;
-        std::cin >> aux;
-        cola.push(aux);
+    int tiempo;
+
+    if(n > c){ //menos clientes que cajas
+        int sol = c + 1;
+        while(c--) std::cin >> tiempo; //limpiamos la entrada
+        return sol;
     }
 
-    for(int i = 1; i <= n; i++){ //llenamos las cajas.
-        if(cola.empty()) cajasLibres.insert(i);
+    for(int i = 1; i <= c; i++){
+        std::cin >> tiempo; 
+        if(i <= n) cajas.push({tiempo, i});
         else {
-            cajas.push({cola.front(), tiempo_pasado, i});
-            cola.pop();
+            data d = cajas.top(); cajas.pop();
+            cajas.push({d.tiempo + tiempo, d.caja});
         }
     }
-
-    while(!cola.empty()){ //mientras haya gente
-        data d = cajas.top(); cajas.pop();
-        while(!cajas.empty() && 
-        cajas.top().tiempo + cajas.top().momentoEntrada == d.tiempo + d.momentoEntrada){
-            cajasLibres.insert(d.caja);
-            d = cajas.top(); cajas.pop();
-        }
-        cajasLibres.insert(d.caja);
-        tiempo_pasado += d.tiempo;
-        while(cajas.size() < n && !cola.empty()){
-            cajas.push({cola.front(), tiempo_pasado, *(cajasLibres.begin())});
-            cola.pop(); cajasLibres.erase(cajasLibres.begin());
-        }
-    }
-
-    if(cajas.size() < n){
-        return cajas.top().caja;
-    }
-    else return *(cajasLibres.begin());
-
+    return cajas.top().caja;
 }
 
 int main(){

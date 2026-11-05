@@ -1,0 +1,3 @@
+mapred streaming -D mapreduce.local.map.tasks.maximum=4 \
+-D mapreduce.local.reduce.tasks.maximum=4 -numReduceTasks 0 \
+-mapper "python3 mapper1.py zoroaster" -input input.txt -output output1

@@ -1,0 +1,1441 @@
+﻿algoritmo,parametros,funcion,n,k,presupuesto,replica,semilla,evaluaciones_gastadas,mejor_f,optimo,exito,evals_hasta_optimo
+aleatoria,{},onemax,32,4,20000,1,1001,20000,27,32,False,
+aleatoria,{},onemax,32,4,20000,2,1002,20000,27,32,False,
+aleatoria,{},onemax,32,4,20000,3,1003,20000,27,32,False,
+aleatoria,{},onemax,32,4,20000,4,1004,20000,27,32,False,
+aleatoria,{},onemax,32,4,20000,5,1005,20000,26,32,False,
+aleatoria,{},onemax,32,4,20000,6,1006,20000,26,32,False,
+aleatoria,{},onemax,32,4,20000,7,1007,20000,27,32,False,
+aleatoria,{},onemax,32,4,20000,8,1008,20000,27,32,False,
+aleatoria,{},onemax,32,4,20000,9,1009,20000,29,32,False,
+aleatoria,{},onemax,32,4,20000,10,1010,20000,26,32,False,
+aleatoria,{},onemax,32,4,20000,11,1011,20000,27,32,False,
+aleatoria,{},onemax,32,4,20000,12,1012,20000,26,32,False,
+aleatoria,{},onemax,32,4,20000,13,1013,20000,26,32,False,
+aleatoria,{},onemax,32,4,20000,14,1014,20000,26,32,False,
+aleatoria,{},onemax,32,4,20000,15,1015,20000,27,32,False,
+aleatoria,{},onemax,32,4,20000,16,1016,20000,25,32,False,
+aleatoria,{},onemax,32,4,20000,17,1017,20000,25,32,False,
+aleatoria,{},onemax,32,4,20000,18,1018,20000,26,32,False,
+aleatoria,{},onemax,32,4,20000,19,1019,20000,27,32,False,
+aleatoria,{},onemax,32,4,20000,20,1020,20000,26,32,False,
+aleatoria,{},onemax,32,4,20000,21,1021,20000,25,32,False,
+aleatoria,{},onemax,32,4,20000,22,1022,20000,26,32,False,
+aleatoria,{},onemax,32,4,20000,23,1023,20000,26,32,False,
+aleatoria,{},onemax,32,4,20000,24,1024,20000,26,32,False,
+aleatoria,{},onemax,32,4,20000,25,1025,20000,26,32,False,
+aleatoria,{},onemax,32,4,20000,26,1026,20000,27,32,False,
+aleatoria,{},onemax,32,4,20000,27,1027,20000,26,32,False,
+aleatoria,{},onemax,32,4,20000,28,1028,20000,27,32,False,
+aleatoria,{},onemax,32,4,20000,29,1029,20000,26,32,False,
+aleatoria,{},onemax,32,4,20000,30,1030,20000,26,32,False,
+escalador,{'aceptar_iguales': True},onemax,32,4,20000,1,1001,97,32,32,True,97.0
+escalador,{'aceptar_iguales': True},onemax,32,4,20000,2,1002,146,32,32,True,146.0
+escalador,{'aceptar_iguales': True},onemax,32,4,20000,3,1003,145,32,32,True,145.0
+escalador,{'aceptar_iguales': True},onemax,32,4,20000,4,1004,65,32,32,True,65.0
+escalador,{'aceptar_iguales': True},onemax,32,4,20000,5,1005,79,32,32,True,79.0
+escalador,{'aceptar_iguales': True},onemax,32,4,20000,6,1006,76,32,32,True,76.0
+escalador,{'aceptar_iguales': True},onemax,32,4,20000,7,1007,146,32,32,True,146.0
+escalador,{'aceptar_iguales': True},onemax,32,4,20000,8,1008,137,32,32,True,137.0
+escalador,{'aceptar_iguales': True},onemax,32,4,20000,9,1009,114,32,32,True,114.0
+escalador,{'aceptar_iguales': True},onemax,32,4,20000,10,1010,97,32,32,True,97.0
+escalador,{'aceptar_iguales': True},onemax,32,4,20000,11,1011,121,32,32,True,121.0
+escalador,{'aceptar_iguales': True},onemax,32,4,20000,12,1012,142,32,32,True,142.0
+escalador,{'aceptar_iguales': True},onemax,32,4,20000,13,1013,105,32,32,True,105.0
+escalador,{'aceptar_iguales': True},onemax,32,4,20000,14,1014,123,32,32,True,123.0
+escalador,{'aceptar_iguales': True},onemax,32,4,20000,15,1015,54,32,32,True,54.0
+escalador,{'aceptar_iguales': True},onemax,32,4,20000,16,1016,90,32,32,True,90.0
+escalador,{'aceptar_iguales': True},onemax,32,4,20000,17,1017,52,32,32,True,52.0
+escalador,{'aceptar_iguales': True},onemax,32,4,20000,18,1018,124,32,32,True,124.0
+escalador,{'aceptar_iguales': True},onemax,32,4,20000,19,1019,80,32,32,True,80.0
+escalador,{'aceptar_iguales': True},onemax,32,4,20000,20,1020,155,32,32,True,155.0
+escalador,{'aceptar_iguales': True},onemax,32,4,20000,21,1021,91,32,32,True,91.0
+escalador,{'aceptar_iguales': True},onemax,32,4,20000,22,1022,75,32,32,True,75.0
+escalador,{'aceptar_iguales': True},onemax,32,4,20000,23,1023,78,32,32,True,78.0
+escalador,{'aceptar_iguales': True},onemax,32,4,20000,24,1024,95,32,32,True,95.0
+escalador,{'aceptar_iguales': True},onemax,32,4,20000,25,1025,108,32,32,True,108.0
+escalador,{'aceptar_iguales': True},onemax,32,4,20000,26,1026,74,32,32,True,74.0
+escalador,{'aceptar_iguales': True},onemax,32,4,20000,27,1027,76,32,32,True,76.0
+escalador,{'aceptar_iguales': True},onemax,32,4,20000,28,1028,84,32,32,True,84.0
+escalador,{'aceptar_iguales': True},onemax,32,4,20000,29,1029,131,32,32,True,131.0
+escalador,{'aceptar_iguales': True},onemax,32,4,20000,30,1030,63,32,32,True,63.0
+recocido,"{'T0': 50.0, 'patron': 'presupuesto'}",onemax,32,4,20000,1,1001,8887,32,32,True,8887.0
+recocido,"{'T0': 50.0, 'patron': 'presupuesto'}",onemax,32,4,20000,2,1002,8270,32,32,True,8270.0
+recocido,"{'T0': 50.0, 'patron': 'presupuesto'}",onemax,32,4,20000,3,1003,7747,32,32,True,7747.0
+recocido,"{'T0': 50.0, 'patron': 'presupuesto'}",onemax,32,4,20000,4,1004,8968,32,32,True,8968.0
+recocido,"{'T0': 50.0, 'patron': 'presupuesto'}",onemax,32,4,20000,5,1005,7958,32,32,True,7958.0
+recocido,"{'T0': 50.0, 'patron': 'presupuesto'}",onemax,32,4,20000,6,1006,8707,32,32,True,8707.0
+recocido,"{'T0': 50.0, 'patron': 'presupuesto'}",onemax,32,4,20000,7,1007,9017,32,32,True,9017.0
+recocido,"{'T0': 50.0, 'patron': 'presupuesto'}",onemax,32,4,20000,8,1008,8728,32,32,True,8728.0
+recocido,"{'T0': 50.0, 'patron': 'presupuesto'}",onemax,32,4,20000,9,1009,8578,32,32,True,8578.0
+recocido,"{'T0': 50.0, 'patron': 'presupuesto'}",onemax,32,4,20000,10,1010,8967,32,32,True,8967.0
+recocido,"{'T0': 50.0, 'patron': 'presupuesto'}",onemax,32,4,20000,11,1011,9102,32,32,True,9102.0
+recocido,"{'T0': 50.0, 'patron': 'presupuesto'}",onemax,32,4,20000,12,1012,8326,32,32,True,8326.0
+recocido,"{'T0': 50.0, 'patron': 'presupuesto'}",onemax,32,4,20000,13,1013,8781,32,32,True,8781.0
+recocido,"{'T0': 50.0, 'patron': 'presupuesto'}",onemax,32,4,20000,14,1014,8037,32,32,True,8037.0
+recocido,"{'T0': 50.0, 'patron': 'presupuesto'}",onemax,32,4,20000,15,1015,8613,32,32,True,8613.0
+recocido,"{'T0': 50.0, 'patron': 'presupuesto'}",onemax,32,4,20000,16,1016,8456,32,32,True,8456.0
+recocido,"{'T0': 50.0, 'patron': 'presupuesto'}",onemax,32,4,20000,17,1017,8641,32,32,True,8641.0
+recocido,"{'T0': 50.0, 'patron': 'presupuesto'}",onemax,32,4,20000,18,1018,8350,32,32,True,8350.0
+recocido,"{'T0': 50.0, 'patron': 'presupuesto'}",onemax,32,4,20000,19,1019,7996,32,32,True,7996.0
+recocido,"{'T0': 50.0, 'patron': 'presupuesto'}",onemax,32,4,20000,20,1020,8722,32,32,True,8722.0
+recocido,"{'T0': 50.0, 'patron': 'presupuesto'}",onemax,32,4,20000,21,1021,8356,32,32,True,8356.0
+recocido,"{'T0': 50.0, 'patron': 'presupuesto'}",onemax,32,4,20000,22,1022,8855,32,32,True,8855.0
+recocido,"{'T0': 50.0, 'patron': 'presupuesto'}",onemax,32,4,20000,23,1023,8701,32,32,True,8701.0
+recocido,"{'T0': 50.0, 'patron': 'presupuesto'}",onemax,32,4,20000,24,1024,8196,32,32,True,8196.0
+recocido,"{'T0': 50.0, 'patron': 'presupuesto'}",onemax,32,4,20000,25,1025,8594,32,32,True,8594.0
+recocido,"{'T0': 50.0, 'patron': 'presupuesto'}",onemax,32,4,20000,26,1026,8718,32,32,True,8718.0
+recocido,"{'T0': 50.0, 'patron': 'presupuesto'}",onemax,32,4,20000,27,1027,8582,32,32,True,8582.0
+recocido,"{'T0': 50.0, 'patron': 'presupuesto'}",onemax,32,4,20000,28,1028,8267,32,32,True,8267.0
+recocido,"{'T0': 50.0, 'patron': 'presupuesto'}",onemax,32,4,20000,29,1029,8604,32,32,True,8604.0
+recocido,"{'T0': 50.0, 'patron': 'presupuesto'}",onemax,32,4,20000,30,1030,8311,32,32,True,8311.0
+umbral,"{'U0': 3.0, 'patron': 'presupuesto'}",onemax,32,4,20000,1,1001,2928,32,32,True,2928.0
+umbral,"{'U0': 3.0, 'patron': 'presupuesto'}",onemax,32,4,20000,2,1002,2895,32,32,True,2895.0
+umbral,"{'U0': 3.0, 'patron': 'presupuesto'}",onemax,32,4,20000,3,1003,2895,32,32,True,2895.0
+umbral,"{'U0': 3.0, 'patron': 'presupuesto'}",onemax,32,4,20000,4,1004,2839,32,32,True,2839.0
+umbral,"{'U0': 3.0, 'patron': 'presupuesto'}",onemax,32,4,20000,5,1005,2859,32,32,True,2859.0
+umbral,"{'U0': 3.0, 'patron': 'presupuesto'}",onemax,32,4,20000,6,1006,2852,32,32,True,2852.0
+umbral,"{'U0': 3.0, 'patron': 'presupuesto'}",onemax,32,4,20000,7,1007,2842,32,32,True,2842.0
+umbral,"{'U0': 3.0, 'patron': 'presupuesto'}",onemax,32,4,20000,8,1008,2852,32,32,True,2852.0
+umbral,"{'U0': 3.0, 'patron': 'presupuesto'}",onemax,32,4,20000,9,1009,2811,32,32,True,2811.0
+umbral,"{'U0': 3.0, 'patron': 'presupuesto'}",onemax,32,4,20000,10,1010,2868,32,32,True,2868.0
+umbral,"{'U0': 3.0, 'patron': 'presupuesto'}",onemax,32,4,20000,11,1011,2815,32,32,True,2815.0
+umbral,"{'U0': 3.0, 'patron': 'presupuesto'}",onemax,32,4,20000,12,1012,2894,32,32,True,2894.0
+umbral,"{'U0': 3.0, 'patron': 'presupuesto'}",onemax,32,4,20000,13,1013,2890,32,32,True,2890.0
+umbral,"{'U0': 3.0, 'patron': 'presupuesto'}",onemax,32,4,20000,14,1014,2867,32,32,True,2867.0
+umbral,"{'U0': 3.0, 'patron': 'presupuesto'}",onemax,32,4,20000,15,1015,2867,32,32,True,2867.0
+umbral,"{'U0': 3.0, 'patron': 'presupuesto'}",onemax,32,4,20000,16,1016,2918,32,32,True,2918.0
+umbral,"{'U0': 3.0, 'patron': 'presupuesto'}",onemax,32,4,20000,17,1017,2830,32,32,True,2830.0
+umbral,"{'U0': 3.0, 'patron': 'presupuesto'}",onemax,32,4,20000,18,1018,2832,32,32,True,2832.0
+umbral,"{'U0': 3.0, 'patron': 'presupuesto'}",onemax,32,4,20000,19,1019,2855,32,32,True,2855.0
+umbral,"{'U0': 3.0, 'patron': 'presupuesto'}",onemax,32,4,20000,20,1020,2889,32,32,True,2889.0
+umbral,"{'U0': 3.0, 'patron': 'presupuesto'}",onemax,32,4,20000,21,1021,2831,32,32,True,2831.0
+umbral,"{'U0': 3.0, 'patron': 'presupuesto'}",onemax,32,4,20000,22,1022,2859,32,32,True,2859.0
+umbral,"{'U0': 3.0, 'patron': 'presupuesto'}",onemax,32,4,20000,23,1023,2889,32,32,True,2889.0
+umbral,"{'U0': 3.0, 'patron': 'presupuesto'}",onemax,32,4,20000,24,1024,2843,32,32,True,2843.0
+umbral,"{'U0': 3.0, 'patron': 'presupuesto'}",onemax,32,4,20000,25,1025,2836,32,32,True,2836.0
+umbral,"{'U0': 3.0, 'patron': 'presupuesto'}",onemax,32,4,20000,26,1026,2816,32,32,True,2816.0
+umbral,"{'U0': 3.0, 'patron': 'presupuesto'}",onemax,32,4,20000,27,1027,2874,32,32,True,2874.0
+umbral,"{'U0': 3.0, 'patron': 'presupuesto'}",onemax,32,4,20000,28,1028,2867,32,32,True,2867.0
+umbral,"{'U0': 3.0, 'patron': 'presupuesto'}",onemax,32,4,20000,29,1029,2817,32,32,True,2817.0
+umbral,"{'U0': 3.0, 'patron': 'presupuesto'}",onemax,32,4,20000,30,1030,2835,32,32,True,2835.0
+rrt,{'D': 3},onemax,32,4,20000,1,1001,11337,32,32,True,11337.0
+rrt,{'D': 3},onemax,32,4,20000,2,1002,20000,30,32,False,
+rrt,{'D': 3},onemax,32,4,20000,3,1003,20000,31,32,False,
+rrt,{'D': 3},onemax,32,4,20000,4,1004,17581,32,32,True,17581.0
+rrt,{'D': 3},onemax,32,4,20000,5,1005,20000,31,32,False,
+rrt,{'D': 3},onemax,32,4,20000,6,1006,20000,31,32,False,
+rrt,{'D': 3},onemax,32,4,20000,7,1007,20000,31,32,False,
+rrt,{'D': 3},onemax,32,4,20000,8,1008,20000,31,32,False,
+rrt,{'D': 3},onemax,32,4,20000,9,1009,20000,31,32,False,
+rrt,{'D': 3},onemax,32,4,20000,10,1010,20000,31,32,False,
+rrt,{'D': 3},onemax,32,4,20000,11,1011,20000,30,32,False,
+rrt,{'D': 3},onemax,32,4,20000,12,1012,20000,31,32,False,
+rrt,{'D': 3},onemax,32,4,20000,13,1013,20000,31,32,False,
+rrt,{'D': 3},onemax,32,4,20000,14,1014,11956,32,32,True,11956.0
+rrt,{'D': 3},onemax,32,4,20000,15,1015,12741,32,32,True,12741.0
+rrt,{'D': 3},onemax,32,4,20000,16,1016,9351,32,32,True,9351.0
+rrt,{'D': 3},onemax,32,4,20000,17,1017,20000,31,32,False,
+rrt,{'D': 3},onemax,32,4,20000,18,1018,14377,32,32,True,14377.0
+rrt,{'D': 3},onemax,32,4,20000,19,1019,20000,31,32,False,
+rrt,{'D': 3},onemax,32,4,20000,20,1020,20000,30,32,False,
+rrt,{'D': 3},onemax,32,4,20000,21,1021,20000,31,32,False,
+rrt,{'D': 3},onemax,32,4,20000,22,1022,20000,31,32,False,
+rrt,{'D': 3},onemax,32,4,20000,23,1023,20000,31,32,False,
+rrt,{'D': 3},onemax,32,4,20000,24,1024,20000,31,32,False,
+rrt,{'D': 3},onemax,32,4,20000,25,1025,20000,31,32,False,
+rrt,{'D': 3},onemax,32,4,20000,26,1026,20000,31,32,False,
+rrt,{'D': 3},onemax,32,4,20000,27,1027,20000,31,32,False,
+rrt,{'D': 3},onemax,32,4,20000,28,1028,20000,31,32,False,
+rrt,{'D': 3},onemax,32,4,20000,29,1029,11754,32,32,True,11754.0
+rrt,{'D': 3},onemax,32,4,20000,30,1030,20000,31,32,False,
+diluvio,"{'L0': 0.0, 'lluvia': 0.5}",onemax,32,4,20000,1,1001,192,32,32,True,192.0
+diluvio,"{'L0': 0.0, 'lluvia': 0.5}",onemax,32,4,20000,2,1002,174,32,32,True,174.0
+diluvio,"{'L0': 0.0, 'lluvia': 0.5}",onemax,32,4,20000,3,1003,149,32,32,True,149.0
+diluvio,"{'L0': 0.0, 'lluvia': 0.5}",onemax,32,4,20000,4,1004,166,32,32,True,166.0
+diluvio,"{'L0': 0.0, 'lluvia': 0.5}",onemax,32,4,20000,5,1005,156,32,32,True,156.0
+diluvio,"{'L0': 0.0, 'lluvia': 0.5}",onemax,32,4,20000,6,1006,140,32,32,True,140.0
+diluvio,"{'L0': 0.0, 'lluvia': 0.5}",onemax,32,4,20000,7,1007,160,32,32,True,160.0
+diluvio,"{'L0': 0.0, 'lluvia': 0.5}",onemax,32,4,20000,8,1008,209,32,32,True,209.0
+diluvio,"{'L0': 0.0, 'lluvia': 0.5}",onemax,32,4,20000,9,1009,249,32,32,True,249.0
+diluvio,"{'L0': 0.0, 'lluvia': 0.5}",onemax,32,4,20000,10,1010,196,32,32,True,196.0
+diluvio,"{'L0': 0.0, 'lluvia': 0.5}",onemax,32,4,20000,11,1011,299,32,32,True,299.0
+diluvio,"{'L0': 0.0, 'lluvia': 0.5}",onemax,32,4,20000,12,1012,230,32,32,True,230.0
+diluvio,"{'L0': 0.0, 'lluvia': 0.5}",onemax,32,4,20000,13,1013,176,32,32,True,176.0
+diluvio,"{'L0': 0.0, 'lluvia': 0.5}",onemax,32,4,20000,14,1014,195,32,32,True,195.0
+diluvio,"{'L0': 0.0, 'lluvia': 0.5}",onemax,32,4,20000,15,1015,152,32,32,True,152.0
+diluvio,"{'L0': 0.0, 'lluvia': 0.5}",onemax,32,4,20000,16,1016,164,32,32,True,164.0
+diluvio,"{'L0': 0.0, 'lluvia': 0.5}",onemax,32,4,20000,17,1017,167,32,32,True,167.0
+diluvio,"{'L0': 0.0, 'lluvia': 0.5}",onemax,32,4,20000,18,1018,141,32,32,True,141.0
+diluvio,"{'L0': 0.0, 'lluvia': 0.5}",onemax,32,4,20000,19,1019,114,32,32,True,114.0
+diluvio,"{'L0': 0.0, 'lluvia': 0.5}",onemax,32,4,20000,20,1020,170,32,32,True,170.0
+diluvio,"{'L0': 0.0, 'lluvia': 0.5}",onemax,32,4,20000,21,1021,187,32,32,True,187.0
+diluvio,"{'L0': 0.0, 'lluvia': 0.5}",onemax,32,4,20000,22,1022,241,32,32,True,241.0
+diluvio,"{'L0': 0.0, 'lluvia': 0.5}",onemax,32,4,20000,23,1023,183,32,32,True,183.0
+diluvio,"{'L0': 0.0, 'lluvia': 0.5}",onemax,32,4,20000,24,1024,264,32,32,True,264.0
+diluvio,"{'L0': 0.0, 'lluvia': 0.5}",onemax,32,4,20000,25,1025,192,32,32,True,192.0
+diluvio,"{'L0': 0.0, 'lluvia': 0.5}",onemax,32,4,20000,26,1026,281,32,32,True,281.0
+diluvio,"{'L0': 0.0, 'lluvia': 0.5}",onemax,32,4,20000,27,1027,127,32,32,True,127.0
+diluvio,"{'L0': 0.0, 'lluvia': 0.5}",onemax,32,4,20000,28,1028,201,32,32,True,201.0
+diluvio,"{'L0': 0.0, 'lluvia': 0.5}",onemax,32,4,20000,29,1029,147,32,32,True,147.0
+diluvio,"{'L0': 0.0, 'lluvia': 0.5}",onemax,32,4,20000,30,1030,142,32,32,True,142.0
+aleatoria,{},plateau,32,4,20000,1,1001,20000,26,32,False,
+aleatoria,{},plateau,32,4,20000,2,1002,20000,27,32,False,
+aleatoria,{},plateau,32,4,20000,3,1003,20000,25,32,False,
+aleatoria,{},plateau,32,4,20000,4,1004,20000,27,32,False,
+aleatoria,{},plateau,32,4,20000,5,1005,20000,24,32,False,
+aleatoria,{},plateau,32,4,20000,6,1006,20000,25,32,False,
+aleatoria,{},plateau,32,4,20000,7,1007,20000,25,32,False,
+aleatoria,{},plateau,32,4,20000,8,1008,20000,26,32,False,
+aleatoria,{},plateau,32,4,20000,9,1009,20000,27,32,False,
+aleatoria,{},plateau,32,4,20000,10,1010,20000,26,32,False,
+aleatoria,{},plateau,32,4,20000,11,1011,20000,25,32,False,
+aleatoria,{},plateau,32,4,20000,12,1012,20000,26,32,False,
+aleatoria,{},plateau,32,4,20000,13,1013,20000,26,32,False,
+aleatoria,{},plateau,32,4,20000,14,1014,20000,25,32,False,
+aleatoria,{},plateau,32,4,20000,15,1015,20000,25,32,False,
+aleatoria,{},plateau,32,4,20000,16,1016,20000,24,32,False,
+aleatoria,{},plateau,32,4,20000,17,1017,20000,23,32,False,
+aleatoria,{},plateau,32,4,20000,18,1018,20000,26,32,False,
+aleatoria,{},plateau,32,4,20000,19,1019,20000,25,32,False,
+aleatoria,{},plateau,32,4,20000,20,1020,20000,25,32,False,
+aleatoria,{},plateau,32,4,20000,21,1021,20000,23,32,False,
+aleatoria,{},plateau,32,4,20000,22,1022,20000,25,32,False,
+aleatoria,{},plateau,32,4,20000,23,1023,20000,26,32,False,
+aleatoria,{},plateau,32,4,20000,24,1024,20000,26,32,False,
+aleatoria,{},plateau,32,4,20000,25,1025,20000,26,32,False,
+aleatoria,{},plateau,32,4,20000,26,1026,20000,27,32,False,
+aleatoria,{},plateau,32,4,20000,27,1027,20000,25,32,False,
+aleatoria,{},plateau,32,4,20000,28,1028,20000,25,32,False,
+aleatoria,{},plateau,32,4,20000,29,1029,20000,24,32,False,
+aleatoria,{},plateau,32,4,20000,30,1030,20000,25,32,False,
+escalador,{'aceptar_iguales': True},plateau,32,4,20000,1,1001,129,32,32,True,129.0
+escalador,{'aceptar_iguales': True},plateau,32,4,20000,2,1002,221,32,32,True,221.0
+escalador,{'aceptar_iguales': True},plateau,32,4,20000,3,1003,145,32,32,True,145.0
+escalador,{'aceptar_iguales': True},plateau,32,4,20000,4,1004,134,32,32,True,134.0
+escalador,{'aceptar_iguales': True},plateau,32,4,20000,5,1005,145,32,32,True,145.0
+escalador,{'aceptar_iguales': True},plateau,32,4,20000,6,1006,131,32,32,True,131.0
+escalador,{'aceptar_iguales': True},plateau,32,4,20000,7,1007,146,32,32,True,146.0
+escalador,{'aceptar_iguales': True},plateau,32,4,20000,8,1008,157,32,32,True,157.0
+escalador,{'aceptar_iguales': True},plateau,32,4,20000,9,1009,231,32,32,True,231.0
+escalador,{'aceptar_iguales': True},plateau,32,4,20000,10,1010,164,32,32,True,164.0
+escalador,{'aceptar_iguales': True},plateau,32,4,20000,11,1011,121,32,32,True,121.0
+escalador,{'aceptar_iguales': True},plateau,32,4,20000,12,1012,142,32,32,True,142.0
+escalador,{'aceptar_iguales': True},plateau,32,4,20000,13,1013,186,32,32,True,186.0
+escalador,{'aceptar_iguales': True},plateau,32,4,20000,14,1014,123,32,32,True,123.0
+escalador,{'aceptar_iguales': True},plateau,32,4,20000,15,1015,54,32,32,True,54.0
+escalador,{'aceptar_iguales': True},plateau,32,4,20000,16,1016,98,32,32,True,98.0
+escalador,{'aceptar_iguales': True},plateau,32,4,20000,17,1017,117,32,32,True,117.0
+escalador,{'aceptar_iguales': True},plateau,32,4,20000,18,1018,124,32,32,True,124.0
+escalador,{'aceptar_iguales': True},plateau,32,4,20000,19,1019,135,32,32,True,135.0
+escalador,{'aceptar_iguales': True},plateau,32,4,20000,20,1020,155,32,32,True,155.0
+escalador,{'aceptar_iguales': True},plateau,32,4,20000,21,1021,91,32,32,True,91.0
+escalador,{'aceptar_iguales': True},plateau,32,4,20000,22,1022,75,32,32,True,75.0
+escalador,{'aceptar_iguales': True},plateau,32,4,20000,23,1023,78,32,32,True,78.0
+escalador,{'aceptar_iguales': True},plateau,32,4,20000,24,1024,95,32,32,True,95.0
+escalador,{'aceptar_iguales': True},plateau,32,4,20000,25,1025,142,32,32,True,142.0
+escalador,{'aceptar_iguales': True},plateau,32,4,20000,26,1026,74,32,32,True,74.0
+escalador,{'aceptar_iguales': True},plateau,32,4,20000,27,1027,157,32,32,True,157.0
+escalador,{'aceptar_iguales': True},plateau,32,4,20000,28,1028,201,32,32,True,201.0
+escalador,{'aceptar_iguales': True},plateau,32,4,20000,29,1029,131,32,32,True,131.0
+escalador,{'aceptar_iguales': True},plateau,32,4,20000,30,1030,108,32,32,True,108.0
+recocido,"{'T0': 50.0, 'patron': 'presupuesto'}",plateau,32,4,20000,1,1001,8354,32,32,True,8354.0
+recocido,"{'T0': 50.0, 'patron': 'presupuesto'}",plateau,32,4,20000,2,1002,8750,32,32,True,8750.0
+recocido,"{'T0': 50.0, 'patron': 'presupuesto'}",plateau,32,4,20000,3,1003,8619,32,32,True,8619.0
+recocido,"{'T0': 50.0, 'patron': 'presupuesto'}",plateau,32,4,20000,4,1004,7371,32,32,True,7371.0
+recocido,"{'T0': 50.0, 'patron': 'presupuesto'}",plateau,32,4,20000,5,1005,8844,32,32,True,8844.0
+recocido,"{'T0': 50.0, 'patron': 'presupuesto'}",plateau,32,4,20000,6,1006,8187,32,32,True,8187.0
+recocido,"{'T0': 50.0, 'patron': 'presupuesto'}",plateau,32,4,20000,7,1007,8777,32,32,True,8777.0
+recocido,"{'T0': 50.0, 'patron': 'presupuesto'}",plateau,32,4,20000,8,1008,7750,32,32,True,7750.0
+recocido,"{'T0': 50.0, 'patron': 'presupuesto'}",plateau,32,4,20000,9,1009,7622,32,32,True,7622.0
+recocido,"{'T0': 50.0, 'patron': 'presupuesto'}",plateau,32,4,20000,10,1010,8539,32,32,True,8539.0
+recocido,"{'T0': 50.0, 'patron': 'presupuesto'}",plateau,32,4,20000,11,1011,8184,32,32,True,8184.0
+recocido,"{'T0': 50.0, 'patron': 'presupuesto'}",plateau,32,4,20000,12,1012,7743,32,32,True,7743.0
+recocido,"{'T0': 50.0, 'patron': 'presupuesto'}",plateau,32,4,20000,13,1013,7809,32,32,True,7809.0
+recocido,"{'T0': 50.0, 'patron': 'presupuesto'}",plateau,32,4,20000,14,1014,8042,32,32,True,8042.0
+recocido,"{'T0': 50.0, 'patron': 'presupuesto'}",plateau,32,4,20000,15,1015,8378,32,32,True,8378.0
+recocido,"{'T0': 50.0, 'patron': 'presupuesto'}",plateau,32,4,20000,16,1016,7944,32,32,True,7944.0
+recocido,"{'T0': 50.0, 'patron': 'presupuesto'}",plateau,32,4,20000,17,1017,8359,32,32,True,8359.0
+recocido,"{'T0': 50.0, 'patron': 'presupuesto'}",plateau,32,4,20000,18,1018,7496,32,32,True,7496.0
+recocido,"{'T0': 50.0, 'patron': 'presupuesto'}",plateau,32,4,20000,19,1019,8461,32,32,True,8461.0
+recocido,"{'T0': 50.0, 'patron': 'presupuesto'}",plateau,32,4,20000,20,1020,7904,32,32,True,7904.0
+recocido,"{'T0': 50.0, 'patron': 'presupuesto'}",plateau,32,4,20000,21,1021,7326,32,32,True,7326.0
+recocido,"{'T0': 50.0, 'patron': 'presupuesto'}",plateau,32,4,20000,22,1022,8709,32,32,True,8709.0
+recocido,"{'T0': 50.0, 'patron': 'presupuesto'}",plateau,32,4,20000,23,1023,7743,32,32,True,7743.0
+recocido,"{'T0': 50.0, 'patron': 'presupuesto'}",plateau,32,4,20000,24,1024,8731,32,32,True,8731.0
+recocido,"{'T0': 50.0, 'patron': 'presupuesto'}",plateau,32,4,20000,25,1025,7907,32,32,True,7907.0
+recocido,"{'T0': 50.0, 'patron': 'presupuesto'}",plateau,32,4,20000,26,1026,8694,32,32,True,8694.0
+recocido,"{'T0': 50.0, 'patron': 'presupuesto'}",plateau,32,4,20000,27,1027,8277,32,32,True,8277.0
+recocido,"{'T0': 50.0, 'patron': 'presupuesto'}",plateau,32,4,20000,28,1028,8405,32,32,True,8405.0
+recocido,"{'T0': 50.0, 'patron': 'presupuesto'}",plateau,32,4,20000,29,1029,7658,32,32,True,7658.0
+recocido,"{'T0': 50.0, 'patron': 'presupuesto'}",plateau,32,4,20000,30,1030,8311,32,32,True,8311.0
+umbral,"{'U0': 3.0, 'patron': 'presupuesto'}",plateau,32,4,20000,1,1001,2928,32,32,True,2928.0
+umbral,"{'U0': 3.0, 'patron': 'presupuesto'}",plateau,32,4,20000,2,1002,2803,32,32,True,2803.0
+umbral,"{'U0': 3.0, 'patron': 'presupuesto'}",plateau,32,4,20000,3,1003,2895,32,32,True,2895.0
+umbral,"{'U0': 3.0, 'patron': 'presupuesto'}",plateau,32,4,20000,4,1004,2823,32,32,True,2823.0
+umbral,"{'U0': 3.0, 'patron': 'presupuesto'}",plateau,32,4,20000,5,1005,2893,32,32,True,2893.0
+umbral,"{'U0': 3.0, 'patron': 'presupuesto'}",plateau,32,4,20000,6,1006,2852,32,32,True,2852.0
+umbral,"{'U0': 3.0, 'patron': 'presupuesto'}",plateau,32,4,20000,7,1007,2842,32,32,True,2842.0
+umbral,"{'U0': 3.0, 'patron': 'presupuesto'}",plateau,32,4,20000,8,1008,2813,32,32,True,2813.0
+umbral,"{'U0': 3.0, 'patron': 'presupuesto'}",plateau,32,4,20000,9,1009,2773,32,32,True,2773.0
+umbral,"{'U0': 3.0, 'patron': 'presupuesto'}",plateau,32,4,20000,10,1010,2824,32,32,True,2824.0
+umbral,"{'U0': 3.0, 'patron': 'presupuesto'}",plateau,32,4,20000,11,1011,2845,32,32,True,2845.0
+umbral,"{'U0': 3.0, 'patron': 'presupuesto'}",plateau,32,4,20000,12,1012,2781,32,32,True,2781.0
+umbral,"{'U0': 3.0, 'patron': 'presupuesto'}",plateau,32,4,20000,13,1013,2845,32,32,True,2845.0
+umbral,"{'U0': 3.0, 'patron': 'presupuesto'}",plateau,32,4,20000,14,1014,2787,32,32,True,2787.0
+umbral,"{'U0': 3.0, 'patron': 'presupuesto'}",plateau,32,4,20000,15,1015,2867,32,32,True,2867.0
+umbral,"{'U0': 3.0, 'patron': 'presupuesto'}",plateau,32,4,20000,16,1016,2918,32,32,True,2918.0
+umbral,"{'U0': 3.0, 'patron': 'presupuesto'}",plateau,32,4,20000,17,1017,2846,32,32,True,2846.0
+umbral,"{'U0': 3.0, 'patron': 'presupuesto'}",plateau,32,4,20000,18,1018,2792,32,32,True,2792.0
+umbral,"{'U0': 3.0, 'patron': 'presupuesto'}",plateau,32,4,20000,19,1019,2805,32,32,True,2805.0
+umbral,"{'U0': 3.0, 'patron': 'presupuesto'}",plateau,32,4,20000,20,1020,2875,32,32,True,2875.0
+umbral,"{'U0': 3.0, 'patron': 'presupuesto'}",plateau,32,4,20000,21,1021,2789,32,32,True,2789.0
+umbral,"{'U0': 3.0, 'patron': 'presupuesto'}",plateau,32,4,20000,22,1022,2816,32,32,True,2816.0
+umbral,"{'U0': 3.0, 'patron': 'presupuesto'}",plateau,32,4,20000,23,1023,2870,32,32,True,2870.0
+umbral,"{'U0': 3.0, 'patron': 'presupuesto'}",plateau,32,4,20000,24,1024,2800,32,32,True,2800.0
+umbral,"{'U0': 3.0, 'patron': 'presupuesto'}",plateau,32,4,20000,25,1025,2774,32,32,True,2774.0
+umbral,"{'U0': 3.0, 'patron': 'presupuesto'}",plateau,32,4,20000,26,1026,2816,32,32,True,2816.0
+umbral,"{'U0': 3.0, 'patron': 'presupuesto'}",plateau,32,4,20000,27,1027,2874,32,32,True,2874.0
+umbral,"{'U0': 3.0, 'patron': 'presupuesto'}",plateau,32,4,20000,28,1028,2822,32,32,True,2822.0
+umbral,"{'U0': 3.0, 'patron': 'presupuesto'}",plateau,32,4,20000,29,1029,2817,32,32,True,2817.0
+umbral,"{'U0': 3.0, 'patron': 'presupuesto'}",plateau,32,4,20000,30,1030,2835,32,32,True,2835.0
+rrt,{'D': 3},plateau,32,4,20000,1,1001,7483,32,32,True,7483.0
+rrt,{'D': 3},plateau,32,4,20000,2,1002,3810,32,32,True,3810.0
+rrt,{'D': 3},plateau,32,4,20000,3,1003,9849,32,32,True,9849.0
+rrt,{'D': 3},plateau,32,4,20000,4,1004,20000,31,32,False,
+rrt,{'D': 3},plateau,32,4,20000,5,1005,20000,31,32,False,
+rrt,{'D': 3},plateau,32,4,20000,6,1006,20000,31,32,False,
+rrt,{'D': 3},plateau,32,4,20000,7,1007,20000,31,32,False,
+rrt,{'D': 3},plateau,32,4,20000,8,1008,9826,32,32,True,9826.0
+rrt,{'D': 3},plateau,32,4,20000,9,1009,20000,31,32,False,
+rrt,{'D': 3},plateau,32,4,20000,10,1010,9762,32,32,True,9762.0
+rrt,{'D': 3},plateau,32,4,20000,11,1011,16147,32,32,True,16147.0
+rrt,{'D': 3},plateau,32,4,20000,12,1012,20000,31,32,False,
+rrt,{'D': 3},plateau,32,4,20000,13,1013,17967,32,32,True,17967.0
+rrt,{'D': 3},plateau,32,4,20000,14,1014,13506,32,32,True,13506.0
+rrt,{'D': 3},plateau,32,4,20000,15,1015,20000,31,32,False,
+rrt,{'D': 3},plateau,32,4,20000,16,1016,20000,31,32,False,
+rrt,{'D': 3},plateau,32,4,20000,17,1017,19132,32,32,True,19132.0
+rrt,{'D': 3},plateau,32,4,20000,18,1018,19560,32,32,True,19560.0
+rrt,{'D': 3},plateau,32,4,20000,19,1019,20000,31,32,False,
+rrt,{'D': 3},plateau,32,4,20000,20,1020,20000,31,32,False,
+rrt,{'D': 3},plateau,32,4,20000,21,1021,2551,32,32,True,2551.0
+rrt,{'D': 3},plateau,32,4,20000,22,1022,2946,32,32,True,2946.0
+rrt,{'D': 3},plateau,32,4,20000,23,1023,20000,31,32,False,
+rrt,{'D': 3},plateau,32,4,20000,24,1024,20000,31,32,False,
+rrt,{'D': 3},plateau,32,4,20000,25,1025,20000,31,32,False,
+rrt,{'D': 3},plateau,32,4,20000,26,1026,12397,32,32,True,12397.0
+rrt,{'D': 3},plateau,32,4,20000,27,1027,20000,31,32,False,
+rrt,{'D': 3},plateau,32,4,20000,28,1028,20000,31,32,False,
+rrt,{'D': 3},plateau,32,4,20000,29,1029,20000,31,32,False,
+rrt,{'D': 3},plateau,32,4,20000,30,1030,9539,32,32,True,9539.0
+diluvio,"{'L0': 0.0, 'lluvia': 0.5}",plateau,32,4,20000,1,1001,346,32,32,True,346.0
+diluvio,"{'L0': 0.0, 'lluvia': 0.5}",plateau,32,4,20000,2,1002,205,32,32,True,205.0
+diluvio,"{'L0': 0.0, 'lluvia': 0.5}",plateau,32,4,20000,3,1003,236,32,32,True,236.0
+diluvio,"{'L0': 0.0, 'lluvia': 0.5}",plateau,32,4,20000,4,1004,20000,28,32,False,
+diluvio,"{'L0': 0.0, 'lluvia': 0.5}",plateau,32,4,20000,5,1005,185,32,32,True,185.0
+diluvio,"{'L0': 0.0, 'lluvia': 0.5}",plateau,32,4,20000,6,1006,174,32,32,True,174.0
+diluvio,"{'L0': 0.0, 'lluvia': 0.5}",plateau,32,4,20000,7,1007,275,32,32,True,275.0
+diluvio,"{'L0': 0.0, 'lluvia': 0.5}",plateau,32,4,20000,8,1008,190,32,32,True,190.0
+diluvio,"{'L0': 0.0, 'lluvia': 0.5}",plateau,32,4,20000,9,1009,163,32,32,True,163.0
+diluvio,"{'L0': 0.0, 'lluvia': 0.5}",plateau,32,4,20000,10,1010,195,32,32,True,195.0
+diluvio,"{'L0': 0.0, 'lluvia': 0.5}",plateau,32,4,20000,11,1011,264,32,32,True,264.0
+diluvio,"{'L0': 0.0, 'lluvia': 0.5}",plateau,32,4,20000,12,1012,164,32,32,True,164.0
+diluvio,"{'L0': 0.0, 'lluvia': 0.5}",plateau,32,4,20000,13,1013,170,32,32,True,170.0
+diluvio,"{'L0': 0.0, 'lluvia': 0.5}",plateau,32,4,20000,14,1014,150,32,32,True,150.0
+diluvio,"{'L0': 0.0, 'lluvia': 0.5}",plateau,32,4,20000,15,1015,205,32,32,True,205.0
+diluvio,"{'L0': 0.0, 'lluvia': 0.5}",plateau,32,4,20000,16,1016,114,32,32,True,114.0
+diluvio,"{'L0': 0.0, 'lluvia': 0.5}",plateau,32,4,20000,17,1017,231,32,32,True,231.0
+diluvio,"{'L0': 0.0, 'lluvia': 0.5}",plateau,32,4,20000,18,1018,167,32,32,True,167.0
+diluvio,"{'L0': 0.0, 'lluvia': 0.5}",plateau,32,4,20000,19,1019,170,32,32,True,170.0
+diluvio,"{'L0': 0.0, 'lluvia': 0.5}",plateau,32,4,20000,20,1020,203,32,32,True,203.0
+diluvio,"{'L0': 0.0, 'lluvia': 0.5}",plateau,32,4,20000,21,1021,233,32,32,True,233.0
+diluvio,"{'L0': 0.0, 'lluvia': 0.5}",plateau,32,4,20000,22,1022,241,32,32,True,241.0
+diluvio,"{'L0': 0.0, 'lluvia': 0.5}",plateau,32,4,20000,23,1023,20000,28,32,False,
+diluvio,"{'L0': 0.0, 'lluvia': 0.5}",plateau,32,4,20000,24,1024,171,32,32,True,171.0
+diluvio,"{'L0': 0.0, 'lluvia': 0.5}",plateau,32,4,20000,25,1025,228,32,32,True,228.0
+diluvio,"{'L0': 0.0, 'lluvia': 0.5}",plateau,32,4,20000,26,1026,205,32,32,True,205.0
+diluvio,"{'L0': 0.0, 'lluvia': 0.5}",plateau,32,4,20000,27,1027,136,32,32,True,136.0
+diluvio,"{'L0': 0.0, 'lluvia': 0.5}",plateau,32,4,20000,28,1028,278,32,32,True,278.0
+diluvio,"{'L0': 0.0, 'lluvia': 0.5}",plateau,32,4,20000,29,1029,20000,28,32,False,
+diluvio,"{'L0': 0.0, 'lluvia': 0.5}",plateau,32,4,20000,30,1030,241,32,32,True,241.0
+aleatoria,{},royalroad,32,4,20000,1,1001,20000,20,32,False,
+aleatoria,{},royalroad,32,4,20000,2,1002,20000,16,32,False,
+aleatoria,{},royalroad,32,4,20000,3,1003,20000,16,32,False,
+aleatoria,{},royalroad,32,4,20000,4,1004,20000,16,32,False,
+aleatoria,{},royalroad,32,4,20000,5,1005,20000,16,32,False,
+aleatoria,{},royalroad,32,4,20000,6,1006,20000,16,32,False,
+aleatoria,{},royalroad,32,4,20000,7,1007,20000,20,32,False,
+aleatoria,{},royalroad,32,4,20000,8,1008,20000,20,32,False,
+aleatoria,{},royalroad,32,4,20000,9,1009,20000,24,32,False,
+aleatoria,{},royalroad,32,4,20000,10,1010,20000,16,32,False,
+aleatoria,{},royalroad,32,4,20000,11,1011,20000,16,32,False,
+aleatoria,{},royalroad,32,4,20000,12,1012,20000,20,32,False,
+aleatoria,{},royalroad,32,4,20000,13,1013,20000,20,32,False,
+aleatoria,{},royalroad,32,4,20000,14,1014,20000,20,32,False,
+aleatoria,{},royalroad,32,4,20000,15,1015,20000,16,32,False,
+aleatoria,{},royalroad,32,4,20000,16,1016,20000,16,32,False,
+aleatoria,{},royalroad,32,4,20000,17,1017,20000,16,32,False,
+aleatoria,{},royalroad,32,4,20000,18,1018,20000,20,32,False,
+aleatoria,{},royalroad,32,4,20000,19,1019,20000,16,32,False,
+aleatoria,{},royalroad,32,4,20000,20,1020,20000,20,32,False,
+aleatoria,{},royalroad,32,4,20000,21,1021,20000,16,32,False,
+aleatoria,{},royalroad,32,4,20000,22,1022,20000,16,32,False,
+aleatoria,{},royalroad,32,4,20000,23,1023,20000,20,32,False,
+aleatoria,{},royalroad,32,4,20000,24,1024,20000,20,32,False,
+aleatoria,{},royalroad,32,4,20000,25,1025,20000,20,32,False,
+aleatoria,{},royalroad,32,4,20000,26,1026,20000,16,32,False,
+aleatoria,{},royalroad,32,4,20000,27,1027,20000,16,32,False,
+aleatoria,{},royalroad,32,4,20000,28,1028,20000,16,32,False,
+aleatoria,{},royalroad,32,4,20000,29,1029,20000,16,32,False,
+aleatoria,{},royalroad,32,4,20000,30,1030,20000,16,32,False,
+escalador,{'aceptar_iguales': True},royalroad,32,4,20000,1,1001,426,32,32,True,426.0
+escalador,{'aceptar_iguales': True},royalroad,32,4,20000,2,1002,322,32,32,True,322.0
+escalador,{'aceptar_iguales': True},royalroad,32,4,20000,3,1003,426,32,32,True,426.0
+escalador,{'aceptar_iguales': True},royalroad,32,4,20000,4,1004,193,32,32,True,193.0
+escalador,{'aceptar_iguales': True},royalroad,32,4,20000,5,1005,457,32,32,True,457.0
+escalador,{'aceptar_iguales': True},royalroad,32,4,20000,6,1006,508,32,32,True,508.0
+escalador,{'aceptar_iguales': True},royalroad,32,4,20000,7,1007,235,32,32,True,235.0
+escalador,{'aceptar_iguales': True},royalroad,32,4,20000,8,1008,458,32,32,True,458.0
+escalador,{'aceptar_iguales': True},royalroad,32,4,20000,9,1009,279,32,32,True,279.0
+escalador,{'aceptar_iguales': True},royalroad,32,4,20000,10,1010,281,32,32,True,281.0
+escalador,{'aceptar_iguales': True},royalroad,32,4,20000,11,1011,406,32,32,True,406.0
+escalador,{'aceptar_iguales': True},royalroad,32,4,20000,12,1012,179,32,32,True,179.0
+escalador,{'aceptar_iguales': True},royalroad,32,4,20000,13,1013,428,32,32,True,428.0
+escalador,{'aceptar_iguales': True},royalroad,32,4,20000,14,1014,240,32,32,True,240.0
+escalador,{'aceptar_iguales': True},royalroad,32,4,20000,15,1015,638,32,32,True,638.0
+escalador,{'aceptar_iguales': True},royalroad,32,4,20000,16,1016,383,32,32,True,383.0
+escalador,{'aceptar_iguales': True},royalroad,32,4,20000,17,1017,215,32,32,True,215.0
+escalador,{'aceptar_iguales': True},royalroad,32,4,20000,18,1018,305,32,32,True,305.0
+escalador,{'aceptar_iguales': True},royalroad,32,4,20000,19,1019,153,32,32,True,153.0
+escalador,{'aceptar_iguales': True},royalroad,32,4,20000,20,1020,227,32,32,True,227.0
+escalador,{'aceptar_iguales': True},royalroad,32,4,20000,21,1021,309,32,32,True,309.0
+escalador,{'aceptar_iguales': True},royalroad,32,4,20000,22,1022,318,32,32,True,318.0
+escalador,{'aceptar_iguales': True},royalroad,32,4,20000,23,1023,136,32,32,True,136.0
+escalador,{'aceptar_iguales': True},royalroad,32,4,20000,24,1024,712,32,32,True,712.0
+escalador,{'aceptar_iguales': True},royalroad,32,4,20000,25,1025,462,32,32,True,462.0
+escalador,{'aceptar_iguales': True},royalroad,32,4,20000,26,1026,143,32,32,True,143.0
+escalador,{'aceptar_iguales': True},royalroad,32,4,20000,27,1027,656,32,32,True,656.0
+escalador,{'aceptar_iguales': True},royalroad,32,4,20000,28,1028,355,32,32,True,355.0
+escalador,{'aceptar_iguales': True},royalroad,32,4,20000,29,1029,482,32,32,True,482.0
+escalador,{'aceptar_iguales': True},royalroad,32,4,20000,30,1030,408,32,32,True,408.0
+recocido,"{'T0': 50.0, 'patron': 'presupuesto'}",royalroad,32,4,20000,1,1001,7184,32,32,True,7184.0
+recocido,"{'T0': 50.0, 'patron': 'presupuesto'}",royalroad,32,4,20000,2,1002,7842,32,32,True,7842.0
+recocido,"{'T0': 50.0, 'patron': 'presupuesto'}",royalroad,32,4,20000,3,1003,7979,32,32,True,7979.0
+recocido,"{'T0': 50.0, 'patron': 'presupuesto'}",royalroad,32,4,20000,4,1004,7530,32,32,True,7530.0
+recocido,"{'T0': 50.0, 'patron': 'presupuesto'}",royalroad,32,4,20000,5,1005,7970,32,32,True,7970.0
+recocido,"{'T0': 50.0, 'patron': 'presupuesto'}",royalroad,32,4,20000,6,1006,7268,32,32,True,7268.0
+recocido,"{'T0': 50.0, 'patron': 'presupuesto'}",royalroad,32,4,20000,7,1007,6648,32,32,True,6648.0
+recocido,"{'T0': 50.0, 'patron': 'presupuesto'}",royalroad,32,4,20000,8,1008,7587,32,32,True,7587.0
+recocido,"{'T0': 50.0, 'patron': 'presupuesto'}",royalroad,32,4,20000,9,1009,7860,32,32,True,7860.0
+recocido,"{'T0': 50.0, 'patron': 'presupuesto'}",royalroad,32,4,20000,10,1010,7317,32,32,True,7317.0
+recocido,"{'T0': 50.0, 'patron': 'presupuesto'}",royalroad,32,4,20000,11,1011,7330,32,32,True,7330.0
+recocido,"{'T0': 50.0, 'patron': 'presupuesto'}",royalroad,32,4,20000,12,1012,7234,32,32,True,7234.0
+recocido,"{'T0': 50.0, 'patron': 'presupuesto'}",royalroad,32,4,20000,13,1013,7201,32,32,True,7201.0
+recocido,"{'T0': 50.0, 'patron': 'presupuesto'}",royalroad,32,4,20000,14,1014,6716,32,32,True,6716.0
+recocido,"{'T0': 50.0, 'patron': 'presupuesto'}",royalroad,32,4,20000,15,1015,7430,32,32,True,7430.0
+recocido,"{'T0': 50.0, 'patron': 'presupuesto'}",royalroad,32,4,20000,16,1016,7217,32,32,True,7217.0
+recocido,"{'T0': 50.0, 'patron': 'presupuesto'}",royalroad,32,4,20000,17,1017,7215,32,32,True,7215.0
+recocido,"{'T0': 50.0, 'patron': 'presupuesto'}",royalroad,32,4,20000,18,1018,7174,32,32,True,7174.0
+recocido,"{'T0': 50.0, 'patron': 'presupuesto'}",royalroad,32,4,20000,19,1019,7593,32,32,True,7593.0
+recocido,"{'T0': 50.0, 'patron': 'presupuesto'}",royalroad,32,4,20000,20,1020,7450,32,32,True,7450.0
+recocido,"{'T0': 50.0, 'patron': 'presupuesto'}",royalroad,32,4,20000,21,1021,7798,32,32,True,7798.0
+recocido,"{'T0': 50.0, 'patron': 'presupuesto'}",royalroad,32,4,20000,22,1022,7601,32,32,True,7601.0
+recocido,"{'T0': 50.0, 'patron': 'presupuesto'}",royalroad,32,4,20000,23,1023,6933,32,32,True,6933.0
+recocido,"{'T0': 50.0, 'patron': 'presupuesto'}",royalroad,32,4,20000,24,1024,7515,32,32,True,7515.0
+recocido,"{'T0': 50.0, 'patron': 'presupuesto'}",royalroad,32,4,20000,25,1025,7255,32,32,True,7255.0
+recocido,"{'T0': 50.0, 'patron': 'presupuesto'}",royalroad,32,4,20000,26,1026,7418,32,32,True,7418.0
+recocido,"{'T0': 50.0, 'patron': 'presupuesto'}",royalroad,32,4,20000,27,1027,6809,32,32,True,6809.0
+recocido,"{'T0': 50.0, 'patron': 'presupuesto'}",royalroad,32,4,20000,28,1028,7154,32,32,True,7154.0
+recocido,"{'T0': 50.0, 'patron': 'presupuesto'}",royalroad,32,4,20000,29,1029,7228,32,32,True,7228.0
+recocido,"{'T0': 50.0, 'patron': 'presupuesto'}",royalroad,32,4,20000,30,1030,6724,32,32,True,6724.0
+umbral,"{'U0': 3.0, 'patron': 'presupuesto'}",royalroad,32,4,20000,1,1001,426,32,32,True,426.0
+umbral,"{'U0': 3.0, 'patron': 'presupuesto'}",royalroad,32,4,20000,2,1002,322,32,32,True,322.0
+umbral,"{'U0': 3.0, 'patron': 'presupuesto'}",royalroad,32,4,20000,3,1003,426,32,32,True,426.0
+umbral,"{'U0': 3.0, 'patron': 'presupuesto'}",royalroad,32,4,20000,4,1004,193,32,32,True,193.0
+umbral,"{'U0': 3.0, 'patron': 'presupuesto'}",royalroad,32,4,20000,5,1005,457,32,32,True,457.0
+umbral,"{'U0': 3.0, 'patron': 'presupuesto'}",royalroad,32,4,20000,6,1006,508,32,32,True,508.0
+umbral,"{'U0': 3.0, 'patron': 'presupuesto'}",royalroad,32,4,20000,7,1007,235,32,32,True,235.0
+umbral,"{'U0': 3.0, 'patron': 'presupuesto'}",royalroad,32,4,20000,8,1008,458,32,32,True,458.0
+umbral,"{'U0': 3.0, 'patron': 'presupuesto'}",royalroad,32,4,20000,9,1009,279,32,32,True,279.0
+umbral,"{'U0': 3.0, 'patron': 'presupuesto'}",royalroad,32,4,20000,10,1010,281,32,32,True,281.0
+umbral,"{'U0': 3.0, 'patron': 'presupuesto'}",royalroad,32,4,20000,11,1011,406,32,32,True,406.0
+umbral,"{'U0': 3.0, 'patron': 'presupuesto'}",royalroad,32,4,20000,12,1012,179,32,32,True,179.0
+umbral,"{'U0': 3.0, 'patron': 'presupuesto'}",royalroad,32,4,20000,13,1013,428,32,32,True,428.0
+umbral,"{'U0': 3.0, 'patron': 'presupuesto'}",royalroad,32,4,20000,14,1014,240,32,32,True,240.0
+umbral,"{'U0': 3.0, 'patron': 'presupuesto'}",royalroad,32,4,20000,15,1015,638,32,32,True,638.0
+umbral,"{'U0': 3.0, 'patron': 'presupuesto'}",royalroad,32,4,20000,16,1016,383,32,32,True,383.0
+umbral,"{'U0': 3.0, 'patron': 'presupuesto'}",royalroad,32,4,20000,17,1017,215,32,32,True,215.0
+umbral,"{'U0': 3.0, 'patron': 'presupuesto'}",royalroad,32,4,20000,18,1018,305,32,32,True,305.0
+umbral,"{'U0': 3.0, 'patron': 'presupuesto'}",royalroad,32,4,20000,19,1019,153,32,32,True,153.0
+umbral,"{'U0': 3.0, 'patron': 'presupuesto'}",royalroad,32,4,20000,20,1020,227,32,32,True,227.0
+umbral,"{'U0': 3.0, 'patron': 'presupuesto'}",royalroad,32,4,20000,21,1021,309,32,32,True,309.0
+umbral,"{'U0': 3.0, 'patron': 'presupuesto'}",royalroad,32,4,20000,22,1022,318,32,32,True,318.0
+umbral,"{'U0': 3.0, 'patron': 'presupuesto'}",royalroad,32,4,20000,23,1023,136,32,32,True,136.0
+umbral,"{'U0': 3.0, 'patron': 'presupuesto'}",royalroad,32,4,20000,24,1024,712,32,32,True,712.0
+umbral,"{'U0': 3.0, 'patron': 'presupuesto'}",royalroad,32,4,20000,25,1025,462,32,32,True,462.0
+umbral,"{'U0': 3.0, 'patron': 'presupuesto'}",royalroad,32,4,20000,26,1026,143,32,32,True,143.0
+umbral,"{'U0': 3.0, 'patron': 'presupuesto'}",royalroad,32,4,20000,27,1027,656,32,32,True,656.0
+umbral,"{'U0': 3.0, 'patron': 'presupuesto'}",royalroad,32,4,20000,28,1028,355,32,32,True,355.0
+umbral,"{'U0': 3.0, 'patron': 'presupuesto'}",royalroad,32,4,20000,29,1029,482,32,32,True,482.0
+umbral,"{'U0': 3.0, 'patron': 'presupuesto'}",royalroad,32,4,20000,30,1030,408,32,32,True,408.0
+rrt,{'D': 3},royalroad,32,4,20000,1,1001,426,32,32,True,426.0
+rrt,{'D': 3},royalroad,32,4,20000,2,1002,322,32,32,True,322.0
+rrt,{'D': 3},royalroad,32,4,20000,3,1003,426,32,32,True,426.0
+rrt,{'D': 3},royalroad,32,4,20000,4,1004,193,32,32,True,193.0
+rrt,{'D': 3},royalroad,32,4,20000,5,1005,457,32,32,True,457.0
+rrt,{'D': 3},royalroad,32,4,20000,6,1006,508,32,32,True,508.0
+rrt,{'D': 3},royalroad,32,4,20000,7,1007,235,32,32,True,235.0
+rrt,{'D': 3},royalroad,32,4,20000,8,1008,458,32,32,True,458.0
+rrt,{'D': 3},royalroad,32,4,20000,9,1009,279,32,32,True,279.0
+rrt,{'D': 3},royalroad,32,4,20000,10,1010,281,32,32,True,281.0
+rrt,{'D': 3},royalroad,32,4,20000,11,1011,406,32,32,True,406.0
+rrt,{'D': 3},royalroad,32,4,20000,12,1012,179,32,32,True,179.0
+rrt,{'D': 3},royalroad,32,4,20000,13,1013,428,32,32,True,428.0
+rrt,{'D': 3},royalroad,32,4,20000,14,1014,240,32,32,True,240.0
+rrt,{'D': 3},royalroad,32,4,20000,15,1015,638,32,32,True,638.0
+rrt,{'D': 3},royalroad,32,4,20000,16,1016,383,32,32,True,383.0
+rrt,{'D': 3},royalroad,32,4,20000,17,1017,215,32,32,True,215.0
+rrt,{'D': 3},royalroad,32,4,20000,18,1018,305,32,32,True,305.0
+rrt,{'D': 3},royalroad,32,4,20000,19,1019,153,32,32,True,153.0
+rrt,{'D': 3},royalroad,32,4,20000,20,1020,227,32,32,True,227.0
+rrt,{'D': 3},royalroad,32,4,20000,21,1021,309,32,32,True,309.0
+rrt,{'D': 3},royalroad,32,4,20000,22,1022,318,32,32,True,318.0
+rrt,{'D': 3},royalroad,32,4,20000,23,1023,136,32,32,True,136.0
+rrt,{'D': 3},royalroad,32,4,20000,24,1024,712,32,32,True,712.0
+rrt,{'D': 3},royalroad,32,4,20000,25,1025,462,32,32,True,462.0
+rrt,{'D': 3},royalroad,32,4,20000,26,1026,143,32,32,True,143.0
+rrt,{'D': 3},royalroad,32,4,20000,27,1027,656,32,32,True,656.0
+rrt,{'D': 3},royalroad,32,4,20000,28,1028,355,32,32,True,355.0
+rrt,{'D': 3},royalroad,32,4,20000,29,1029,482,32,32,True,482.0
+rrt,{'D': 3},royalroad,32,4,20000,30,1030,408,32,32,True,408.0
+diluvio,"{'L0': 0.0, 'lluvia': 0.5}",royalroad,32,4,20000,1,1001,20000,20,32,False,
+diluvio,"{'L0': 0.0, 'lluvia': 0.5}",royalroad,32,4,20000,2,1002,20000,4,32,False,
+diluvio,"{'L0': 0.0, 'lluvia': 0.5}",royalroad,32,4,20000,3,1003,20000,24,32,False,
+diluvio,"{'L0': 0.0, 'lluvia': 0.5}",royalroad,32,4,20000,4,1004,20000,20,32,False,
+diluvio,"{'L0': 0.0, 'lluvia': 0.5}",royalroad,32,4,20000,5,1005,20000,8,32,False,
+diluvio,"{'L0': 0.0, 'lluvia': 0.5}",royalroad,32,4,20000,6,1006,20000,4,32,False,
+diluvio,"{'L0': 0.0, 'lluvia': 0.5}",royalroad,32,4,20000,7,1007,20000,0,32,False,
+diluvio,"{'L0': 0.0, 'lluvia': 0.5}",royalroad,32,4,20000,8,1008,20000,4,32,False,
+diluvio,"{'L0': 0.0, 'lluvia': 0.5}",royalroad,32,4,20000,9,1009,20000,4,32,False,
+diluvio,"{'L0': 0.0, 'lluvia': 0.5}",royalroad,32,4,20000,10,1010,298,32,32,True,298.0
+diluvio,"{'L0': 0.0, 'lluvia': 0.5}",royalroad,32,4,20000,11,1011,20000,16,32,False,
+diluvio,"{'L0': 0.0, 'lluvia': 0.5}",royalroad,32,4,20000,12,1012,20000,16,32,False,
+diluvio,"{'L0': 0.0, 'lluvia': 0.5}",royalroad,32,4,20000,13,1013,20000,8,32,False,
+diluvio,"{'L0': 0.0, 'lluvia': 0.5}",royalroad,32,4,20000,14,1014,20000,12,32,False,
+diluvio,"{'L0': 0.0, 'lluvia': 0.5}",royalroad,32,4,20000,15,1015,20000,16,32,False,
+diluvio,"{'L0': 0.0, 'lluvia': 0.5}",royalroad,32,4,20000,16,1016,20000,28,32,False,
+diluvio,"{'L0': 0.0, 'lluvia': 0.5}",royalroad,32,4,20000,17,1017,20000,20,32,False,
+diluvio,"{'L0': 0.0, 'lluvia': 0.5}",royalroad,32,4,20000,18,1018,20000,4,32,False,
+diluvio,"{'L0': 0.0, 'lluvia': 0.5}",royalroad,32,4,20000,19,1019,20000,20,32,False,
+diluvio,"{'L0': 0.0, 'lluvia': 0.5}",royalroad,32,4,20000,20,1020,20000,8,32,False,
+diluvio,"{'L0': 0.0, 'lluvia': 0.5}",royalroad,32,4,20000,21,1021,20000,12,32,False,
+diluvio,"{'L0': 0.0, 'lluvia': 0.5}",royalroad,32,4,20000,22,1022,133,32,32,True,133.0
+diluvio,"{'L0': 0.0, 'lluvia': 0.5}",royalroad,32,4,20000,23,1023,20000,16,32,False,
+diluvio,"{'L0': 0.0, 'lluvia': 0.5}",royalroad,32,4,20000,24,1024,20000,28,32,False,
+diluvio,"{'L0': 0.0, 'lluvia': 0.5}",royalroad,32,4,20000,25,1025,20000,20,32,False,
+diluvio,"{'L0': 0.0, 'lluvia': 0.5}",royalroad,32,4,20000,26,1026,20000,16,32,False,
+diluvio,"{'L0': 0.0, 'lluvia': 0.5}",royalroad,32,4,20000,27,1027,20000,12,32,False,
+diluvio,"{'L0': 0.0, 'lluvia': 0.5}",royalroad,32,4,20000,28,1028,20000,8,32,False,
+diluvio,"{'L0': 0.0, 'lluvia': 0.5}",royalroad,32,4,20000,29,1029,20000,20,32,False,
+diluvio,"{'L0': 0.0, 'lluvia': 0.5}",royalroad,32,4,20000,30,1030,20000,12,32,False,
+aleatoria,{},deceptive,32,4,20000,1,1001,20000,25,32,False,
+aleatoria,{},deceptive,32,4,20000,2,1002,20000,24,32,False,
+aleatoria,{},deceptive,32,4,20000,3,1003,20000,24,32,False,
+aleatoria,{},deceptive,32,4,20000,4,1004,20000,25,32,False,
+aleatoria,{},deceptive,32,4,20000,5,1005,20000,23,32,False,
+aleatoria,{},deceptive,32,4,20000,6,1006,20000,24,32,False,
+aleatoria,{},deceptive,32,4,20000,7,1007,20000,23,32,False,
+aleatoria,{},deceptive,32,4,20000,8,1008,20000,26,32,False,
+aleatoria,{},deceptive,32,4,20000,9,1009,20000,25,32,False,
+aleatoria,{},deceptive,32,4,20000,10,1010,20000,23,32,False,
+aleatoria,{},deceptive,32,4,20000,11,1011,20000,22,32,False,
+aleatoria,{},deceptive,32,4,20000,12,1012,20000,24,32,False,
+aleatoria,{},deceptive,32,4,20000,13,1013,20000,24,32,False,
+aleatoria,{},deceptive,32,4,20000,14,1014,20000,25,32,False,
+aleatoria,{},deceptive,32,4,20000,15,1015,20000,23,32,False,
+aleatoria,{},deceptive,32,4,20000,16,1016,20000,23,32,False,
+aleatoria,{},deceptive,32,4,20000,17,1017,20000,22,32,False,
+aleatoria,{},deceptive,32,4,20000,18,1018,20000,25,32,False,
+aleatoria,{},deceptive,32,4,20000,19,1019,20000,24,32,False,
+aleatoria,{},deceptive,32,4,20000,20,1020,20000,24,32,False,
+aleatoria,{},deceptive,32,4,20000,21,1021,20000,24,32,False,
+aleatoria,{},deceptive,32,4,20000,22,1022,20000,23,32,False,
+aleatoria,{},deceptive,32,4,20000,23,1023,20000,25,32,False,
+aleatoria,{},deceptive,32,4,20000,24,1024,20000,26,32,False,
+aleatoria,{},deceptive,32,4,20000,25,1025,20000,23,32,False,
+aleatoria,{},deceptive,32,4,20000,26,1026,20000,25,32,False,
+aleatoria,{},deceptive,32,4,20000,27,1027,20000,23,32,False,
+aleatoria,{},deceptive,32,4,20000,28,1028,20000,24,32,False,
+aleatoria,{},deceptive,32,4,20000,29,1029,20000,24,32,False,
+aleatoria,{},deceptive,32,4,20000,30,1030,20000,23,32,False,
+escalador,{'aceptar_iguales': True},deceptive,32,4,20000,1,1001,20000,24,32,False,
+escalador,{'aceptar_iguales': True},deceptive,32,4,20000,2,1002,20000,24,32,False,
+escalador,{'aceptar_iguales': True},deceptive,32,4,20000,3,1003,20000,24,32,False,
+escalador,{'aceptar_iguales': True},deceptive,32,4,20000,4,1004,20000,25,32,False,
+escalador,{'aceptar_iguales': True},deceptive,32,4,20000,5,1005,20000,26,32,False,
+escalador,{'aceptar_iguales': True},deceptive,32,4,20000,6,1006,20000,25,32,False,
+escalador,{'aceptar_iguales': True},deceptive,32,4,20000,7,1007,20000,24,32,False,
+escalador,{'aceptar_iguales': True},deceptive,32,4,20000,8,1008,20000,25,32,False,
+escalador,{'aceptar_iguales': True},deceptive,32,4,20000,9,1009,20000,25,32,False,
+escalador,{'aceptar_iguales': True},deceptive,32,4,20000,10,1010,20000,25,32,False,
+escalador,{'aceptar_iguales': True},deceptive,32,4,20000,11,1011,20000,25,32,False,
+escalador,{'aceptar_iguales': True},deceptive,32,4,20000,12,1012,20000,25,32,False,
+escalador,{'aceptar_iguales': True},deceptive,32,4,20000,13,1013,20000,25,32,False,
+escalador,{'aceptar_iguales': True},deceptive,32,4,20000,14,1014,20000,26,32,False,
+escalador,{'aceptar_iguales': True},deceptive,32,4,20000,15,1015,20000,27,32,False,
+escalador,{'aceptar_iguales': True},deceptive,32,4,20000,16,1016,20000,25,32,False,
+escalador,{'aceptar_iguales': True},deceptive,32,4,20000,17,1017,20000,26,32,False,
+escalador,{'aceptar_iguales': True},deceptive,32,4,20000,18,1018,20000,25,32,False,
+escalador,{'aceptar_iguales': True},deceptive,32,4,20000,19,1019,20000,25,32,False,
+escalador,{'aceptar_iguales': True},deceptive,32,4,20000,20,1020,20000,25,32,False,
+escalador,{'aceptar_iguales': True},deceptive,32,4,20000,21,1021,20000,25,32,False,
+escalador,{'aceptar_iguales': True},deceptive,32,4,20000,22,1022,20000,26,32,False,
+escalador,{'aceptar_iguales': True},deceptive,32,4,20000,23,1023,20000,27,32,False,
+escalador,{'aceptar_iguales': True},deceptive,32,4,20000,24,1024,20000,24,32,False,
+escalador,{'aceptar_iguales': True},deceptive,32,4,20000,25,1025,20000,26,32,False,
+escalador,{'aceptar_iguales': True},deceptive,32,4,20000,26,1026,20000,25,32,False,
+escalador,{'aceptar_iguales': True},deceptive,32,4,20000,27,1027,20000,25,32,False,
+escalador,{'aceptar_iguales': True},deceptive,32,4,20000,28,1028,20000,25,32,False,
+escalador,{'aceptar_iguales': True},deceptive,32,4,20000,29,1029,20000,25,32,False,
+escalador,{'aceptar_iguales': True},deceptive,32,4,20000,30,1030,20000,25,32,False,
+recocido,"{'T0': 50.0, 'patron': 'presupuesto'}",deceptive,32,4,20000,1,1001,20000,28,32,False,
+recocido,"{'T0': 50.0, 'patron': 'presupuesto'}",deceptive,32,4,20000,2,1002,20000,30,32,False,
+recocido,"{'T0': 50.0, 'patron': 'presupuesto'}",deceptive,32,4,20000,3,1003,20000,28,32,False,
+recocido,"{'T0': 50.0, 'patron': 'presupuesto'}",deceptive,32,4,20000,4,1004,20000,28,32,False,
+recocido,"{'T0': 50.0, 'patron': 'presupuesto'}",deceptive,32,4,20000,5,1005,20000,28,32,False,
+recocido,"{'T0': 50.0, 'patron': 'presupuesto'}",deceptive,32,4,20000,6,1006,20000,30,32,False,
+recocido,"{'T0': 50.0, 'patron': 'presupuesto'}",deceptive,32,4,20000,7,1007,20000,29,32,False,
+recocido,"{'T0': 50.0, 'patron': 'presupuesto'}",deceptive,32,4,20000,8,1008,20000,31,32,False,
+recocido,"{'T0': 50.0, 'patron': 'presupuesto'}",deceptive,32,4,20000,9,1009,20000,30,32,False,
+recocido,"{'T0': 50.0, 'patron': 'presupuesto'}",deceptive,32,4,20000,10,1010,20000,30,32,False,
+recocido,"{'T0': 50.0, 'patron': 'presupuesto'}",deceptive,32,4,20000,11,1011,20000,29,32,False,
+recocido,"{'T0': 50.0, 'patron': 'presupuesto'}",deceptive,32,4,20000,12,1012,20000,28,32,False,
+recocido,"{'T0': 50.0, 'patron': 'presupuesto'}",deceptive,32,4,20000,13,1013,20000,28,32,False,
+recocido,"{'T0': 50.0, 'patron': 'presupuesto'}",deceptive,32,4,20000,14,1014,20000,27,32,False,
+recocido,"{'T0': 50.0, 'patron': 'presupuesto'}",deceptive,32,4,20000,15,1015,20000,30,32,False,
+recocido,"{'T0': 50.0, 'patron': 'presupuesto'}",deceptive,32,4,20000,16,1016,20000,29,32,False,
+recocido,"{'T0': 50.0, 'patron': 'presupuesto'}",deceptive,32,4,20000,17,1017,20000,31,32,False,
+recocido,"{'T0': 50.0, 'patron': 'presupuesto'}",deceptive,32,4,20000,18,1018,20000,30,32,False,
+recocido,"{'T0': 50.0, 'patron': 'presupuesto'}",deceptive,32,4,20000,19,1019,20000,28,32,False,
+recocido,"{'T0': 50.0, 'patron': 'presupuesto'}",deceptive,32,4,20000,20,1020,20000,30,32,False,
+recocido,"{'T0': 50.0, 'patron': 'presupuesto'}",deceptive,32,4,20000,21,1021,20000,28,32,False,
+recocido,"{'T0': 50.0, 'patron': 'presupuesto'}",deceptive,32,4,20000,22,1022,20000,29,32,False,
+recocido,"{'T0': 50.0, 'patron': 'presupuesto'}",deceptive,32,4,20000,23,1023,20000,28,32,False,
+recocido,"{'T0': 50.0, 'patron': 'presupuesto'}",deceptive,32,4,20000,24,1024,20000,29,32,False,
+recocido,"{'T0': 50.0, 'patron': 'presupuesto'}",deceptive,32,4,20000,25,1025,20000,30,32,False,
+recocido,"{'T0': 50.0, 'patron': 'presupuesto'}",deceptive,32,4,20000,26,1026,20000,29,32,False,
+recocido,"{'T0': 50.0, 'patron': 'presupuesto'}",deceptive,32,4,20000,27,1027,20000,29,32,False,
+recocido,"{'T0': 50.0, 'patron': 'presupuesto'}",deceptive,32,4,20000,28,1028,20000,29,32,False,
+recocido,"{'T0': 50.0, 'patron': 'presupuesto'}",deceptive,32,4,20000,29,1029,20000,31,32,False,
+recocido,"{'T0': 50.0, 'patron': 'presupuesto'}",deceptive,32,4,20000,30,1030,20000,27,32,False,
+umbral,"{'U0': 3.0, 'patron': 'presupuesto'}",deceptive,32,4,20000,1,1001,426,32,32,True,426.0
+umbral,"{'U0': 3.0, 'patron': 'presupuesto'}",deceptive,32,4,20000,2,1002,322,32,32,True,322.0
+umbral,"{'U0': 3.0, 'patron': 'presupuesto'}",deceptive,32,4,20000,3,1003,426,32,32,True,426.0
+umbral,"{'U0': 3.0, 'patron': 'presupuesto'}",deceptive,32,4,20000,4,1004,193,32,32,True,193.0
+umbral,"{'U0': 3.0, 'patron': 'presupuesto'}",deceptive,32,4,20000,5,1005,457,32,32,True,457.0
+umbral,"{'U0': 3.0, 'patron': 'presupuesto'}",deceptive,32,4,20000,6,1006,508,32,32,True,508.0
+umbral,"{'U0': 3.0, 'patron': 'presupuesto'}",deceptive,32,4,20000,7,1007,235,32,32,True,235.0
+umbral,"{'U0': 3.0, 'patron': 'presupuesto'}",deceptive,32,4,20000,8,1008,458,32,32,True,458.0
+umbral,"{'U0': 3.0, 'patron': 'presupuesto'}",deceptive,32,4,20000,9,1009,279,32,32,True,279.0
+umbral,"{'U0': 3.0, 'patron': 'presupuesto'}",deceptive,32,4,20000,10,1010,281,32,32,True,281.0
+umbral,"{'U0': 3.0, 'patron': 'presupuesto'}",deceptive,32,4,20000,11,1011,406,32,32,True,406.0
+umbral,"{'U0': 3.0, 'patron': 'presupuesto'}",deceptive,32,4,20000,12,1012,179,32,32,True,179.0
+umbral,"{'U0': 3.0, 'patron': 'presupuesto'}",deceptive,32,4,20000,13,1013,428,32,32,True,428.0
+umbral,"{'U0': 3.0, 'patron': 'presupuesto'}",deceptive,32,4,20000,14,1014,240,32,32,True,240.0
+umbral,"{'U0': 3.0, 'patron': 'presupuesto'}",deceptive,32,4,20000,15,1015,638,32,32,True,638.0
+umbral,"{'U0': 3.0, 'patron': 'presupuesto'}",deceptive,32,4,20000,16,1016,383,32,32,True,383.0
+umbral,"{'U0': 3.0, 'patron': 'presupuesto'}",deceptive,32,4,20000,17,1017,215,32,32,True,215.0
+umbral,"{'U0': 3.0, 'patron': 'presupuesto'}",deceptive,32,4,20000,18,1018,305,32,32,True,305.0
+umbral,"{'U0': 3.0, 'patron': 'presupuesto'}",deceptive,32,4,20000,19,1019,153,32,32,True,153.0
+umbral,"{'U0': 3.0, 'patron': 'presupuesto'}",deceptive,32,4,20000,20,1020,227,32,32,True,227.0
+umbral,"{'U0': 3.0, 'patron': 'presupuesto'}",deceptive,32,4,20000,21,1021,309,32,32,True,309.0
+umbral,"{'U0': 3.0, 'patron': 'presupuesto'}",deceptive,32,4,20000,22,1022,318,32,32,True,318.0
+umbral,"{'U0': 3.0, 'patron': 'presupuesto'}",deceptive,32,4,20000,23,1023,136,32,32,True,136.0
+umbral,"{'U0': 3.0, 'patron': 'presupuesto'}",deceptive,32,4,20000,24,1024,712,32,32,True,712.0
+umbral,"{'U0': 3.0, 'patron': 'presupuesto'}",deceptive,32,4,20000,25,1025,462,32,32,True,462.0
+umbral,"{'U0': 3.0, 'patron': 'presupuesto'}",deceptive,32,4,20000,26,1026,143,32,32,True,143.0
+umbral,"{'U0': 3.0, 'patron': 'presupuesto'}",deceptive,32,4,20000,27,1027,656,32,32,True,656.0
+umbral,"{'U0': 3.0, 'patron': 'presupuesto'}",deceptive,32,4,20000,28,1028,355,32,32,True,355.0
+umbral,"{'U0': 3.0, 'patron': 'presupuesto'}",deceptive,32,4,20000,29,1029,482,32,32,True,482.0
+umbral,"{'U0': 3.0, 'patron': 'presupuesto'}",deceptive,32,4,20000,30,1030,408,32,32,True,408.0
+rrt,{'D': 3},deceptive,32,4,20000,1,1001,519,32,32,True,519.0
+rrt,{'D': 3},deceptive,32,4,20000,2,1002,537,32,32,True,537.0
+rrt,{'D': 3},deceptive,32,4,20000,3,1003,1270,32,32,True,1270.0
+rrt,{'D': 3},deceptive,32,4,20000,4,1004,1060,32,32,True,1060.0
+rrt,{'D': 3},deceptive,32,4,20000,5,1005,639,32,32,True,639.0
+rrt,{'D': 3},deceptive,32,4,20000,6,1006,462,32,32,True,462.0
+rrt,{'D': 3},deceptive,32,4,20000,7,1007,825,32,32,True,825.0
+rrt,{'D': 3},deceptive,32,4,20000,8,1008,1106,32,32,True,1106.0
+rrt,{'D': 3},deceptive,32,4,20000,9,1009,430,32,32,True,430.0
+rrt,{'D': 3},deceptive,32,4,20000,10,1010,1417,32,32,True,1417.0
+rrt,{'D': 3},deceptive,32,4,20000,11,1011,530,32,32,True,530.0
+rrt,{'D': 3},deceptive,32,4,20000,12,1012,627,32,32,True,627.0
+rrt,{'D': 3},deceptive,32,4,20000,13,1013,1882,32,32,True,1882.0
+rrt,{'D': 3},deceptive,32,4,20000,14,1014,306,32,32,True,306.0
+rrt,{'D': 3},deceptive,32,4,20000,15,1015,474,32,32,True,474.0
+rrt,{'D': 3},deceptive,32,4,20000,16,1016,1169,32,32,True,1169.0
+rrt,{'D': 3},deceptive,32,4,20000,17,1017,547,32,32,True,547.0
+rrt,{'D': 3},deceptive,32,4,20000,18,1018,325,32,32,True,325.0
+rrt,{'D': 3},deceptive,32,4,20000,19,1019,941,32,32,True,941.0
+rrt,{'D': 3},deceptive,32,4,20000,20,1020,589,32,32,True,589.0
+rrt,{'D': 3},deceptive,32,4,20000,21,1021,733,32,32,True,733.0
+rrt,{'D': 3},deceptive,32,4,20000,22,1022,1007,32,32,True,1007.0
+rrt,{'D': 3},deceptive,32,4,20000,23,1023,178,32,32,True,178.0
+rrt,{'D': 3},deceptive,32,4,20000,24,1024,3663,32,32,True,3663.0
+rrt,{'D': 3},deceptive,32,4,20000,25,1025,1737,32,32,True,1737.0
+rrt,{'D': 3},deceptive,32,4,20000,26,1026,440,32,32,True,440.0
+rrt,{'D': 3},deceptive,32,4,20000,27,1027,1672,32,32,True,1672.0
+rrt,{'D': 3},deceptive,32,4,20000,28,1028,687,32,32,True,687.0
+rrt,{'D': 3},deceptive,32,4,20000,29,1029,848,32,32,True,848.0
+rrt,{'D': 3},deceptive,32,4,20000,30,1030,689,32,32,True,689.0
+diluvio,"{'L0': 0.0, 'lluvia': 0.5}",deceptive,32,4,20000,1,1001,20000,24,32,False,
+diluvio,"{'L0': 0.0, 'lluvia': 0.5}",deceptive,32,4,20000,2,1002,20000,26,32,False,
+diluvio,"{'L0': 0.0, 'lluvia': 0.5}",deceptive,32,4,20000,3,1003,20000,24,32,False,
+diluvio,"{'L0': 0.0, 'lluvia': 0.5}",deceptive,32,4,20000,4,1004,20000,25,32,False,
+diluvio,"{'L0': 0.0, 'lluvia': 0.5}",deceptive,32,4,20000,5,1005,20000,25,32,False,
+diluvio,"{'L0': 0.0, 'lluvia': 0.5}",deceptive,32,4,20000,6,1006,20000,24,32,False,
+diluvio,"{'L0': 0.0, 'lluvia': 0.5}",deceptive,32,4,20000,7,1007,20000,24,32,False,
+diluvio,"{'L0': 0.0, 'lluvia': 0.5}",deceptive,32,4,20000,8,1008,20000,24,32,False,
+diluvio,"{'L0': 0.0, 'lluvia': 0.5}",deceptive,32,4,20000,9,1009,20000,25,32,False,
+diluvio,"{'L0': 0.0, 'lluvia': 0.5}",deceptive,32,4,20000,10,1010,20000,25,32,False,
+diluvio,"{'L0': 0.0, 'lluvia': 0.5}",deceptive,32,4,20000,11,1011,20000,25,32,False,
+diluvio,"{'L0': 0.0, 'lluvia': 0.5}",deceptive,32,4,20000,12,1012,20000,27,32,False,
+diluvio,"{'L0': 0.0, 'lluvia': 0.5}",deceptive,32,4,20000,13,1013,20000,25,32,False,
+diluvio,"{'L0': 0.0, 'lluvia': 0.5}",deceptive,32,4,20000,14,1014,20000,25,32,False,
+diluvio,"{'L0': 0.0, 'lluvia': 0.5}",deceptive,32,4,20000,15,1015,20000,26,32,False,
+diluvio,"{'L0': 0.0, 'lluvia': 0.5}",deceptive,32,4,20000,16,1016,20000,26,32,False,
+diluvio,"{'L0': 0.0, 'lluvia': 0.5}",deceptive,32,4,20000,17,1017,20000,26,32,False,
+diluvio,"{'L0': 0.0, 'lluvia': 0.5}",deceptive,32,4,20000,18,1018,20000,24,32,False,
+diluvio,"{'L0': 0.0, 'lluvia': 0.5}",deceptive,32,4,20000,19,1019,20000,26,32,False,
+diluvio,"{'L0': 0.0, 'lluvia': 0.5}",deceptive,32,4,20000,20,1020,20000,25,32,False,
+diluvio,"{'L0': 0.0, 'lluvia': 0.5}",deceptive,32,4,20000,21,1021,20000,26,32,False,
+diluvio,"{'L0': 0.0, 'lluvia': 0.5}",deceptive,32,4,20000,22,1022,20000,28,32,False,
+diluvio,"{'L0': 0.0, 'lluvia': 0.5}",deceptive,32,4,20000,23,1023,20000,25,32,False,
+diluvio,"{'L0': 0.0, 'lluvia': 0.5}",deceptive,32,4,20000,24,1024,20000,25,32,False,
+diluvio,"{'L0': 0.0, 'lluvia': 0.5}",deceptive,32,4,20000,25,1025,20000,25,32,False,
+diluvio,"{'L0': 0.0, 'lluvia': 0.5}",deceptive,32,4,20000,26,1026,20000,27,32,False,
+diluvio,"{'L0': 0.0, 'lluvia': 0.5}",deceptive,32,4,20000,27,1027,20000,25,32,False,
+diluvio,"{'L0': 0.0, 'lluvia': 0.5}",deceptive,32,4,20000,28,1028,20000,25,32,False,
+diluvio,"{'L0': 0.0, 'lluvia': 0.5}",deceptive,32,4,20000,29,1029,20000,24,32,False,
+diluvio,"{'L0': 0.0, 'lluvia': 0.5}",deceptive,32,4,20000,30,1030,20000,25,32,False,
+aleatoria,{},onemax,64,4,40000,1,1001,40000,47,64,False,
+aleatoria,{},onemax,64,4,40000,2,1002,40000,47,64,False,
+aleatoria,{},onemax,64,4,40000,3,1003,40000,48,64,False,
+aleatoria,{},onemax,64,4,40000,4,1004,40000,48,64,False,
+aleatoria,{},onemax,64,4,40000,5,1005,40000,47,64,False,
+aleatoria,{},onemax,64,4,40000,6,1006,40000,47,64,False,
+aleatoria,{},onemax,64,4,40000,7,1007,40000,47,64,False,
+aleatoria,{},onemax,64,4,40000,8,1008,40000,46,64,False,
+aleatoria,{},onemax,64,4,40000,9,1009,40000,44,64,False,
+aleatoria,{},onemax,64,4,40000,10,1010,40000,46,64,False,
+aleatoria,{},onemax,64,4,40000,11,1011,40000,48,64,False,
+aleatoria,{},onemax,64,4,40000,12,1012,40000,48,64,False,
+aleatoria,{},onemax,64,4,40000,13,1013,40000,47,64,False,
+aleatoria,{},onemax,64,4,40000,14,1014,40000,49,64,False,
+aleatoria,{},onemax,64,4,40000,15,1015,40000,48,64,False,
+aleatoria,{},onemax,64,4,40000,16,1016,40000,47,64,False,
+aleatoria,{},onemax,64,4,40000,17,1017,40000,48,64,False,
+aleatoria,{},onemax,64,4,40000,18,1018,40000,50,64,False,
+aleatoria,{},onemax,64,4,40000,19,1019,40000,47,64,False,
+aleatoria,{},onemax,64,4,40000,20,1020,40000,47,64,False,
+aleatoria,{},onemax,64,4,40000,21,1021,40000,47,64,False,
+aleatoria,{},onemax,64,4,40000,22,1022,40000,47,64,False,
+aleatoria,{},onemax,64,4,40000,23,1023,40000,46,64,False,
+aleatoria,{},onemax,64,4,40000,24,1024,40000,50,64,False,
+aleatoria,{},onemax,64,4,40000,25,1025,40000,47,64,False,
+aleatoria,{},onemax,64,4,40000,26,1026,40000,51,64,False,
+aleatoria,{},onemax,64,4,40000,27,1027,40000,49,64,False,
+aleatoria,{},onemax,64,4,40000,28,1028,40000,48,64,False,
+aleatoria,{},onemax,64,4,40000,29,1029,40000,46,64,False,
+aleatoria,{},onemax,64,4,40000,30,1030,40000,45,64,False,
+escalador,{'aceptar_iguales': True},onemax,64,4,40000,1,1001,293,64,64,True,293.0
+escalador,{'aceptar_iguales': True},onemax,64,4,40000,2,1002,239,64,64,True,239.0
+escalador,{'aceptar_iguales': True},onemax,64,4,40000,3,1003,271,64,64,True,271.0
+escalador,{'aceptar_iguales': True},onemax,64,4,40000,4,1004,210,64,64,True,210.0
+escalador,{'aceptar_iguales': True},onemax,64,4,40000,5,1005,165,64,64,True,165.0
+escalador,{'aceptar_iguales': True},onemax,64,4,40000,6,1006,217,64,64,True,217.0
+escalador,{'aceptar_iguales': True},onemax,64,4,40000,7,1007,391,64,64,True,391.0
+escalador,{'aceptar_iguales': True},onemax,64,4,40000,8,1008,224,64,64,True,224.0
+escalador,{'aceptar_iguales': True},onemax,64,4,40000,9,1009,268,64,64,True,268.0
+escalador,{'aceptar_iguales': True},onemax,64,4,40000,10,1010,507,64,64,True,507.0
+escalador,{'aceptar_iguales': True},onemax,64,4,40000,11,1011,365,64,64,True,365.0
+escalador,{'aceptar_iguales': True},onemax,64,4,40000,12,1012,309,64,64,True,309.0
+escalador,{'aceptar_iguales': True},onemax,64,4,40000,13,1013,162,64,64,True,162.0
+escalador,{'aceptar_iguales': True},onemax,64,4,40000,14,1014,261,64,64,True,261.0
+escalador,{'aceptar_iguales': True},onemax,64,4,40000,15,1015,187,64,64,True,187.0
+escalador,{'aceptar_iguales': True},onemax,64,4,40000,16,1016,149,64,64,True,149.0
+escalador,{'aceptar_iguales': True},onemax,64,4,40000,17,1017,155,64,64,True,155.0
+escalador,{'aceptar_iguales': True},onemax,64,4,40000,18,1018,274,64,64,True,274.0
+escalador,{'aceptar_iguales': True},onemax,64,4,40000,19,1019,276,64,64,True,276.0
+escalador,{'aceptar_iguales': True},onemax,64,4,40000,20,1020,277,64,64,True,277.0
+escalador,{'aceptar_iguales': True},onemax,64,4,40000,21,1021,205,64,64,True,205.0
+escalador,{'aceptar_iguales': True},onemax,64,4,40000,22,1022,388,64,64,True,388.0
+escalador,{'aceptar_iguales': True},onemax,64,4,40000,23,1023,145,64,64,True,145.0
+escalador,{'aceptar_iguales': True},onemax,64,4,40000,24,1024,294,64,64,True,294.0
+escalador,{'aceptar_iguales': True},onemax,64,4,40000,25,1025,284,64,64,True,284.0
+escalador,{'aceptar_iguales': True},onemax,64,4,40000,26,1026,339,64,64,True,339.0
+escalador,{'aceptar_iguales': True},onemax,64,4,40000,27,1027,205,64,64,True,205.0
+escalador,{'aceptar_iguales': True},onemax,64,4,40000,28,1028,275,64,64,True,275.0
+escalador,{'aceptar_iguales': True},onemax,64,4,40000,29,1029,169,64,64,True,169.0
+escalador,{'aceptar_iguales': True},onemax,64,4,40000,30,1030,358,64,64,True,358.0
+recocido,"{'T0': 50.0, 'patron': 'presupuesto'}",onemax,64,4,40000,1,1001,18237,64,64,True,18237.0
+recocido,"{'T0': 50.0, 'patron': 'presupuesto'}",onemax,64,4,40000,2,1002,19525,64,64,True,19525.0
+recocido,"{'T0': 50.0, 'patron': 'presupuesto'}",onemax,64,4,40000,3,1003,18374,64,64,True,18374.0
+recocido,"{'T0': 50.0, 'patron': 'presupuesto'}",onemax,64,4,40000,4,1004,19719,64,64,True,19719.0
+recocido,"{'T0': 50.0, 'patron': 'presupuesto'}",onemax,64,4,40000,5,1005,18559,64,64,True,18559.0
+recocido,"{'T0': 50.0, 'patron': 'presupuesto'}",onemax,64,4,40000,6,1006,19304,64,64,True,19304.0
+recocido,"{'T0': 50.0, 'patron': 'presupuesto'}",onemax,64,4,40000,7,1007,18136,64,64,True,18136.0
+recocido,"{'T0': 50.0, 'patron': 'presupuesto'}",onemax,64,4,40000,8,1008,18333,64,64,True,18333.0
+recocido,"{'T0': 50.0, 'patron': 'presupuesto'}",onemax,64,4,40000,9,1009,17347,64,64,True,17347.0
+recocido,"{'T0': 50.0, 'patron': 'presupuesto'}",onemax,64,4,40000,10,1010,19096,64,64,True,19096.0
+recocido,"{'T0': 50.0, 'patron': 'presupuesto'}",onemax,64,4,40000,11,1011,18487,64,64,True,18487.0
+recocido,"{'T0': 50.0, 'patron': 'presupuesto'}",onemax,64,4,40000,12,1012,18996,64,64,True,18996.0
+recocido,"{'T0': 50.0, 'patron': 'presupuesto'}",onemax,64,4,40000,13,1013,18182,64,64,True,18182.0
+recocido,"{'T0': 50.0, 'patron': 'presupuesto'}",onemax,64,4,40000,14,1014,18410,64,64,True,18410.0
+recocido,"{'T0': 50.0, 'patron': 'presupuesto'}",onemax,64,4,40000,15,1015,18371,64,64,True,18371.0
+recocido,"{'T0': 50.0, 'patron': 'presupuesto'}",onemax,64,4,40000,16,1016,17678,64,64,True,17678.0
+recocido,"{'T0': 50.0, 'patron': 'presupuesto'}",onemax,64,4,40000,17,1017,19192,64,64,True,19192.0
+recocido,"{'T0': 50.0, 'patron': 'presupuesto'}",onemax,64,4,40000,18,1018,19596,64,64,True,19596.0
+recocido,"{'T0': 50.0, 'patron': 'presupuesto'}",onemax,64,4,40000,19,1019,18662,64,64,True,18662.0
+recocido,"{'T0': 50.0, 'patron': 'presupuesto'}",onemax,64,4,40000,20,1020,18433,64,64,True,18433.0
+recocido,"{'T0': 50.0, 'patron': 'presupuesto'}",onemax,64,4,40000,21,1021,18828,64,64,True,18828.0
+recocido,"{'T0': 50.0, 'patron': 'presupuesto'}",onemax,64,4,40000,22,1022,18463,64,64,True,18463.0
+recocido,"{'T0': 50.0, 'patron': 'presupuesto'}",onemax,64,4,40000,23,1023,18869,64,64,True,18869.0
+recocido,"{'T0': 50.0, 'patron': 'presupuesto'}",onemax,64,4,40000,24,1024,18343,64,64,True,18343.0
+recocido,"{'T0': 50.0, 'patron': 'presupuesto'}",onemax,64,4,40000,25,1025,19279,64,64,True,19279.0
+recocido,"{'T0': 50.0, 'patron': 'presupuesto'}",onemax,64,4,40000,26,1026,18023,64,64,True,18023.0
+recocido,"{'T0': 50.0, 'patron': 'presupuesto'}",onemax,64,4,40000,27,1027,17415,64,64,True,17415.0
+recocido,"{'T0': 50.0, 'patron': 'presupuesto'}",onemax,64,4,40000,28,1028,17261,64,64,True,17261.0
+recocido,"{'T0': 50.0, 'patron': 'presupuesto'}",onemax,64,4,40000,29,1029,18622,64,64,True,18622.0
+recocido,"{'T0': 50.0, 'patron': 'presupuesto'}",onemax,64,4,40000,30,1030,19019,64,64,True,19019.0
+umbral,"{'U0': 3.0, 'patron': 'presupuesto'}",onemax,64,4,40000,1,1001,5827,64,64,True,5827.0
+umbral,"{'U0': 3.0, 'patron': 'presupuesto'}",onemax,64,4,40000,2,1002,5677,64,64,True,5677.0
+umbral,"{'U0': 3.0, 'patron': 'presupuesto'}",onemax,64,4,40000,3,1003,5772,64,64,True,5772.0
+umbral,"{'U0': 3.0, 'patron': 'presupuesto'}",onemax,64,4,40000,4,1004,5659,64,64,True,5659.0
+umbral,"{'U0': 3.0, 'patron': 'presupuesto'}",onemax,64,4,40000,5,1005,5713,64,64,True,5713.0
+umbral,"{'U0': 3.0, 'patron': 'presupuesto'}",onemax,64,4,40000,6,1006,5668,64,64,True,5668.0
+umbral,"{'U0': 3.0, 'patron': 'presupuesto'}",onemax,64,4,40000,7,1007,5744,64,64,True,5744.0
+umbral,"{'U0': 3.0, 'patron': 'presupuesto'}",onemax,64,4,40000,8,1008,5751,64,64,True,5751.0
+umbral,"{'U0': 3.0, 'patron': 'presupuesto'}",onemax,64,4,40000,9,1009,5660,64,64,True,5660.0
+umbral,"{'U0': 3.0, 'patron': 'presupuesto'}",onemax,64,4,40000,10,1010,5834,64,64,True,5834.0
+umbral,"{'U0': 3.0, 'patron': 'presupuesto'}",onemax,64,4,40000,11,1011,5831,64,64,True,5831.0
+umbral,"{'U0': 3.0, 'patron': 'presupuesto'}",onemax,64,4,40000,12,1012,5633,64,64,True,5633.0
+umbral,"{'U0': 3.0, 'patron': 'presupuesto'}",onemax,64,4,40000,13,1013,5791,64,64,True,5791.0
+umbral,"{'U0': 3.0, 'patron': 'presupuesto'}",onemax,64,4,40000,14,1014,5736,64,64,True,5736.0
+umbral,"{'U0': 3.0, 'patron': 'presupuesto'}",onemax,64,4,40000,15,1015,5732,64,64,True,5732.0
+umbral,"{'U0': 3.0, 'patron': 'presupuesto'}",onemax,64,4,40000,16,1016,5752,64,64,True,5752.0
+umbral,"{'U0': 3.0, 'patron': 'presupuesto'}",onemax,64,4,40000,17,1017,5756,64,64,True,5756.0
+umbral,"{'U0': 3.0, 'patron': 'presupuesto'}",onemax,64,4,40000,18,1018,5784,64,64,True,5784.0
+umbral,"{'U0': 3.0, 'patron': 'presupuesto'}",onemax,64,4,40000,19,1019,5735,64,64,True,5735.0
+umbral,"{'U0': 3.0, 'patron': 'presupuesto'}",onemax,64,4,40000,20,1020,5882,64,64,True,5882.0
+umbral,"{'U0': 3.0, 'patron': 'presupuesto'}",onemax,64,4,40000,21,1021,5834,64,64,True,5834.0
+umbral,"{'U0': 3.0, 'patron': 'presupuesto'}",onemax,64,4,40000,22,1022,5905,64,64,True,5905.0
+umbral,"{'U0': 3.0, 'patron': 'presupuesto'}",onemax,64,4,40000,23,1023,5715,64,64,True,5715.0
+umbral,"{'U0': 3.0, 'patron': 'presupuesto'}",onemax,64,4,40000,24,1024,5833,64,64,True,5833.0
+umbral,"{'U0': 3.0, 'patron': 'presupuesto'}",onemax,64,4,40000,25,1025,5712,64,64,True,5712.0
+umbral,"{'U0': 3.0, 'patron': 'presupuesto'}",onemax,64,4,40000,26,1026,5798,64,64,True,5798.0
+umbral,"{'U0': 3.0, 'patron': 'presupuesto'}",onemax,64,4,40000,27,1027,5698,64,64,True,5698.0
+umbral,"{'U0': 3.0, 'patron': 'presupuesto'}",onemax,64,4,40000,28,1028,5987,64,64,True,5987.0
+umbral,"{'U0': 3.0, 'patron': 'presupuesto'}",onemax,64,4,40000,29,1029,5868,64,64,True,5868.0
+umbral,"{'U0': 3.0, 'patron': 'presupuesto'}",onemax,64,4,40000,30,1030,5788,64,64,True,5788.0
+rrt,{'D': 3},onemax,64,4,40000,1,1001,40000,60,64,False,
+rrt,{'D': 3},onemax,64,4,40000,2,1002,40000,61,64,False,
+rrt,{'D': 3},onemax,64,4,40000,3,1003,40000,61,64,False,
+rrt,{'D': 3},onemax,64,4,40000,4,1004,40000,61,64,False,
+rrt,{'D': 3},onemax,64,4,40000,5,1005,40000,60,64,False,
+rrt,{'D': 3},onemax,64,4,40000,6,1006,40000,60,64,False,
+rrt,{'D': 3},onemax,64,4,40000,7,1007,40000,61,64,False,
+rrt,{'D': 3},onemax,64,4,40000,8,1008,40000,60,64,False,
+rrt,{'D': 3},onemax,64,4,40000,9,1009,40000,59,64,False,
+rrt,{'D': 3},onemax,64,4,40000,10,1010,40000,61,64,False,
+rrt,{'D': 3},onemax,64,4,40000,11,1011,40000,62,64,False,
+rrt,{'D': 3},onemax,64,4,40000,12,1012,40000,60,64,False,
+rrt,{'D': 3},onemax,64,4,40000,13,1013,40000,61,64,False,
+rrt,{'D': 3},onemax,64,4,40000,14,1014,40000,61,64,False,
+rrt,{'D': 3},onemax,64,4,40000,15,1015,40000,61,64,False,
+rrt,{'D': 3},onemax,64,4,40000,16,1016,40000,61,64,False,
+rrt,{'D': 3},onemax,64,4,40000,17,1017,40000,60,64,False,
+rrt,{'D': 3},onemax,64,4,40000,18,1018,40000,62,64,False,
+rrt,{'D': 3},onemax,64,4,40000,19,1019,40000,59,64,False,
+rrt,{'D': 3},onemax,64,4,40000,20,1020,40000,61,64,False,
+rrt,{'D': 3},onemax,64,4,40000,21,1021,40000,62,64,False,
+rrt,{'D': 3},onemax,64,4,40000,22,1022,40000,61,64,False,
+rrt,{'D': 3},onemax,64,4,40000,23,1023,40000,60,64,False,
+rrt,{'D': 3},onemax,64,4,40000,24,1024,40000,60,64,False,
+rrt,{'D': 3},onemax,64,4,40000,25,1025,40000,62,64,False,
+rrt,{'D': 3},onemax,64,4,40000,26,1026,40000,60,64,False,
+rrt,{'D': 3},onemax,64,4,40000,27,1027,40000,60,64,False,
+rrt,{'D': 3},onemax,64,4,40000,28,1028,40000,60,64,False,
+rrt,{'D': 3},onemax,64,4,40000,29,1029,40000,62,64,False,
+rrt,{'D': 3},onemax,64,4,40000,30,1030,40000,60,64,False,
+diluvio,"{'L0': 0.0, 'lluvia': 0.5}",onemax,64,4,40000,1,1001,370,64,64,True,370.0
+diluvio,"{'L0': 0.0, 'lluvia': 0.5}",onemax,64,4,40000,2,1002,334,64,64,True,334.0
+diluvio,"{'L0': 0.0, 'lluvia': 0.5}",onemax,64,4,40000,3,1003,412,64,64,True,412.0
+diluvio,"{'L0': 0.0, 'lluvia': 0.5}",onemax,64,4,40000,4,1004,402,64,64,True,402.0
+diluvio,"{'L0': 0.0, 'lluvia': 0.5}",onemax,64,4,40000,5,1005,469,64,64,True,469.0
+diluvio,"{'L0': 0.0, 'lluvia': 0.5}",onemax,64,4,40000,6,1006,645,64,64,True,645.0
+diluvio,"{'L0': 0.0, 'lluvia': 0.5}",onemax,64,4,40000,7,1007,454,64,64,True,454.0
+diluvio,"{'L0': 0.0, 'lluvia': 0.5}",onemax,64,4,40000,8,1008,394,64,64,True,394.0
+diluvio,"{'L0': 0.0, 'lluvia': 0.5}",onemax,64,4,40000,9,1009,423,64,64,True,423.0
+diluvio,"{'L0': 0.0, 'lluvia': 0.5}",onemax,64,4,40000,10,1010,507,64,64,True,507.0
+diluvio,"{'L0': 0.0, 'lluvia': 0.5}",onemax,64,4,40000,11,1011,512,64,64,True,512.0
+diluvio,"{'L0': 0.0, 'lluvia': 0.5}",onemax,64,4,40000,12,1012,325,64,64,True,325.0
+diluvio,"{'L0': 0.0, 'lluvia': 0.5}",onemax,64,4,40000,13,1013,310,64,64,True,310.0
+diluvio,"{'L0': 0.0, 'lluvia': 0.5}",onemax,64,4,40000,14,1014,483,64,64,True,483.0
+diluvio,"{'L0': 0.0, 'lluvia': 0.5}",onemax,64,4,40000,15,1015,504,64,64,True,504.0
+diluvio,"{'L0': 0.0, 'lluvia': 0.5}",onemax,64,4,40000,16,1016,484,64,64,True,484.0
+diluvio,"{'L0': 0.0, 'lluvia': 0.5}",onemax,64,4,40000,17,1017,366,64,64,True,366.0
+diluvio,"{'L0': 0.0, 'lluvia': 0.5}",onemax,64,4,40000,18,1018,388,64,64,True,388.0
+diluvio,"{'L0': 0.0, 'lluvia': 0.5}",onemax,64,4,40000,19,1019,333,64,64,True,333.0
+diluvio,"{'L0': 0.0, 'lluvia': 0.5}",onemax,64,4,40000,20,1020,528,64,64,True,528.0
+diluvio,"{'L0': 0.0, 'lluvia': 0.5}",onemax,64,4,40000,21,1021,469,64,64,True,469.0
+diluvio,"{'L0': 0.0, 'lluvia': 0.5}",onemax,64,4,40000,22,1022,486,64,64,True,486.0
+diluvio,"{'L0': 0.0, 'lluvia': 0.5}",onemax,64,4,40000,23,1023,337,64,64,True,337.0
+diluvio,"{'L0': 0.0, 'lluvia': 0.5}",onemax,64,4,40000,24,1024,528,64,64,True,528.0
+diluvio,"{'L0': 0.0, 'lluvia': 0.5}",onemax,64,4,40000,25,1025,511,64,64,True,511.0
+diluvio,"{'L0': 0.0, 'lluvia': 0.5}",onemax,64,4,40000,26,1026,388,64,64,True,388.0
+diluvio,"{'L0': 0.0, 'lluvia': 0.5}",onemax,64,4,40000,27,1027,401,64,64,True,401.0
+diluvio,"{'L0': 0.0, 'lluvia': 0.5}",onemax,64,4,40000,28,1028,345,64,64,True,345.0
+diluvio,"{'L0': 0.0, 'lluvia': 0.5}",onemax,64,4,40000,29,1029,378,64,64,True,378.0
+diluvio,"{'L0': 0.0, 'lluvia': 0.5}",onemax,64,4,40000,30,1030,374,64,64,True,374.0
+aleatoria,{},plateau,64,4,40000,1,1001,40000,42,64,False,
+aleatoria,{},plateau,64,4,40000,2,1002,40000,42,64,False,
+aleatoria,{},plateau,64,4,40000,3,1003,40000,43,64,False,
+aleatoria,{},plateau,64,4,40000,4,1004,40000,44,64,False,
+aleatoria,{},plateau,64,4,40000,5,1005,40000,42,64,False,
+aleatoria,{},plateau,64,4,40000,6,1006,40000,43,64,False,
+aleatoria,{},plateau,64,4,40000,7,1007,40000,40,64,False,
+aleatoria,{},plateau,64,4,40000,8,1008,40000,41,64,False,
+aleatoria,{},plateau,64,4,40000,9,1009,40000,39,64,False,
+aleatoria,{},plateau,64,4,40000,10,1010,40000,40,64,False,
+aleatoria,{},plateau,64,4,40000,11,1011,40000,41,64,False,
+aleatoria,{},plateau,64,4,40000,12,1012,40000,39,64,False,
+aleatoria,{},plateau,64,4,40000,13,1013,40000,39,64,False,
+aleatoria,{},plateau,64,4,40000,14,1014,40000,42,64,False,
+aleatoria,{},plateau,64,4,40000,15,1015,40000,44,64,False,
+aleatoria,{},plateau,64,4,40000,16,1016,40000,39,64,False,
+aleatoria,{},plateau,64,4,40000,17,1017,40000,45,64,False,
+aleatoria,{},plateau,64,4,40000,18,1018,40000,44,64,False,
+aleatoria,{},plateau,64,4,40000,19,1019,40000,42,64,False,
+aleatoria,{},plateau,64,4,40000,20,1020,40000,39,64,False,
+aleatoria,{},plateau,64,4,40000,21,1021,40000,39,64,False,
+aleatoria,{},plateau,64,4,40000,22,1022,40000,41,64,False,
+aleatoria,{},plateau,64,4,40000,23,1023,40000,40,64,False,
+aleatoria,{},plateau,64,4,40000,24,1024,40000,43,64,False,
+aleatoria,{},plateau,64,4,40000,25,1025,40000,39,64,False,
+aleatoria,{},plateau,64,4,40000,26,1026,40000,47,64,False,
+aleatoria,{},plateau,64,4,40000,27,1027,40000,40,64,False,
+aleatoria,{},plateau,64,4,40000,28,1028,40000,39,64,False,
+aleatoria,{},plateau,64,4,40000,29,1029,40000,41,64,False,
+aleatoria,{},plateau,64,4,40000,30,1030,40000,39,64,False,
+escalador,{'aceptar_iguales': True},plateau,64,4,40000,1,1001,293,64,64,True,293.0
+escalador,{'aceptar_iguales': True},plateau,64,4,40000,2,1002,366,64,64,True,366.0
+escalador,{'aceptar_iguales': True},plateau,64,4,40000,3,1003,320,64,64,True,320.0
+escalador,{'aceptar_iguales': True},plateau,64,4,40000,4,1004,521,64,64,True,521.0
+escalador,{'aceptar_iguales': True},plateau,64,4,40000,5,1005,235,64,64,True,235.0
+escalador,{'aceptar_iguales': True},plateau,64,4,40000,6,1006,229,64,64,True,229.0
+escalador,{'aceptar_iguales': True},plateau,64,4,40000,7,1007,391,64,64,True,391.0
+escalador,{'aceptar_iguales': True},plateau,64,4,40000,8,1008,471,64,64,True,471.0
+escalador,{'aceptar_iguales': True},plateau,64,4,40000,9,1009,484,64,64,True,484.0
+escalador,{'aceptar_iguales': True},plateau,64,4,40000,10,1010,507,64,64,True,507.0
+escalador,{'aceptar_iguales': True},plateau,64,4,40000,11,1011,365,64,64,True,365.0
+escalador,{'aceptar_iguales': True},plateau,64,4,40000,12,1012,309,64,64,True,309.0
+escalador,{'aceptar_iguales': True},plateau,64,4,40000,13,1013,310,64,64,True,310.0
+escalador,{'aceptar_iguales': True},plateau,64,4,40000,14,1014,345,64,64,True,345.0
+escalador,{'aceptar_iguales': True},plateau,64,4,40000,15,1015,228,64,64,True,228.0
+escalador,{'aceptar_iguales': True},plateau,64,4,40000,16,1016,317,64,64,True,317.0
+escalador,{'aceptar_iguales': True},plateau,64,4,40000,17,1017,275,64,64,True,275.0
+escalador,{'aceptar_iguales': True},plateau,64,4,40000,18,1018,308,64,64,True,308.0
+escalador,{'aceptar_iguales': True},plateau,64,4,40000,19,1019,276,64,64,True,276.0
+escalador,{'aceptar_iguales': True},plateau,64,4,40000,20,1020,649,64,64,True,649.0
+escalador,{'aceptar_iguales': True},plateau,64,4,40000,21,1021,321,64,64,True,321.0
+escalador,{'aceptar_iguales': True},plateau,64,4,40000,22,1022,388,64,64,True,388.0
+escalador,{'aceptar_iguales': True},plateau,64,4,40000,23,1023,337,64,64,True,337.0
+escalador,{'aceptar_iguales': True},plateau,64,4,40000,24,1024,294,64,64,True,294.0
+escalador,{'aceptar_iguales': True},plateau,64,4,40000,25,1025,393,64,64,True,393.0
+escalador,{'aceptar_iguales': True},plateau,64,4,40000,26,1026,382,64,64,True,382.0
+escalador,{'aceptar_iguales': True},plateau,64,4,40000,27,1027,556,64,64,True,556.0
+escalador,{'aceptar_iguales': True},plateau,64,4,40000,28,1028,275,64,64,True,275.0
+escalador,{'aceptar_iguales': True},plateau,64,4,40000,29,1029,181,64,64,True,181.0
+escalador,{'aceptar_iguales': True},plateau,64,4,40000,30,1030,358,64,64,True,358.0
+recocido,"{'T0': 50.0, 'patron': 'presupuesto'}",plateau,64,4,40000,1,1001,18488,64,64,True,18488.0
+recocido,"{'T0': 50.0, 'patron': 'presupuesto'}",plateau,64,4,40000,2,1002,17838,64,64,True,17838.0
+recocido,"{'T0': 50.0, 'patron': 'presupuesto'}",plateau,64,4,40000,3,1003,18505,64,64,True,18505.0
+recocido,"{'T0': 50.0, 'patron': 'presupuesto'}",plateau,64,4,40000,4,1004,18844,64,64,True,18844.0
+recocido,"{'T0': 50.0, 'patron': 'presupuesto'}",plateau,64,4,40000,5,1005,18574,64,64,True,18574.0
+recocido,"{'T0': 50.0, 'patron': 'presupuesto'}",plateau,64,4,40000,6,1006,17598,64,64,True,17598.0
+recocido,"{'T0': 50.0, 'patron': 'presupuesto'}",plateau,64,4,40000,7,1007,18296,64,64,True,18296.0
+recocido,"{'T0': 50.0, 'patron': 'presupuesto'}",plateau,64,4,40000,8,1008,17080,64,64,True,17080.0
+recocido,"{'T0': 50.0, 'patron': 'presupuesto'}",plateau,64,4,40000,9,1009,18632,64,64,True,18632.0
+recocido,"{'T0': 50.0, 'patron': 'presupuesto'}",plateau,64,4,40000,10,1010,18286,64,64,True,18286.0
+recocido,"{'T0': 50.0, 'patron': 'presupuesto'}",plateau,64,4,40000,11,1011,18122,64,64,True,18122.0
+recocido,"{'T0': 50.0, 'patron': 'presupuesto'}",plateau,64,4,40000,12,1012,18120,64,64,True,18120.0
+recocido,"{'T0': 50.0, 'patron': 'presupuesto'}",plateau,64,4,40000,13,1013,19039,64,64,True,19039.0
+recocido,"{'T0': 50.0, 'patron': 'presupuesto'}",plateau,64,4,40000,14,1014,18150,64,64,True,18150.0
+recocido,"{'T0': 50.0, 'patron': 'presupuesto'}",plateau,64,4,40000,15,1015,18480,64,64,True,18480.0
+recocido,"{'T0': 50.0, 'patron': 'presupuesto'}",plateau,64,4,40000,16,1016,17829,64,64,True,17829.0
+recocido,"{'T0': 50.0, 'patron': 'presupuesto'}",plateau,64,4,40000,17,1017,18340,64,64,True,18340.0
+recocido,"{'T0': 50.0, 'patron': 'presupuesto'}",plateau,64,4,40000,18,1018,18718,64,64,True,18718.0
+recocido,"{'T0': 50.0, 'patron': 'presupuesto'}",plateau,64,4,40000,19,1019,17604,64,64,True,17604.0
+recocido,"{'T0': 50.0, 'patron': 'presupuesto'}",plateau,64,4,40000,20,1020,18289,64,64,True,18289.0
+recocido,"{'T0': 50.0, 'patron': 'presupuesto'}",plateau,64,4,40000,21,1021,18574,64,64,True,18574.0
+recocido,"{'T0': 50.0, 'patron': 'presupuesto'}",plateau,64,4,40000,22,1022,17142,64,64,True,17142.0
+recocido,"{'T0': 50.0, 'patron': 'presupuesto'}",plateau,64,4,40000,23,1023,17030,64,64,True,17030.0
+recocido,"{'T0': 50.0, 'patron': 'presupuesto'}",plateau,64,4,40000,24,1024,18739,64,64,True,18739.0
+recocido,"{'T0': 50.0, 'patron': 'presupuesto'}",plateau,64,4,40000,25,1025,17987,64,64,True,17987.0
+recocido,"{'T0': 50.0, 'patron': 'presupuesto'}",plateau,64,4,40000,26,1026,18218,64,64,True,18218.0
+recocido,"{'T0': 50.0, 'patron': 'presupuesto'}",plateau,64,4,40000,27,1027,16427,64,64,True,16427.0
+recocido,"{'T0': 50.0, 'patron': 'presupuesto'}",plateau,64,4,40000,28,1028,18290,64,64,True,18290.0
+recocido,"{'T0': 50.0, 'patron': 'presupuesto'}",plateau,64,4,40000,29,1029,18838,64,64,True,18838.0
+recocido,"{'T0': 50.0, 'patron': 'presupuesto'}",plateau,64,4,40000,30,1030,18045,64,64,True,18045.0
+umbral,"{'U0': 3.0, 'patron': 'presupuesto'}",plateau,64,4,40000,1,1001,5697,64,64,True,5697.0
+umbral,"{'U0': 3.0, 'patron': 'presupuesto'}",plateau,64,4,40000,2,1002,5622,64,64,True,5622.0
+umbral,"{'U0': 3.0, 'patron': 'presupuesto'}",plateau,64,4,40000,3,1003,5587,64,64,True,5587.0
+umbral,"{'U0': 3.0, 'patron': 'presupuesto'}",plateau,64,4,40000,4,1004,5683,64,64,True,5683.0
+umbral,"{'U0': 3.0, 'patron': 'presupuesto'}",plateau,64,4,40000,5,1005,5673,64,64,True,5673.0
+umbral,"{'U0': 3.0, 'patron': 'presupuesto'}",plateau,64,4,40000,6,1006,5668,64,64,True,5668.0
+umbral,"{'U0': 3.0, 'patron': 'presupuesto'}",plateau,64,4,40000,7,1007,5744,64,64,True,5744.0
+umbral,"{'U0': 3.0, 'patron': 'presupuesto'}",plateau,64,4,40000,8,1008,5647,64,64,True,5647.0
+umbral,"{'U0': 3.0, 'patron': 'presupuesto'}",plateau,64,4,40000,9,1009,5649,64,64,True,5649.0
+umbral,"{'U0': 3.0, 'patron': 'presupuesto'}",plateau,64,4,40000,10,1010,5834,64,64,True,5834.0
+umbral,"{'U0': 3.0, 'patron': 'presupuesto'}",plateau,64,4,40000,11,1011,5831,64,64,True,5831.0
+umbral,"{'U0': 3.0, 'patron': 'presupuesto'}",plateau,64,4,40000,12,1012,5597,64,64,True,5597.0
+umbral,"{'U0': 3.0, 'patron': 'presupuesto'}",plateau,64,4,40000,13,1013,5620,64,64,True,5620.0
+umbral,"{'U0': 3.0, 'patron': 'presupuesto'}",plateau,64,4,40000,14,1014,5736,64,64,True,5736.0
+umbral,"{'U0': 3.0, 'patron': 'presupuesto'}",plateau,64,4,40000,15,1015,5690,64,64,True,5690.0
+umbral,"{'U0': 3.0, 'patron': 'presupuesto'}",plateau,64,4,40000,16,1016,5764,64,64,True,5764.0
+umbral,"{'U0': 3.0, 'patron': 'presupuesto'}",plateau,64,4,40000,17,1017,5630,64,64,True,5630.0
+umbral,"{'U0': 3.0, 'patron': 'presupuesto'}",plateau,64,4,40000,18,1018,5689,64,64,True,5689.0
+umbral,"{'U0': 3.0, 'patron': 'presupuesto'}",plateau,64,4,40000,19,1019,5735,64,64,True,5735.0
+umbral,"{'U0': 3.0, 'patron': 'presupuesto'}",plateau,64,4,40000,20,1020,5707,64,64,True,5707.0
+umbral,"{'U0': 3.0, 'patron': 'presupuesto'}",plateau,64,4,40000,21,1021,5732,64,64,True,5732.0
+umbral,"{'U0': 3.0, 'patron': 'presupuesto'}",plateau,64,4,40000,22,1022,5733,64,64,True,5733.0
+umbral,"{'U0': 3.0, 'patron': 'presupuesto'}",plateau,64,4,40000,23,1023,5686,64,64,True,5686.0
+umbral,"{'U0': 3.0, 'patron': 'presupuesto'}",plateau,64,4,40000,24,1024,5643,64,64,True,5643.0
+umbral,"{'U0': 3.0, 'patron': 'presupuesto'}",plateau,64,4,40000,25,1025,5601,64,64,True,5601.0
+umbral,"{'U0': 3.0, 'patron': 'presupuesto'}",plateau,64,4,40000,26,1026,5637,64,64,True,5637.0
+umbral,"{'U0': 3.0, 'patron': 'presupuesto'}",plateau,64,4,40000,27,1027,5787,64,64,True,5787.0
+umbral,"{'U0': 3.0, 'patron': 'presupuesto'}",plateau,64,4,40000,28,1028,5657,64,64,True,5657.0
+umbral,"{'U0': 3.0, 'patron': 'presupuesto'}",plateau,64,4,40000,29,1029,5668,64,64,True,5668.0
+umbral,"{'U0': 3.0, 'patron': 'presupuesto'}",plateau,64,4,40000,30,1030,5705,64,64,True,5705.0
+rrt,{'D': 3},plateau,64,4,40000,1,1001,40000,61,64,False,
+rrt,{'D': 3},plateau,64,4,40000,2,1002,40000,62,64,False,
+rrt,{'D': 3},plateau,64,4,40000,3,1003,40000,62,64,False,
+rrt,{'D': 3},plateau,64,4,40000,4,1004,40000,62,64,False,
+rrt,{'D': 3},plateau,64,4,40000,5,1005,40000,62,64,False,
+rrt,{'D': 3},plateau,64,4,40000,6,1006,40000,62,64,False,
+rrt,{'D': 3},plateau,64,4,40000,7,1007,40000,61,64,False,
+rrt,{'D': 3},plateau,64,4,40000,8,1008,40000,61,64,False,
+rrt,{'D': 3},plateau,64,4,40000,9,1009,40000,61,64,False,
+rrt,{'D': 3},plateau,64,4,40000,10,1010,40000,62,64,False,
+rrt,{'D': 3},plateau,64,4,40000,11,1011,40000,61,64,False,
+rrt,{'D': 3},plateau,64,4,40000,12,1012,40000,62,64,False,
+rrt,{'D': 3},plateau,64,4,40000,13,1013,40000,63,64,False,
+rrt,{'D': 3},plateau,64,4,40000,14,1014,40000,62,64,False,
+rrt,{'D': 3},plateau,64,4,40000,15,1015,40000,60,64,False,
+rrt,{'D': 3},plateau,64,4,40000,16,1016,40000,63,64,False,
+rrt,{'D': 3},plateau,64,4,40000,17,1017,40000,62,64,False,
+rrt,{'D': 3},plateau,64,4,40000,18,1018,40000,62,64,False,
+rrt,{'D': 3},plateau,64,4,40000,19,1019,40000,63,64,False,
+rrt,{'D': 3},plateau,64,4,40000,20,1020,40000,63,64,False,
+rrt,{'D': 3},plateau,64,4,40000,21,1021,40000,61,64,False,
+rrt,{'D': 3},plateau,64,4,40000,22,1022,40000,63,64,False,
+rrt,{'D': 3},plateau,64,4,40000,23,1023,40000,60,64,False,
+rrt,{'D': 3},plateau,64,4,40000,24,1024,40000,62,64,False,
+rrt,{'D': 3},plateau,64,4,40000,25,1025,40000,61,64,False,
+rrt,{'D': 3},plateau,64,4,40000,26,1026,40000,61,64,False,
+rrt,{'D': 3},plateau,64,4,40000,27,1027,40000,62,64,False,
+rrt,{'D': 3},plateau,64,4,40000,28,1028,40000,62,64,False,
+rrt,{'D': 3},plateau,64,4,40000,29,1029,40000,61,64,False,
+rrt,{'D': 3},plateau,64,4,40000,30,1030,40000,63,64,False,
+diluvio,"{'L0': 0.0, 'lluvia': 0.5}",plateau,64,4,40000,1,1001,452,64,64,True,452.0
+diluvio,"{'L0': 0.0, 'lluvia': 0.5}",plateau,64,4,40000,2,1002,477,64,64,True,477.0
+diluvio,"{'L0': 0.0, 'lluvia': 0.5}",plateau,64,4,40000,3,1003,573,64,64,True,573.0
+diluvio,"{'L0': 0.0, 'lluvia': 0.5}",plateau,64,4,40000,4,1004,869,64,64,True,869.0
+diluvio,"{'L0': 0.0, 'lluvia': 0.5}",plateau,64,4,40000,5,1005,443,64,64,True,443.0
+diluvio,"{'L0': 0.0, 'lluvia': 0.5}",plateau,64,4,40000,6,1006,40000,60,64,False,
+diluvio,"{'L0': 0.0, 'lluvia': 0.5}",plateau,64,4,40000,7,1007,622,64,64,True,622.0
+diluvio,"{'L0': 0.0, 'lluvia': 0.5}",plateau,64,4,40000,8,1008,418,64,64,True,418.0
+diluvio,"{'L0': 0.0, 'lluvia': 0.5}",plateau,64,4,40000,9,1009,455,64,64,True,455.0
+diluvio,"{'L0': 0.0, 'lluvia': 0.5}",plateau,64,4,40000,10,1010,507,64,64,True,507.0
+diluvio,"{'L0': 0.0, 'lluvia': 0.5}",plateau,64,4,40000,11,1011,682,64,64,True,682.0
+diluvio,"{'L0': 0.0, 'lluvia': 0.5}",plateau,64,4,40000,12,1012,447,64,64,True,447.0
+diluvio,"{'L0': 0.0, 'lluvia': 0.5}",plateau,64,4,40000,13,1013,40000,60,64,False,
+diluvio,"{'L0': 0.0, 'lluvia': 0.5}",plateau,64,4,40000,14,1014,483,64,64,True,483.0
+diluvio,"{'L0': 0.0, 'lluvia': 0.5}",plateau,64,4,40000,15,1015,515,64,64,True,515.0
+diluvio,"{'L0': 0.0, 'lluvia': 0.5}",plateau,64,4,40000,16,1016,613,64,64,True,613.0
+diluvio,"{'L0': 0.0, 'lluvia': 0.5}",plateau,64,4,40000,17,1017,682,64,64,True,682.0
+diluvio,"{'L0': 0.0, 'lluvia': 0.5}",plateau,64,4,40000,18,1018,40000,32,64,False,
+diluvio,"{'L0': 0.0, 'lluvia': 0.5}",plateau,64,4,40000,19,1019,40000,60,64,False,
+diluvio,"{'L0': 0.0, 'lluvia': 0.5}",plateau,64,4,40000,20,1020,559,64,64,True,559.0
+diluvio,"{'L0': 0.0, 'lluvia': 0.5}",plateau,64,4,40000,21,1021,634,64,64,True,634.0
+diluvio,"{'L0': 0.0, 'lluvia': 0.5}",plateau,64,4,40000,22,1022,529,64,64,True,529.0
+diluvio,"{'L0': 0.0, 'lluvia': 0.5}",plateau,64,4,40000,23,1023,40000,60,64,False,
+diluvio,"{'L0': 0.0, 'lluvia': 0.5}",plateau,64,4,40000,24,1024,559,64,64,True,559.0
+diluvio,"{'L0': 0.0, 'lluvia': 0.5}",plateau,64,4,40000,25,1025,529,64,64,True,529.0
+diluvio,"{'L0': 0.0, 'lluvia': 0.5}",plateau,64,4,40000,26,1026,500,64,64,True,500.0
+diluvio,"{'L0': 0.0, 'lluvia': 0.5}",plateau,64,4,40000,27,1027,758,64,64,True,758.0
+diluvio,"{'L0': 0.0, 'lluvia': 0.5}",plateau,64,4,40000,28,1028,649,64,64,True,649.0
+diluvio,"{'L0': 0.0, 'lluvia': 0.5}",plateau,64,4,40000,29,1029,633,64,64,True,633.0
+diluvio,"{'L0': 0.0, 'lluvia': 0.5}",plateau,64,4,40000,30,1030,685,64,64,True,685.0
+aleatoria,{},royalroad,64,4,40000,1,1001,40000,24,64,False,
+aleatoria,{},royalroad,64,4,40000,2,1002,40000,24,64,False,
+aleatoria,{},royalroad,64,4,40000,3,1003,40000,24,64,False,
+aleatoria,{},royalroad,64,4,40000,4,1004,40000,28,64,False,
+aleatoria,{},royalroad,64,4,40000,5,1005,40000,24,64,False,
+aleatoria,{},royalroad,64,4,40000,6,1006,40000,24,64,False,
+aleatoria,{},royalroad,64,4,40000,7,1007,40000,28,64,False,
+aleatoria,{},royalroad,64,4,40000,8,1008,40000,24,64,False,
+aleatoria,{},royalroad,64,4,40000,9,1009,40000,24,64,False,
+aleatoria,{},royalroad,64,4,40000,10,1010,40000,24,64,False,
+aleatoria,{},royalroad,64,4,40000,11,1011,40000,28,64,False,
+aleatoria,{},royalroad,64,4,40000,12,1012,40000,24,64,False,
+aleatoria,{},royalroad,64,4,40000,13,1013,40000,20,64,False,
+aleatoria,{},royalroad,64,4,40000,14,1014,40000,28,64,False,
+aleatoria,{},royalroad,64,4,40000,15,1015,40000,24,64,False,
+aleatoria,{},royalroad,64,4,40000,16,1016,40000,24,64,False,
+aleatoria,{},royalroad,64,4,40000,17,1017,40000,28,64,False,
+aleatoria,{},royalroad,64,4,40000,18,1018,40000,24,64,False,
+aleatoria,{},royalroad,64,4,40000,19,1019,40000,24,64,False,
+aleatoria,{},royalroad,64,4,40000,20,1020,40000,28,64,False,
+aleatoria,{},royalroad,64,4,40000,21,1021,40000,24,64,False,
+aleatoria,{},royalroad,64,4,40000,22,1022,40000,24,64,False,
+aleatoria,{},royalroad,64,4,40000,23,1023,40000,20,64,False,
+aleatoria,{},royalroad,64,4,40000,24,1024,40000,28,64,False,
+aleatoria,{},royalroad,64,4,40000,25,1025,40000,24,64,False,
+aleatoria,{},royalroad,64,4,40000,26,1026,40000,24,64,False,
+aleatoria,{},royalroad,64,4,40000,27,1027,40000,24,64,False,
+aleatoria,{},royalroad,64,4,40000,28,1028,40000,24,64,False,
+aleatoria,{},royalroad,64,4,40000,29,1029,40000,20,64,False,
+aleatoria,{},royalroad,64,4,40000,30,1030,40000,24,64,False,
+escalador,{'aceptar_iguales': True},royalroad,64,4,40000,1,1001,1368,64,64,True,1368.0
+escalador,{'aceptar_iguales': True},royalroad,64,4,40000,2,1002,862,64,64,True,862.0
+escalador,{'aceptar_iguales': True},royalroad,64,4,40000,3,1003,853,64,64,True,853.0
+escalador,{'aceptar_iguales': True},royalroad,64,4,40000,4,1004,1209,64,64,True,1209.0
+escalador,{'aceptar_iguales': True},royalroad,64,4,40000,5,1005,451,64,64,True,451.0
+escalador,{'aceptar_iguales': True},royalroad,64,4,40000,6,1006,414,64,64,True,414.0
+escalador,{'aceptar_iguales': True},royalroad,64,4,40000,7,1007,1128,64,64,True,1128.0
+escalador,{'aceptar_iguales': True},royalroad,64,4,40000,8,1008,841,64,64,True,841.0
+escalador,{'aceptar_iguales': True},royalroad,64,4,40000,9,1009,1402,64,64,True,1402.0
+escalador,{'aceptar_iguales': True},royalroad,64,4,40000,10,1010,1170,64,64,True,1170.0
+escalador,{'aceptar_iguales': True},royalroad,64,4,40000,11,1011,890,64,64,True,890.0
+escalador,{'aceptar_iguales': True},royalroad,64,4,40000,12,1012,517,64,64,True,517.0
+escalador,{'aceptar_iguales': True},royalroad,64,4,40000,13,1013,709,64,64,True,709.0
+escalador,{'aceptar_iguales': True},royalroad,64,4,40000,14,1014,727,64,64,True,727.0
+escalador,{'aceptar_iguales': True},royalroad,64,4,40000,15,1015,1304,64,64,True,1304.0
+escalador,{'aceptar_iguales': True},royalroad,64,4,40000,16,1016,743,64,64,True,743.0
+escalador,{'aceptar_iguales': True},royalroad,64,4,40000,17,1017,672,64,64,True,672.0
+escalador,{'aceptar_iguales': True},royalroad,64,4,40000,18,1018,740,64,64,True,740.0
+escalador,{'aceptar_iguales': True},royalroad,64,4,40000,19,1019,994,64,64,True,994.0
+escalador,{'aceptar_iguales': True},royalroad,64,4,40000,20,1020,1394,64,64,True,1394.0
+escalador,{'aceptar_iguales': True},royalroad,64,4,40000,21,1021,1702,64,64,True,1702.0
+escalador,{'aceptar_iguales': True},royalroad,64,4,40000,22,1022,1454,64,64,True,1454.0
+escalador,{'aceptar_iguales': True},royalroad,64,4,40000,23,1023,1002,64,64,True,1002.0
+escalador,{'aceptar_iguales': True},royalroad,64,4,40000,24,1024,807,64,64,True,807.0
+escalador,{'aceptar_iguales': True},royalroad,64,4,40000,25,1025,1600,64,64,True,1600.0
+escalador,{'aceptar_iguales': True},royalroad,64,4,40000,26,1026,1192,64,64,True,1192.0
+escalador,{'aceptar_iguales': True},royalroad,64,4,40000,27,1027,1362,64,64,True,1362.0
+escalador,{'aceptar_iguales': True},royalroad,64,4,40000,28,1028,680,64,64,True,680.0
+escalador,{'aceptar_iguales': True},royalroad,64,4,40000,29,1029,889,64,64,True,889.0
+escalador,{'aceptar_iguales': True},royalroad,64,4,40000,30,1030,515,64,64,True,515.0
+recocido,"{'T0': 50.0, 'patron': 'presupuesto'}",royalroad,64,4,40000,1,1001,15111,64,64,True,15111.0
+recocido,"{'T0': 50.0, 'patron': 'presupuesto'}",royalroad,64,4,40000,2,1002,15538,64,64,True,15538.0
+recocido,"{'T0': 50.0, 'patron': 'presupuesto'}",royalroad,64,4,40000,3,1003,16149,64,64,True,16149.0
+recocido,"{'T0': 50.0, 'patron': 'presupuesto'}",royalroad,64,4,40000,4,1004,16705,64,64,True,16705.0
+recocido,"{'T0': 50.0, 'patron': 'presupuesto'}",royalroad,64,4,40000,5,1005,16166,64,64,True,16166.0
+recocido,"{'T0': 50.0, 'patron': 'presupuesto'}",royalroad,64,4,40000,6,1006,14782,64,64,True,14782.0
+recocido,"{'T0': 50.0, 'patron': 'presupuesto'}",royalroad,64,4,40000,7,1007,16076,64,64,True,16076.0
+recocido,"{'T0': 50.0, 'patron': 'presupuesto'}",royalroad,64,4,40000,8,1008,15263,64,64,True,15263.0
+recocido,"{'T0': 50.0, 'patron': 'presupuesto'}",royalroad,64,4,40000,9,1009,15984,64,64,True,15984.0
+recocido,"{'T0': 50.0, 'patron': 'presupuesto'}",royalroad,64,4,40000,10,1010,16447,64,64,True,16447.0
+recocido,"{'T0': 50.0, 'patron': 'presupuesto'}",royalroad,64,4,40000,11,1011,15336,64,64,True,15336.0
+recocido,"{'T0': 50.0, 'patron': 'presupuesto'}",royalroad,64,4,40000,12,1012,16346,64,64,True,16346.0
+recocido,"{'T0': 50.0, 'patron': 'presupuesto'}",royalroad,64,4,40000,13,1013,14952,64,64,True,14952.0
+recocido,"{'T0': 50.0, 'patron': 'presupuesto'}",royalroad,64,4,40000,14,1014,15904,64,64,True,15904.0
+recocido,"{'T0': 50.0, 'patron': 'presupuesto'}",royalroad,64,4,40000,15,1015,15460,64,64,True,15460.0
+recocido,"{'T0': 50.0, 'patron': 'presupuesto'}",royalroad,64,4,40000,16,1016,15137,64,64,True,15137.0
+recocido,"{'T0': 50.0, 'patron': 'presupuesto'}",royalroad,64,4,40000,17,1017,14807,64,64,True,14807.0
+recocido,"{'T0': 50.0, 'patron': 'presupuesto'}",royalroad,64,4,40000,18,1018,14551,64,64,True,14551.0
+recocido,"{'T0': 50.0, 'patron': 'presupuesto'}",royalroad,64,4,40000,19,1019,14906,64,64,True,14906.0
+recocido,"{'T0': 50.0, 'patron': 'presupuesto'}",royalroad,64,4,40000,20,1020,15881,64,64,True,15881.0
+recocido,"{'T0': 50.0, 'patron': 'presupuesto'}",royalroad,64,4,40000,21,1021,15183,64,64,True,15183.0
+recocido,"{'T0': 50.0, 'patron': 'presupuesto'}",royalroad,64,4,40000,22,1022,15505,64,64,True,15505.0
+recocido,"{'T0': 50.0, 'patron': 'presupuesto'}",royalroad,64,4,40000,23,1023,14968,64,64,True,14968.0
+recocido,"{'T0': 50.0, 'patron': 'presupuesto'}",royalroad,64,4,40000,24,1024,15497,64,64,True,15497.0
+recocido,"{'T0': 50.0, 'patron': 'presupuesto'}",royalroad,64,4,40000,25,1025,16270,64,64,True,16270.0
+recocido,"{'T0': 50.0, 'patron': 'presupuesto'}",royalroad,64,4,40000,26,1026,14800,64,64,True,14800.0
+recocido,"{'T0': 50.0, 'patron': 'presupuesto'}",royalroad,64,4,40000,27,1027,14893,64,64,True,14893.0
+recocido,"{'T0': 50.0, 'patron': 'presupuesto'}",royalroad,64,4,40000,28,1028,15279,64,64,True,15279.0
+recocido,"{'T0': 50.0, 'patron': 'presupuesto'}",royalroad,64,4,40000,29,1029,15409,64,64,True,15409.0
+recocido,"{'T0': 50.0, 'patron': 'presupuesto'}",royalroad,64,4,40000,30,1030,16255,64,64,True,16255.0
+umbral,"{'U0': 3.0, 'patron': 'presupuesto'}",royalroad,64,4,40000,1,1001,1368,64,64,True,1368.0
+umbral,"{'U0': 3.0, 'patron': 'presupuesto'}",royalroad,64,4,40000,2,1002,862,64,64,True,862.0
+umbral,"{'U0': 3.0, 'patron': 'presupuesto'}",royalroad,64,4,40000,3,1003,853,64,64,True,853.0
+umbral,"{'U0': 3.0, 'patron': 'presupuesto'}",royalroad,64,4,40000,4,1004,1209,64,64,True,1209.0
+umbral,"{'U0': 3.0, 'patron': 'presupuesto'}",royalroad,64,4,40000,5,1005,451,64,64,True,451.0
+umbral,"{'U0': 3.0, 'patron': 'presupuesto'}",royalroad,64,4,40000,6,1006,414,64,64,True,414.0
+umbral,"{'U0': 3.0, 'patron': 'presupuesto'}",royalroad,64,4,40000,7,1007,1128,64,64,True,1128.0
+umbral,"{'U0': 3.0, 'patron': 'presupuesto'}",royalroad,64,4,40000,8,1008,841,64,64,True,841.0
+umbral,"{'U0': 3.0, 'patron': 'presupuesto'}",royalroad,64,4,40000,9,1009,1402,64,64,True,1402.0
+umbral,"{'U0': 3.0, 'patron': 'presupuesto'}",royalroad,64,4,40000,10,1010,1170,64,64,True,1170.0
+umbral,"{'U0': 3.0, 'patron': 'presupuesto'}",royalroad,64,4,40000,11,1011,890,64,64,True,890.0
+umbral,"{'U0': 3.0, 'patron': 'presupuesto'}",royalroad,64,4,40000,12,1012,517,64,64,True,517.0
+umbral,"{'U0': 3.0, 'patron': 'presupuesto'}",royalroad,64,4,40000,13,1013,709,64,64,True,709.0
+umbral,"{'U0': 3.0, 'patron': 'presupuesto'}",royalroad,64,4,40000,14,1014,727,64,64,True,727.0
+umbral,"{'U0': 3.0, 'patron': 'presupuesto'}",royalroad,64,4,40000,15,1015,1304,64,64,True,1304.0
+umbral,"{'U0': 3.0, 'patron': 'presupuesto'}",royalroad,64,4,40000,16,1016,743,64,64,True,743.0
+umbral,"{'U0': 3.0, 'patron': 'presupuesto'}",royalroad,64,4,40000,17,1017,672,64,64,True,672.0
+umbral,"{'U0': 3.0, 'patron': 'presupuesto'}",royalroad,64,4,40000,18,1018,740,64,64,True,740.0
+umbral,"{'U0': 3.0, 'patron': 'presupuesto'}",royalroad,64,4,40000,19,1019,994,64,64,True,994.0
+umbral,"{'U0': 3.0, 'patron': 'presupuesto'}",royalroad,64,4,40000,20,1020,1394,64,64,True,1394.0
+umbral,"{'U0': 3.0, 'patron': 'presupuesto'}",royalroad,64,4,40000,21,1021,1702,64,64,True,1702.0
+umbral,"{'U0': 3.0, 'patron': 'presupuesto'}",royalroad,64,4,40000,22,1022,1454,64,64,True,1454.0
+umbral,"{'U0': 3.0, 'patron': 'presupuesto'}",royalroad,64,4,40000,23,1023,1002,64,64,True,1002.0
+umbral,"{'U0': 3.0, 'patron': 'presupuesto'}",royalroad,64,4,40000,24,1024,807,64,64,True,807.0
+umbral,"{'U0': 3.0, 'patron': 'presupuesto'}",royalroad,64,4,40000,25,1025,1600,64,64,True,1600.0
+umbral,"{'U0': 3.0, 'patron': 'presupuesto'}",royalroad,64,4,40000,26,1026,1192,64,64,True,1192.0
+umbral,"{'U0': 3.0, 'patron': 'presupuesto'}",royalroad,64,4,40000,27,1027,1362,64,64,True,1362.0
+umbral,"{'U0': 3.0, 'patron': 'presupuesto'}",royalroad,64,4,40000,28,1028,680,64,64,True,680.0
+umbral,"{'U0': 3.0, 'patron': 'presupuesto'}",royalroad,64,4,40000,29,1029,889,64,64,True,889.0
+umbral,"{'U0': 3.0, 'patron': 'presupuesto'}",royalroad,64,4,40000,30,1030,515,64,64,True,515.0
+rrt,{'D': 3},royalroad,64,4,40000,1,1001,1368,64,64,True,1368.0
+rrt,{'D': 3},royalroad,64,4,40000,2,1002,862,64,64,True,862.0
+rrt,{'D': 3},royalroad,64,4,40000,3,1003,853,64,64,True,853.0
+rrt,{'D': 3},royalroad,64,4,40000,4,1004,1209,64,64,True,1209.0
+rrt,{'D': 3},royalroad,64,4,40000,5,1005,451,64,64,True,451.0
+rrt,{'D': 3},royalroad,64,4,40000,6,1006,414,64,64,True,414.0
+rrt,{'D': 3},royalroad,64,4,40000,7,1007,1128,64,64,True,1128.0
+rrt,{'D': 3},royalroad,64,4,40000,8,1008,841,64,64,True,841.0
+rrt,{'D': 3},royalroad,64,4,40000,9,1009,1402,64,64,True,1402.0
+rrt,{'D': 3},royalroad,64,4,40000,10,1010,1170,64,64,True,1170.0
+rrt,{'D': 3},royalroad,64,4,40000,11,1011,890,64,64,True,890.0
+rrt,{'D': 3},royalroad,64,4,40000,12,1012,517,64,64,True,517.0
+rrt,{'D': 3},royalroad,64,4,40000,13,1013,709,64,64,True,709.0
+rrt,{'D': 3},royalroad,64,4,40000,14,1014,727,64,64,True,727.0
+rrt,{'D': 3},royalroad,64,4,40000,15,1015,1304,64,64,True,1304.0
+rrt,{'D': 3},royalroad,64,4,40000,16,1016,743,64,64,True,743.0
+rrt,{'D': 3},royalroad,64,4,40000,17,1017,672,64,64,True,672.0
+rrt,{'D': 3},royalroad,64,4,40000,18,1018,740,64,64,True,740.0
+rrt,{'D': 3},royalroad,64,4,40000,19,1019,994,64,64,True,994.0
+rrt,{'D': 3},royalroad,64,4,40000,20,1020,1394,64,64,True,1394.0
+rrt,{'D': 3},royalroad,64,4,40000,21,1021,1702,64,64,True,1702.0
+rrt,{'D': 3},royalroad,64,4,40000,22,1022,1454,64,64,True,1454.0
+rrt,{'D': 3},royalroad,64,4,40000,23,1023,1002,64,64,True,1002.0
+rrt,{'D': 3},royalroad,64,4,40000,24,1024,807,64,64,True,807.0
+rrt,{'D': 3},royalroad,64,4,40000,25,1025,1600,64,64,True,1600.0
+rrt,{'D': 3},royalroad,64,4,40000,26,1026,1192,64,64,True,1192.0
+rrt,{'D': 3},royalroad,64,4,40000,27,1027,1362,64,64,True,1362.0
+rrt,{'D': 3},royalroad,64,4,40000,28,1028,680,64,64,True,680.0
+rrt,{'D': 3},royalroad,64,4,40000,29,1029,889,64,64,True,889.0
+rrt,{'D': 3},royalroad,64,4,40000,30,1030,515,64,64,True,515.0
+diluvio,"{'L0': 0.0, 'lluvia': 0.5}",royalroad,64,4,40000,1,1001,40000,44,64,False,
+diluvio,"{'L0': 0.0, 'lluvia': 0.5}",royalroad,64,4,40000,2,1002,40000,32,64,False,
+diluvio,"{'L0': 0.0, 'lluvia': 0.5}",royalroad,64,4,40000,3,1003,40000,44,64,False,
+diluvio,"{'L0': 0.0, 'lluvia': 0.5}",royalroad,64,4,40000,4,1004,40000,28,64,False,
+diluvio,"{'L0': 0.0, 'lluvia': 0.5}",royalroad,64,4,40000,5,1005,40000,16,64,False,
+diluvio,"{'L0': 0.0, 'lluvia': 0.5}",royalroad,64,4,40000,6,1006,40000,28,64,False,
+diluvio,"{'L0': 0.0, 'lluvia': 0.5}",royalroad,64,4,40000,7,1007,40000,56,64,False,
+diluvio,"{'L0': 0.0, 'lluvia': 0.5}",royalroad,64,4,40000,8,1008,40000,36,64,False,
+diluvio,"{'L0': 0.0, 'lluvia': 0.5}",royalroad,64,4,40000,9,1009,40000,52,64,False,
+diluvio,"{'L0': 0.0, 'lluvia': 0.5}",royalroad,64,4,40000,10,1010,40000,16,64,False,
+diluvio,"{'L0': 0.0, 'lluvia': 0.5}",royalroad,64,4,40000,11,1011,40000,24,64,False,
+diluvio,"{'L0': 0.0, 'lluvia': 0.5}",royalroad,64,4,40000,12,1012,40000,36,64,False,
+diluvio,"{'L0': 0.0, 'lluvia': 0.5}",royalroad,64,4,40000,13,1013,40000,48,64,False,
+diluvio,"{'L0': 0.0, 'lluvia': 0.5}",royalroad,64,4,40000,14,1014,40000,36,64,False,
+diluvio,"{'L0': 0.0, 'lluvia': 0.5}",royalroad,64,4,40000,15,1015,40000,44,64,False,
+diluvio,"{'L0': 0.0, 'lluvia': 0.5}",royalroad,64,4,40000,16,1016,40000,52,64,False,
+diluvio,"{'L0': 0.0, 'lluvia': 0.5}",royalroad,64,4,40000,17,1017,40000,24,64,False,
+diluvio,"{'L0': 0.0, 'lluvia': 0.5}",royalroad,64,4,40000,18,1018,40000,20,64,False,
+diluvio,"{'L0': 0.0, 'lluvia': 0.5}",royalroad,64,4,40000,19,1019,40000,48,64,False,
+diluvio,"{'L0': 0.0, 'lluvia': 0.5}",royalroad,64,4,40000,20,1020,40000,28,64,False,
+diluvio,"{'L0': 0.0, 'lluvia': 0.5}",royalroad,64,4,40000,21,1021,40000,28,64,False,
+diluvio,"{'L0': 0.0, 'lluvia': 0.5}",royalroad,64,4,40000,22,1022,634,64,64,True,634.0
+diluvio,"{'L0': 0.0, 'lluvia': 0.5}",royalroad,64,4,40000,23,1023,40000,36,64,False,
+diluvio,"{'L0': 0.0, 'lluvia': 0.5}",royalroad,64,4,40000,24,1024,40000,8,64,False,
+diluvio,"{'L0': 0.0, 'lluvia': 0.5}",royalroad,64,4,40000,25,1025,40000,16,64,False,
+diluvio,"{'L0': 0.0, 'lluvia': 0.5}",royalroad,64,4,40000,26,1026,40000,40,64,False,
+diluvio,"{'L0': 0.0, 'lluvia': 0.5}",royalroad,64,4,40000,27,1027,40000,24,64,False,
+diluvio,"{'L0': 0.0, 'lluvia': 0.5}",royalroad,64,4,40000,28,1028,40000,48,64,False,
+diluvio,"{'L0': 0.0, 'lluvia': 0.5}",royalroad,64,4,40000,29,1029,40000,60,64,False,
+diluvio,"{'L0': 0.0, 'lluvia': 0.5}",royalroad,64,4,40000,30,1030,40000,52,64,False,
+aleatoria,{},deceptive,64,4,40000,1,1001,40000,41,64,False,
+aleatoria,{},deceptive,64,4,40000,2,1002,40000,40,64,False,
+aleatoria,{},deceptive,64,4,40000,3,1003,40000,41,64,False,
+aleatoria,{},deceptive,64,4,40000,4,1004,40000,40,64,False,
+aleatoria,{},deceptive,64,4,40000,5,1005,40000,43,64,False,
+aleatoria,{},deceptive,64,4,40000,6,1006,40000,41,64,False,
+aleatoria,{},deceptive,64,4,40000,7,1007,40000,41,64,False,
+aleatoria,{},deceptive,64,4,40000,8,1008,40000,41,64,False,
+aleatoria,{},deceptive,64,4,40000,9,1009,40000,39,64,False,
+aleatoria,{},deceptive,64,4,40000,10,1010,40000,39,64,False,
+aleatoria,{},deceptive,64,4,40000,11,1011,40000,44,64,False,
+aleatoria,{},deceptive,64,4,40000,12,1012,40000,41,64,False,
+aleatoria,{},deceptive,64,4,40000,13,1013,40000,40,64,False,
+aleatoria,{},deceptive,64,4,40000,14,1014,40000,39,64,False,
+aleatoria,{},deceptive,64,4,40000,15,1015,40000,41,64,False,
+aleatoria,{},deceptive,64,4,40000,16,1016,40000,40,64,False,
+aleatoria,{},deceptive,64,4,40000,17,1017,40000,38,64,False,
+aleatoria,{},deceptive,64,4,40000,18,1018,40000,41,64,False,
+aleatoria,{},deceptive,64,4,40000,19,1019,40000,38,64,False,
+aleatoria,{},deceptive,64,4,40000,20,1020,40000,40,64,False,
+aleatoria,{},deceptive,64,4,40000,21,1021,40000,39,64,False,
+aleatoria,{},deceptive,64,4,40000,22,1022,40000,40,64,False,
+aleatoria,{},deceptive,64,4,40000,23,1023,40000,39,64,False,
+aleatoria,{},deceptive,64,4,40000,24,1024,40000,38,64,False,
+aleatoria,{},deceptive,64,4,40000,25,1025,40000,40,64,False,
+aleatoria,{},deceptive,64,4,40000,26,1026,40000,39,64,False,
+aleatoria,{},deceptive,64,4,40000,27,1027,40000,43,64,False,
+aleatoria,{},deceptive,64,4,40000,28,1028,40000,41,64,False,
+aleatoria,{},deceptive,64,4,40000,29,1029,40000,43,64,False,
+aleatoria,{},deceptive,64,4,40000,30,1030,40000,40,64,False,
+escalador,{'aceptar_iguales': True},deceptive,64,4,40000,1,1001,40000,48,64,False,
+escalador,{'aceptar_iguales': True},deceptive,64,4,40000,2,1002,40000,48,64,False,
+escalador,{'aceptar_iguales': True},deceptive,64,4,40000,3,1003,40000,51,64,False,
+escalador,{'aceptar_iguales': True},deceptive,64,4,40000,4,1004,40000,48,64,False,
+escalador,{'aceptar_iguales': True},deceptive,64,4,40000,5,1005,40000,52,64,False,
+escalador,{'aceptar_iguales': True},deceptive,64,4,40000,6,1006,40000,49,64,False,
+escalador,{'aceptar_iguales': True},deceptive,64,4,40000,7,1007,40000,49,64,False,
+escalador,{'aceptar_iguales': True},deceptive,64,4,40000,8,1008,40000,51,64,False,
+escalador,{'aceptar_iguales': True},deceptive,64,4,40000,9,1009,40000,49,64,False,
+escalador,{'aceptar_iguales': True},deceptive,64,4,40000,10,1010,40000,48,64,False,
+escalador,{'aceptar_iguales': True},deceptive,64,4,40000,11,1011,40000,49,64,False,
+escalador,{'aceptar_iguales': True},deceptive,64,4,40000,12,1012,40000,49,64,False,
+escalador,{'aceptar_iguales': True},deceptive,64,4,40000,13,1013,40000,50,64,False,
+escalador,{'aceptar_iguales': True},deceptive,64,4,40000,14,1014,40000,50,64,False,
+escalador,{'aceptar_iguales': True},deceptive,64,4,40000,15,1015,40000,51,64,False,
+escalador,{'aceptar_iguales': True},deceptive,64,4,40000,16,1016,40000,50,64,False,
+escalador,{'aceptar_iguales': True},deceptive,64,4,40000,17,1017,40000,52,64,False,
+escalador,{'aceptar_iguales': True},deceptive,64,4,40000,18,1018,40000,48,64,False,
+escalador,{'aceptar_iguales': True},deceptive,64,4,40000,19,1019,40000,51,64,False,
+escalador,{'aceptar_iguales': True},deceptive,64,4,40000,20,1020,40000,49,64,False,
+escalador,{'aceptar_iguales': True},deceptive,64,4,40000,21,1021,40000,51,64,False,
+escalador,{'aceptar_iguales': True},deceptive,64,4,40000,22,1022,40000,49,64,False,
+escalador,{'aceptar_iguales': True},deceptive,64,4,40000,23,1023,40000,53,64,False,
+escalador,{'aceptar_iguales': True},deceptive,64,4,40000,24,1024,40000,50,64,False,
+escalador,{'aceptar_iguales': True},deceptive,64,4,40000,25,1025,40000,50,64,False,
+escalador,{'aceptar_iguales': True},deceptive,64,4,40000,26,1026,40000,50,64,False,
+escalador,{'aceptar_iguales': True},deceptive,64,4,40000,27,1027,40000,49,64,False,
+escalador,{'aceptar_iguales': True},deceptive,64,4,40000,28,1028,40000,49,64,False,
+escalador,{'aceptar_iguales': True},deceptive,64,4,40000,29,1029,40000,49,64,False,
+escalador,{'aceptar_iguales': True},deceptive,64,4,40000,30,1030,40000,52,64,False,
+recocido,"{'T0': 50.0, 'patron': 'presupuesto'}",deceptive,64,4,40000,1,1001,40000,58,64,False,
+recocido,"{'T0': 50.0, 'patron': 'presupuesto'}",deceptive,64,4,40000,2,1002,40000,54,64,False,
+recocido,"{'T0': 50.0, 'patron': 'presupuesto'}",deceptive,64,4,40000,3,1003,40000,58,64,False,
+recocido,"{'T0': 50.0, 'patron': 'presupuesto'}",deceptive,64,4,40000,4,1004,40000,56,64,False,
+recocido,"{'T0': 50.0, 'patron': 'presupuesto'}",deceptive,64,4,40000,5,1005,40000,55,64,False,
+recocido,"{'T0': 50.0, 'patron': 'presupuesto'}",deceptive,64,4,40000,6,1006,40000,55,64,False,
+recocido,"{'T0': 50.0, 'patron': 'presupuesto'}",deceptive,64,4,40000,7,1007,40000,62,64,False,
+recocido,"{'T0': 50.0, 'patron': 'presupuesto'}",deceptive,64,4,40000,8,1008,40000,56,64,False,
+recocido,"{'T0': 50.0, 'patron': 'presupuesto'}",deceptive,64,4,40000,9,1009,40000,59,64,False,
+recocido,"{'T0': 50.0, 'patron': 'presupuesto'}",deceptive,64,4,40000,10,1010,40000,61,64,False,
+recocido,"{'T0': 50.0, 'patron': 'presupuesto'}",deceptive,64,4,40000,11,1011,40000,57,64,False,
+recocido,"{'T0': 50.0, 'patron': 'presupuesto'}",deceptive,64,4,40000,12,1012,40000,55,64,False,
+recocido,"{'T0': 50.0, 'patron': 'presupuesto'}",deceptive,64,4,40000,13,1013,40000,58,64,False,
+recocido,"{'T0': 50.0, 'patron': 'presupuesto'}",deceptive,64,4,40000,14,1014,40000,58,64,False,
+recocido,"{'T0': 50.0, 'patron': 'presupuesto'}",deceptive,64,4,40000,15,1015,40000,57,64,False,
+recocido,"{'T0': 50.0, 'patron': 'presupuesto'}",deceptive,64,4,40000,16,1016,40000,53,64,False,
+recocido,"{'T0': 50.0, 'patron': 'presupuesto'}",deceptive,64,4,40000,17,1017,40000,54,64,False,
+recocido,"{'T0': 50.0, 'patron': 'presupuesto'}",deceptive,64,4,40000,18,1018,40000,60,64,False,
+recocido,"{'T0': 50.0, 'patron': 'presupuesto'}",deceptive,64,4,40000,19,1019,40000,58,64,False,
+recocido,"{'T0': 50.0, 'patron': 'presupuesto'}",deceptive,64,4,40000,20,1020,40000,55,64,False,
+recocido,"{'T0': 50.0, 'patron': 'presupuesto'}",deceptive,64,4,40000,21,1021,40000,56,64,False,
+recocido,"{'T0': 50.0, 'patron': 'presupuesto'}",deceptive,64,4,40000,22,1022,40000,60,64,False,
+recocido,"{'T0': 50.0, 'patron': 'presupuesto'}",deceptive,64,4,40000,23,1023,40000,56,64,False,
+recocido,"{'T0': 50.0, 'patron': 'presupuesto'}",deceptive,64,4,40000,24,1024,40000,52,64,False,
+recocido,"{'T0': 50.0, 'patron': 'presupuesto'}",deceptive,64,4,40000,25,1025,40000,60,64,False,
+recocido,"{'T0': 50.0, 'patron': 'presupuesto'}",deceptive,64,4,40000,26,1026,40000,58,64,False,
+recocido,"{'T0': 50.0, 'patron': 'presupuesto'}",deceptive,64,4,40000,27,1027,40000,56,64,False,
+recocido,"{'T0': 50.0, 'patron': 'presupuesto'}",deceptive,64,4,40000,28,1028,40000,57,64,False,
+recocido,"{'T0': 50.0, 'patron': 'presupuesto'}",deceptive,64,4,40000,29,1029,40000,57,64,False,
+recocido,"{'T0': 50.0, 'patron': 'presupuesto'}",deceptive,64,4,40000,30,1030,40000,53,64,False,
+umbral,"{'U0': 3.0, 'patron': 'presupuesto'}",deceptive,64,4,40000,1,1001,1368,64,64,True,1368.0
+umbral,"{'U0': 3.0, 'patron': 'presupuesto'}",deceptive,64,4,40000,2,1002,862,64,64,True,862.0
+umbral,"{'U0': 3.0, 'patron': 'presupuesto'}",deceptive,64,4,40000,3,1003,853,64,64,True,853.0
+umbral,"{'U0': 3.0, 'patron': 'presupuesto'}",deceptive,64,4,40000,4,1004,1209,64,64,True,1209.0
+umbral,"{'U0': 3.0, 'patron': 'presupuesto'}",deceptive,64,4,40000,5,1005,451,64,64,True,451.0
+umbral,"{'U0': 3.0, 'patron': 'presupuesto'}",deceptive,64,4,40000,6,1006,414,64,64,True,414.0
+umbral,"{'U0': 3.0, 'patron': 'presupuesto'}",deceptive,64,4,40000,7,1007,1128,64,64,True,1128.0
+umbral,"{'U0': 3.0, 'patron': 'presupuesto'}",deceptive,64,4,40000,8,1008,841,64,64,True,841.0
+umbral,"{'U0': 3.0, 'patron': 'presupuesto'}",deceptive,64,4,40000,9,1009,1402,64,64,True,1402.0
+umbral,"{'U0': 3.0, 'patron': 'presupuesto'}",deceptive,64,4,40000,10,1010,1170,64,64,True,1170.0
+umbral,"{'U0': 3.0, 'patron': 'presupuesto'}",deceptive,64,4,40000,11,1011,890,64,64,True,890.0
+umbral,"{'U0': 3.0, 'patron': 'presupuesto'}",deceptive,64,4,40000,12,1012,517,64,64,True,517.0
+umbral,"{'U0': 3.0, 'patron': 'presupuesto'}",deceptive,64,4,40000,13,1013,709,64,64,True,709.0
+umbral,"{'U0': 3.0, 'patron': 'presupuesto'}",deceptive,64,4,40000,14,1014,727,64,64,True,727.0
+umbral,"{'U0': 3.0, 'patron': 'presupuesto'}",deceptive,64,4,40000,15,1015,1304,64,64,True,1304.0
+umbral,"{'U0': 3.0, 'patron': 'presupuesto'}",deceptive,64,4,40000,16,1016,743,64,64,True,743.0
+umbral,"{'U0': 3.0, 'patron': 'presupuesto'}",deceptive,64,4,40000,17,1017,672,64,64,True,672.0
+umbral,"{'U0': 3.0, 'patron': 'presupuesto'}",deceptive,64,4,40000,18,1018,740,64,64,True,740.0
+umbral,"{'U0': 3.0, 'patron': 'presupuesto'}",deceptive,64,4,40000,19,1019,994,64,64,True,994.0
+umbral,"{'U0': 3.0, 'patron': 'presupuesto'}",deceptive,64,4,40000,20,1020,1394,64,64,True,1394.0
+umbral,"{'U0': 3.0, 'patron': 'presupuesto'}",deceptive,64,4,40000,21,1021,1702,64,64,True,1702.0
+umbral,"{'U0': 3.0, 'patron': 'presupuesto'}",deceptive,64,4,40000,22,1022,1454,64,64,True,1454.0
+umbral,"{'U0': 3.0, 'patron': 'presupuesto'}",deceptive,64,4,40000,23,1023,1002,64,64,True,1002.0
+umbral,"{'U0': 3.0, 'patron': 'presupuesto'}",deceptive,64,4,40000,24,1024,807,64,64,True,807.0
+umbral,"{'U0': 3.0, 'patron': 'presupuesto'}",deceptive,64,4,40000,25,1025,1600,64,64,True,1600.0
+umbral,"{'U0': 3.0, 'patron': 'presupuesto'}",deceptive,64,4,40000,26,1026,1192,64,64,True,1192.0
+umbral,"{'U0': 3.0, 'patron': 'presupuesto'}",deceptive,64,4,40000,27,1027,1362,64,64,True,1362.0
+umbral,"{'U0': 3.0, 'patron': 'presupuesto'}",deceptive,64,4,40000,28,1028,680,64,64,True,680.0
+umbral,"{'U0': 3.0, 'patron': 'presupuesto'}",deceptive,64,4,40000,29,1029,889,64,64,True,889.0
+umbral,"{'U0': 3.0, 'patron': 'presupuesto'}",deceptive,64,4,40000,30,1030,515,64,64,True,515.0
+rrt,{'D': 3},deceptive,64,4,40000,1,1001,3596,64,64,True,3596.0
+rrt,{'D': 3},deceptive,64,4,40000,2,1002,5555,64,64,True,5555.0
+rrt,{'D': 3},deceptive,64,4,40000,3,1003,1419,64,64,True,1419.0
+rrt,{'D': 3},deceptive,64,4,40000,4,1004,2462,64,64,True,2462.0
+rrt,{'D': 3},deceptive,64,4,40000,5,1005,12939,64,64,True,12939.0
+rrt,{'D': 3},deceptive,64,4,40000,6,1006,2480,64,64,True,2480.0
+rrt,{'D': 3},deceptive,64,4,40000,7,1007,1659,64,64,True,1659.0
+rrt,{'D': 3},deceptive,64,4,40000,8,1008,1772,64,64,True,1772.0
+rrt,{'D': 3},deceptive,64,4,40000,9,1009,3213,64,64,True,3213.0
+rrt,{'D': 3},deceptive,64,4,40000,10,1010,3413,64,64,True,3413.0
+rrt,{'D': 3},deceptive,64,4,40000,11,1011,7174,64,64,True,7174.0
+rrt,{'D': 3},deceptive,64,4,40000,12,1012,3192,64,64,True,3192.0
+rrt,{'D': 3},deceptive,64,4,40000,13,1013,1433,64,64,True,1433.0
+rrt,{'D': 3},deceptive,64,4,40000,14,1014,2035,64,64,True,2035.0
+rrt,{'D': 3},deceptive,64,4,40000,15,1015,5411,64,64,True,5411.0
+rrt,{'D': 3},deceptive,64,4,40000,16,1016,8224,64,64,True,8224.0
+rrt,{'D': 3},deceptive,64,4,40000,17,1017,1827,64,64,True,1827.0
+rrt,{'D': 3},deceptive,64,4,40000,18,1018,3690,64,64,True,3690.0
+rrt,{'D': 3},deceptive,64,4,40000,19,1019,10795,64,64,True,10795.0
+rrt,{'D': 3},deceptive,64,4,40000,20,1020,1813,64,64,True,1813.0
+rrt,{'D': 3},deceptive,64,4,40000,21,1021,1523,64,64,True,1523.0
+rrt,{'D': 3},deceptive,64,4,40000,22,1022,11300,64,64,True,11300.0
+rrt,{'D': 3},deceptive,64,4,40000,23,1023,1212,64,64,True,1212.0
+rrt,{'D': 3},deceptive,64,4,40000,24,1024,3428,64,64,True,3428.0
+rrt,{'D': 3},deceptive,64,4,40000,25,1025,2474,64,64,True,2474.0
+rrt,{'D': 3},deceptive,64,4,40000,26,1026,3373,64,64,True,3373.0
+rrt,{'D': 3},deceptive,64,4,40000,27,1027,10524,64,64,True,10524.0
+rrt,{'D': 3},deceptive,64,4,40000,28,1028,1891,64,64,True,1891.0
+rrt,{'D': 3},deceptive,64,4,40000,29,1029,7752,64,64,True,7752.0
+rrt,{'D': 3},deceptive,64,4,40000,30,1030,11074,64,64,True,11074.0
+diluvio,"{'L0': 0.0, 'lluvia': 0.5}",deceptive,64,4,40000,1,1001,40000,52,64,False,
+diluvio,"{'L0': 0.0, 'lluvia': 0.5}",deceptive,64,4,40000,2,1002,40000,49,64,False,
+diluvio,"{'L0': 0.0, 'lluvia': 0.5}",deceptive,64,4,40000,3,1003,40000,52,64,False,
+diluvio,"{'L0': 0.0, 'lluvia': 0.5}",deceptive,64,4,40000,4,1004,40000,51,64,False,
+diluvio,"{'L0': 0.0, 'lluvia': 0.5}",deceptive,64,4,40000,5,1005,40000,50,64,False,
+diluvio,"{'L0': 0.0, 'lluvia': 0.5}",deceptive,64,4,40000,6,1006,40000,49,64,False,
+diluvio,"{'L0': 0.0, 'lluvia': 0.5}",deceptive,64,4,40000,7,1007,40000,52,64,False,
+diluvio,"{'L0': 0.0, 'lluvia': 0.5}",deceptive,64,4,40000,8,1008,40000,48,64,False,
+diluvio,"{'L0': 0.0, 'lluvia': 0.5}",deceptive,64,4,40000,9,1009,40000,50,64,False,
+diluvio,"{'L0': 0.0, 'lluvia': 0.5}",deceptive,64,4,40000,10,1010,40000,53,64,False,
+diluvio,"{'L0': 0.0, 'lluvia': 0.5}",deceptive,64,4,40000,11,1011,40000,48,64,False,
+diluvio,"{'L0': 0.0, 'lluvia': 0.5}",deceptive,64,4,40000,12,1012,40000,51,64,False,
+diluvio,"{'L0': 0.0, 'lluvia': 0.5}",deceptive,64,4,40000,13,1013,40000,50,64,False,
+diluvio,"{'L0': 0.0, 'lluvia': 0.5}",deceptive,64,4,40000,14,1014,40000,52,64,False,
+diluvio,"{'L0': 0.0, 'lluvia': 0.5}",deceptive,64,4,40000,15,1015,40000,50,64,False,
+diluvio,"{'L0': 0.0, 'lluvia': 0.5}",deceptive,64,4,40000,16,1016,40000,54,64,False,
+diluvio,"{'L0': 0.0, 'lluvia': 0.5}",deceptive,64,4,40000,17,1017,40000,49,64,False,
+diluvio,"{'L0': 0.0, 'lluvia': 0.5}",deceptive,64,4,40000,18,1018,40000,52,64,False,
+diluvio,"{'L0': 0.0, 'lluvia': 0.5}",deceptive,64,4,40000,19,1019,40000,54,64,False,
+diluvio,"{'L0': 0.0, 'lluvia': 0.5}",deceptive,64,4,40000,20,1020,40000,50,64,False,
+diluvio,"{'L0': 0.0, 'lluvia': 0.5}",deceptive,64,4,40000,21,1021,40000,49,64,False,
+diluvio,"{'L0': 0.0, 'lluvia': 0.5}",deceptive,64,4,40000,22,1022,40000,50,64,False,
+diluvio,"{'L0': 0.0, 'lluvia': 0.5}",deceptive,64,4,40000,23,1023,40000,52,64,False,
+diluvio,"{'L0': 0.0, 'lluvia': 0.5}",deceptive,64,4,40000,24,1024,40000,51,64,False,
+diluvio,"{'L0': 0.0, 'lluvia': 0.5}",deceptive,64,4,40000,25,1025,40000,50,64,False,
+diluvio,"{'L0': 0.0, 'lluvia': 0.5}",deceptive,64,4,40000,26,1026,40000,52,64,False,
+diluvio,"{'L0': 0.0, 'lluvia': 0.5}",deceptive,64,4,40000,27,1027,40000,49,64,False,
+diluvio,"{'L0': 0.0, 'lluvia': 0.5}",deceptive,64,4,40000,28,1028,40000,50,64,False,
+diluvio,"{'L0': 0.0, 'lluvia': 0.5}",deceptive,64,4,40000,29,1029,40000,49,64,False,
+diluvio,"{'L0': 0.0, 'lluvia': 0.5}",deceptive,64,4,40000,30,1030,40000,49,64,False,

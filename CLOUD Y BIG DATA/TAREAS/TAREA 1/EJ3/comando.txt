@@ -1,0 +1,3 @@
+mapred streaming -D mapreduce.local.map.tasks.maximum=4 \
+-D mapreduce.local.reduce.tasks.maximum=4 -numReduceTasks 2 \
+-mapper "python3 mapper3.py" -reducer "python3 reducer3.py" -input Kindle_Store-small.csv -output output3

@@ -1,0 +1,7 @@
+mapred streaming -D mapreduce.local.map.tasks.maximum=4 \
+-D mapreduce.local.reduce.tasks.maximum=4 -numReduceTasks 2 \
+-mapper "python3 mapper4a.py" -reducer "python3 reducer4a.py" -input ratings.csv -output output4aux
+
+mapred streaming -D mapreduce.local.map.tasks.maximum=4 \
+-D mapreduce.local.reduce.tasks.maximum=4 -numReduceTasks 2 \
+-mapper cat -reducer "python3 reducer4b.py" -input output4aux -output output4

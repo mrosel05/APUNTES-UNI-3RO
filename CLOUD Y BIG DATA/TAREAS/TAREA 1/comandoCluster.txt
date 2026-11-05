@@ -1,0 +1,43 @@
+EJ1
+gcloud dataproc jobs submit hadoop --cluster=micluster \
+--jar=file:///usr/lib/hadoop/hadoop-streaming.jar -- -files \
+gs://$GOOGLE_CLOUD_PROJECT/t1/mapper1.py \
+-mapper "mapper1.py zoroaster" -reducer NONE \
+-input gs://cloudandbigdata/Gutenberg -output gs://$GOOGLE_CLOUD_PROJECT/t1/ej1
+
+
+EJ2
+gcloud dataproc jobs submit hadoop --cluster=micluster \
+--jar=file:///usr/lib/hadoop/hadoop-streaming.jar -- -files \
+gs://$GOOGLE_CLOUD_PROJECT/t1/mapper2a.py,gs://$GOOGLE_CLOUD_PROJECT/t1/reducer2a.py \
+-mapper mapper2a.py -reducer reducer2a.py \
+-input gs://cloudandbigdata/access_log -output gs://$GOOGLE_CLOUD_PROJECT/t1/ej2tmp
+
+gcloud dataproc jobs submit hadoop --cluster=micluster \
+--jar=file:///usr/lib/hadoop/hadoop-streaming.jar -- \
+-D mapreduce.job.reduces=1 \
+-files gs://$GOOGLE_CLOUD_PROJECT/t1/mapper2b.py \
+-mapper mapper2b.py -reducer mapper2b.py \
+-input gs://$GOOGLE_CLOUD_PROJECT/t1/ej2tmp -output gs://$GOOGLE_CLOUD_PROJECT/t1/ej2
+
+
+EJ3
+gcloud dataproc jobs submit hadoop --cluster=micluster \
+--jar=file:///usr/lib/hadoop/hadoop-streaming.jar -- -files \
+gs://$GOOGLE_CLOUD_PROJECT/t1/mapper3.py,gs://$GOOGLE_CLOUD_PROJECT/t1/reducer3.py \
+-mapper mapper3.py -reducer reducer3.py \
+-input gs://cloudandbigdata/Kindle_Store.csv -output gs://$GOOGLE_CLOUD_PROJECT/t1/ej3
+
+
+EJ4
+gcloud dataproc jobs submit hadoop --cluster=micluster \
+--jar=file:///usr/lib/hadoop/hadoop-streaming.jar -- -files \
+gs://$GOOGLE_CLOUD_PROJECT/t1/mapper4a.py,gs://$GOOGLE_CLOUD_PROJECT/t1/reducer4a.py \
+-mapper mapper4a.py -reducer reducer4a.py \
+-input gs://cloudandbigdata/ml-latest/ratings.csv -output gs://$GOOGLE_CLOUD_PROJECT/t1/ej4tmp
+
+gcloud dataproc jobs submit hadoop --cluster=micluster \
+--jar=file:///usr/lib/hadoop/hadoop-streaming.jar -- -files \
+gs://$GOOGLE_CLOUD_PROJECT/t1/reducer4b.py \
+-mapper cat -reducer reducer4b.py \
+-input gs://$GOOGLE_CLOUD_PROJECT/t1/ej4tmp -output gs://$GOOGLE_CLOUD_PROJECT/t1/ej4

@@ -1,0 +1,7 @@
+mapred streaming -D mapreduce.local.map.tasks.maximum=4 \
+-D mapreduce.local.reduce.tasks.maximum=4 -numReduceTasks 2 \
+-mapper "python3 mapper2a.py" -reducer "python3 reducer2a.py" -input access_log-small -output output2aux
+
+mapred streaming -D mapreduce.local.map.tasks.maximum=4 \
+-D mapreduce.local.reduce.tasks.maximum=4 -numReduceTasks 1 \
+-mapper "python3 mapper2b.py" -reducer "python3 mapper2b.py" -input output2aux -output output2

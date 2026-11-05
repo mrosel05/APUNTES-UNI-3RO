@@ -1,0 +1,15 @@
+Práctica 5 · Sistemas de reglas y lógica difusa · IA1 2026-27
+Tema: el emparejamiento (matchmaking) de un juego competitivo por equipos
+=========================================================================
+
+Ficheros
+  fc.py                Parte A. Motor de reglas con factores de certeza. RELLENAR los huecos.
+  base_matchmaking.py  Parte A. Base de conocimiento del emparejador y tres jugadores. AMPLIAR (A5).
+  difusa.py            Parte B. Inferencia difusa tipo Mamdani. RELLENAR los huecos.
+  emparejador.py       Parte B. Controlador difuso ratio + ranking → ajuste. No tocar.
+  mi_emparejador.py    Parte B. Vuestro segundo controlador. RELLENAR.
+  superficie.py        Parte B. Dibuja pertenencias y superficie de control. No tocar.
+  verificar.py         Comprobaciones. Ejecutar antes de entregar: python verificar.py
+
+Requisitos: Python 3.9 o superior; numpy y matplotlib solo para superficie.py.
+Entrega: apellido1_apellido2_lab5.zip con el código, las figuras y la memoria en PDF.
